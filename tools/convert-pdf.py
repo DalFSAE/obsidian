@@ -160,8 +160,102 @@ def split_title_content(text: str) -> tuple[str, str]:
     return "", text
 
 
+# Matches a standalone letter list marker: not preceded by letter/digit,
+# single lowercase letter, period, one or more spaces, then uppercase or '('
+_LETTER_MARKER_RE = re.compile(r"(?<![A-Za-z0-9])([a-z])\. +(?=[A-Z\(])")
+_BULLET_SPLIT_RE = re.compile(r"\s*•\s*")
+
+
+def _split_inline_lettered(text: str):
+    """
+    Detect and split an inline lettered list like "preamble: a. item b. item c. item".
+
+    Returns (lead_in: str, items: list[(letter, text)]) if a valid list is found,
+    or None if no list is detected.
+
+    A sequence is considered a valid list when:
+    - The letters are consecutive starting from 'a', OR
+    - There are ≥2 sequential letter markers (e.g. b. c. d.)
+    """
+    markers = list(_LETTER_MARKER_RE.finditer(text))
+    if not markers:
+        return None
+
+    letters = [m.group(1) for m in markers]
+
+    # Require letters to form a consecutive sequence
+    ords = [ord(l) for l in letters]
+    if not all(b == a + 1 for a, b in zip(ords, ords[1:])):
+        return None  # non-sequential → not a list
+
+    # Require at least 2 items OR a single 'a.' preceded by ':' or start-of-string
+    if len(markers) == 1:
+        before = text[: markers[0].start()].rstrip()
+        if letters[0] != "a" or (before and not before.endswith(":")):
+            return None
+
+    lead_in = text[: markers[0].start()].rstrip()
+    items = []
+    for idx, m in enumerate(markers):
+        start = m.end()
+        end = markers[idx + 1].start() if idx + 1 < len(markers) else len(text)
+        items.append((m.group(1), text[start:end].strip()))
+
+    return lead_in, items
+
+
+def expand_block(text: str) -> list[str]:
+    """
+    Expand a text block that may contain inline lists into separate markdown lines.
+
+    Handles:
+    - Lettered lists:   "must: a. Be hot b. Be cold"
+                        → ["must:", "", "a. Be hot", "b. Be cold"]
+    - Nested bullets:   "b. Conditions: • Case 1 • Case 2"
+                        → ["b. Conditions:", "   - Case 1", "   - Case 2"]
+    - Bare bullet list: "• item1 • item2"
+                        → ["- item1", "- item2"]
+    - Leading bullet:   "• item"   → ["- item"]
+    """
+    if not text.strip():
+        return [text]
+
+    list_data = _split_inline_lettered(text)
+    if list_data:
+        lead_in, items = list_data
+        out = []
+        if lead_in:
+            out.append(lead_in)
+            out.append("")
+        for letter, item_text in items:
+            if "•" in item_text:
+                parts = _BULLET_SPLIT_RE.split(item_text)
+                item_lead = parts[0].rstrip()
+                bullets = [p.strip() for p in parts[1:] if p.strip()]
+                out.append(f"{letter}. {item_lead}" if item_lead else f"{letter}.")
+                for b in bullets:
+                    out.append(f"   - {b}")
+            else:
+                out.append(f"{letter}. {item_text}")
+        return out
+
+    # No lettered list — handle inline/leading bullets
+    if "•" in text:
+        parts = _BULLET_SPLIT_RE.split(text)
+        out = []
+        lead = parts[0].rstrip()
+        if lead:
+            out.append(lead)
+        for p in parts[1:]:
+            if p.strip():
+                out.append(f"- {p.strip()}")
+        return out if out else [text]
+
+    return [text]
+
+
 def convert_bullets(lines: list[str]) -> list[str]:
-    """Replace • bullet characters with markdown - bullets."""
+    """Replace any remaining • bullet characters at the start of a line with - ."""
     result = []
     for line in lines:
         stripped = line.lstrip()
@@ -271,17 +365,33 @@ def process_section_lines(lines: list[str]) -> list[str]:
                 title, body = split_title_content(full_text)
 
                 if title:
-                    # e.g. "#### VE.3.3.3 Balaclava"  then body as paragraph
+                    # Named item: short heading, then body as paragraph/list
                     result.append(f"{heading_prefix} {rule_id} {title}")
                     result.append("")
                     if body:
-                        result.append(body)
+                        result.extend(expand_block(body))
+                    result.append("")
                 elif full_text:
-                    # No separate title — whole text is the rule sentence
-                    result.append(f"{heading_prefix} {rule_id} {full_text}")
+                    # No named title — check whether the text contains an inline list
+                    list_data = _split_inline_lettered(full_text)
+                    if list_data:
+                        lead_in, _ = list_data
+                        if lead_in:
+                            result.append(f"{heading_prefix} {rule_id} {lead_in}")
+                        else:
+                            result.append(f"{heading_prefix} {rule_id}")
+                        result.append("")
+                        # emit list items (expand_block returns [lead_in, "", item, ...])
+                        # skip the lead_in line(s) since they're already in the heading
+                        for expanded in expand_block(full_text):
+                            if expanded != lead_in:
+                                result.append(expanded)
+                    else:
+                        result.append(f"{heading_prefix} {rule_id} {full_text}")
+                    result.append("")
                 else:
                     result.append(f"{heading_prefix} {rule_id}")
-                result.append("")
+                    result.append("")
                 i = j  # skip the consumed continuation lines
             else:
                 # Section/subsection heading: inline text is just the title.
@@ -294,7 +404,8 @@ def process_section_lines(lines: list[str]) -> list[str]:
                 result.append("")
                 i += 1
         else:
-            result.append(line)
+            # Regular body paragraph — expand any inline lists/bullets
+            result.extend(expand_block(line))
             i += 1
 
     result = convert_bullets(result)
