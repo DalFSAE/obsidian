@@ -4,8 +4,8 @@ import re
 from pypdf import PdfReader
 
 
-PDF_PATH = Path("FSAE_Rules_2026_V1.pdf")
-OUT_DIR = Path("fsae_rules_2026_md")
+PDF_PATH = Path(__file__).parent.parent / "PDFs" / "FSAE_Rules_2026_V1.pdf"
+OUT_DIR = Path(__file__).parent.parent / "FSAE Rules 2026 V1"
 OUT_DIR.mkdir(exist_ok=True)
 
 # Top-level section codes in the rules
@@ -100,6 +100,64 @@ def depth_to_heading(depth: int) -> str:
     # Clamp between 2 and 5 hashes
     hashes = min(max(depth + 1, 2), 5)
     return "#" * hashes
+
+
+# Words that signal the START of a sentence (not a title word)
+_SENTENCE_STARTERS = {
+    "A", "An", "The", "All", "Each", "Any", "Every", "Some", "No",
+    "This", "These", "Those", "If", "When", "Where",
+}
+
+
+def split_title_content(text: str) -> tuple[str, str]:
+    """
+    Try to split a rule's inline text into (short_title, body_text).
+
+    Returns ("", full_text) when no title can be detected — meaning the
+    entire text is the rule sentence and should stay as body content.
+
+    Detects three patterns where a title precedes the body:
+      1. Article/determiner starts the body:
+            "Driver Suit A one piece suit..."  →  ("Driver Suit", "A one piece suit...")
+      2. First title word is repeated at the start of the body:
+            "Socks Socks made from..."          →  ("Socks", "Socks made from...")
+      3. Enumeration marker (a., b., ...) starts the body:
+            "Arm Restraints a. Arm restraints…" →  ("Arm Restraints", "a. Arm restraints…")
+
+    Non-title sentences (no split) are detected when:
+      • The first word is itself a sentence-starter ("The", "Each", …)
+      • The first word leads directly into a lowercase word ("Teams will", "SAE … and")
+    """
+    words = text.split()
+    if not words:
+        return "", ""
+
+    # Content that starts with an article/determiner is a sentence from word 0
+    if words[0] in _SENTENCE_STARTERS or words[0][0].islower():
+        return "", text
+
+    split_at = None
+    for i in range(1, min(7, len(words))):
+        w = words[i]
+
+        if w in _SENTENCE_STARTERS:          # e.g. "Driver Suit  A  one piece…"
+            split_at = i
+            break
+
+        if w.lower() == words[i - 1].lower():  # e.g. "Socks  Socks  made from…"
+            split_at = i
+            break
+
+        if re.match(r"^[a-z]\.$", w):          # e.g. "Arm Restraints  a.  …"
+            split_at = i
+            break
+
+        if w[0].islower():                     # lowercase word ends the title region
+            break                              # no sentence-starter found → no split
+
+    if split_at:
+        return " ".join(words[:split_at]), " ".join(words[split_at:])
+    return "", text
 
 
 def convert_bullets(lines: list[str]) -> list[str]:
@@ -210,7 +268,16 @@ def process_section_lines(lines: list[str]) -> list[str]:
                     j += 1
 
                 full_text = " ".join(parts)
-                if full_text:
+                title, body = split_title_content(full_text)
+
+                if title:
+                    # e.g. "#### VE.3.3.3 Balaclava"  then body as paragraph
+                    result.append(f"{heading_prefix} {rule_id} {title}")
+                    result.append("")
+                    if body:
+                        result.append(body)
+                elif full_text:
+                    # No separate title — whole text is the rule sentence
                     result.append(f"{heading_prefix} {rule_id} {full_text}")
                 else:
                     result.append(f"{heading_prefix} {rule_id}")

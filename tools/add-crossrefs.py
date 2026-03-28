@@ -13,7 +13,7 @@ clickable markdown link pointing to the correct heading in the correct file.
 from pathlib import Path
 import re
 
-MD_DIR = Path("fsae_rules_2026_md")
+MD_DIR = Path(__file__).parent.parent / "FSAE Rules 2026 V1"
 
 SECTION_CODES = ["GR", "AD", "PS", "VE", "EV", "IC", "IN", "V", "F", "T", "S", "D"]
 
