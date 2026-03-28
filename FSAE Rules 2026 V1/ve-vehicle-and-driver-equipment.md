@@ -7,25 +7,25 @@
 #### VE.1.1.1 The assigned vehicle number must appear on the vehicle as follows:
 
 
-a. Locations: in three places, on the front of the chassis and the left and right sides
-b. Height: 150 mm minimum
-c. Font:  Block numbers (sans serif characters without italic, outline, shadow, or cursive numbers)
-d. Stroke Width and Spacing between numbers:  18 mm minimum
-e. Color:  White numbers on a black background OR black numbers on a white background
-f. Background: round, oval, square or rectangular
-g. Spacing: 25 mm minimum between the edge of the numbers and the edge of the background
-h. The numbers must not be obscured by parts of the vehicle
+- a. Locations: in three places, on the front of the chassis and the left and right sides
+- b. Height: 150 mm minimum
+- c. Font:  Block numbers (sans serif characters without italic, outline, shadow, or cursive numbers)
+- d. Stroke Width and Spacing between numbers:  18 mm minimum
+- e. Color:  White numbers on a black background OR black numbers on a white background
+- f. Background: round, oval, square or rectangular
+- g. Spacing: 25 mm minimum between the edge of the numbers and the edge of the background
+- h. The numbers must not be obscured by parts of the vehicle
 
 #### VE.1.1.2 Additional letters or numerals must not show before or after the vehicle number
 
 ### VE.1.2 School Name
 
 Each vehicle must clearly display the school name.
-a. Abbreviations are permitted if unique and generally recognized
-b. The name must be in Roman characters minimum 50 mm high on the left and right sides
+- a. Abbreviations are permitted if unique and generally recognized
+- b. The name must be in Roman characters minimum 50 mm high on the left and right sides
 of the vehicle.
-c. The characters must be put on a high contrast background in an easily visible location
-d. The school name may also appear in non Roman characters, but the Roman character
+- c. The characters must be put on a high contrast background in an easily visible location
+- d. The school name may also appear in non Roman characters, but the Roman character
 version must be uppermost on the sides.
 ### VE.1.3 SAE Logo
 
@@ -52,44 +52,44 @@ The vehicle must have space for the Inspection Sticker(s) [IN.15.2](in-technical
 #### VE.2.1.2 The Jacking Point must be:
 
 
-a. Capable of supporting the vehicle weight and of engaging the Quick Jacks shown on the Event Website
-b. Visible to a person standing 1 m behind the vehicle
-c. Color:  Orange
-d. Oriented laterally and perpendicular to the centerline of the vehicle
-e. Made from round, 25 - 30 mm OD aluminum or steel tube
-f. Exposed around the lower 180° of its circumference over a minimum length of 280 mm
-g. Access from the rear of the tube must be unobstructed for 300 mm or more of its length
-h. The height of the tube must give 75 mm minimum clearance from the bottom of the tube to the ground
-i. When the vehicle is raised to where the bottom of the tube is 200 mm above ground, the wheels do not touch the ground when they are in full rebound
+- a. Capable of supporting the vehicle weight and of engaging the Quick Jacks shown on the Event Website
+- b. Visible to a person standing 1 m behind the vehicle
+- c. Color:  Orange
+- d. Oriented laterally and perpendicular to the centerline of the vehicle
+- e. Made from round, 25 - 30 mm OD aluminum or steel tube
+- f. Exposed around the lower 180° of its circumference over a minimum length of 280 mm
+- g. Access from the rear of the tube must be unobstructed for 300 mm or more of its length
+- h. The height of the tube must give 75 mm minimum clearance from the bottom of the tube to the ground
+- i. When the vehicle is raised to where the bottom of the tube is 200 mm above ground, the wheels do not touch the ground when they are in full rebound
 
 ### VE.2.2 Push Bar
 
 Each vehicle must have a removable device which attaches to the rear of the vehicle that:
-a. Lets two people, standing erect behind the vehicle, to push the vehicle around the
+- a. Lets two people, standing erect behind the vehicle, to push the vehicle around the
 competition site
-b. Is capable of slowing and stopping the forward motion of the vehicle and pulling it
+- b. Is capable of slowing and stopping the forward motion of the vehicle and pulling it
 rearwards
 ### VE.2.3 Fire Extinguisher
 
 #### VE.2.3.1 Each team must have two or more fire extinguishers.
 
 
-a. One extinguisher must readily be available in the team’s paddock area
-b. One extinguisher must accompany the vehicle when moved using the Push Bar A commercially available on board fire system may be used instead of the fire extinguisher that accompanies the vehicle
+- a. One extinguisher must readily be available in the team’s paddock area
+- b. One extinguisher must accompany the vehicle when moved using the Push Bar A commercially available on board fire system may be used instead of the fire extinguisher that accompanies the vehicle
 
 #### VE.2.3.2 Hand held fire extinguishers must NOT be mounted on or in the vehicle
 
 #### VE.2.3.3 Each fire extinguisher must meet these:
 
 
-a. Capacity: 0.9 kg (2 lbs)
-b. Working Medium:  Dry chemical/dry powder.  Aqueous Film Forming Foam (AFFF) and Halon extinguishers and systems are prohibited.
-c. Equipped with a manufacturer installed pressure/charge gauge.
-d. Minimum acceptable ratings:
-   - USA, Canada & Brazil: 10BC or 1A 10BC
-   - Europe: 34B or 5A 34B
-   - Australia: 20BE or 1A 10BE
-e. Extinguishers of larger capacity (higher numerical ratings) are acceptable.
+- a. Capacity: 0.9 kg (2 lbs)
+- b. Working Medium:  Dry chemical/dry powder.  Aqueous Film Forming Foam (AFFF) and Halon extinguishers and systems are prohibited.
+- c. Equipped with a manufacturer installed pressure/charge gauge.
+- d. Minimum acceptable ratings:
+  - USA, Canada & Brazil: 10BC or 1A 10BC
+  - Europe: 34B or 5A 34B
+  - Australia: 20BE or 1A 10BE
+- e. Extinguishers of larger capacity (higher numerical ratings) are acceptable.
 
 ### VE.2.4 Electrical Equipment (EV Only)
 
@@ -116,9 +116,9 @@ These items must accompany the vehicle at all times:
 #### VE.3.1.1 Any Driver Equipment:
 
 
-a. Must be in good condition with no tears, rips, open seams, areas of significant wear, abrasions or stains which might compromise performance.
-b. Must fit properly
-c. May be inspected at any time
+- a. Must be in good condition with no tears, rips, open seams, areas of significant wear, abrasions or stains which might compromise performance.
+- b. Must fit properly
+- c. May be inspected at any time
 
 #### VE.3.1.2 Flame Resistant Material For this section some, but not all, of the approved materials are: Carbon X, Indura, Nomex, Polybenzimidazole (common name PBI) and Proban.
 
@@ -131,17 +131,17 @@ c. May be inspected at any time
 #### VE.3.2.1 The driver must wear a helmet which:
 
 
-a. Is closed face with an integral, immovable chin guard
-b. Contains an integrated visor/face shield supplied with the helmet
-c. Meets an approved standard
-d. Is properly labeled for that standard
+- a. Is closed face with an integral, immovable chin guard
+- b. Contains an integrated visor/face shield supplied with the helmet
+- c. Meets an approved standard
+- d. Is properly labeled for that standard
 
 #### VE.3.2.2 Acceptable helmet standards are listed below.  Any additional approved standards are shown on the Technical Inspection Form or the FAQ on the Event Website
 
 
-a. Snell K2015, K2020, M2015, M2020D, M2020R, M2025D, M2025R, SA2015, SA2020, SA2025
-b. SFI Specs 31.1/2015, 41.1/2015
-c. FIA Standards  FIA 8860-2010 (or newer), FIA 8859-2015 (or newer)
+- a. Snell K2015, K2020, M2015, M2020D, M2020R, M2025D, M2025R, SA2015, SA2020, SA2025
+- b. SFI Specs 31.1/2015, 41.1/2015
+- c. FIA Standards  FIA 8860-2010 (or newer), FIA 8859-2015 (or newer)
 
 
 ### VE.3.3 Driver Gear
@@ -181,6 +181,5 @@ Gloves made from Flame Resistant Material. Gloves of all leather construction or
 
 #### VE.3.3.7 Arm Restraints
 
-a. Arm restraints must be worn in a way that the driver can release them and exit the vehicle unassisted regardless of the vehicle’s position.
-b. Arm restraints must be commercially manufactured. Arm restraints certified to SFI Spec 3.3 and labeled as such meet this requirement.
-
+- a. Arm restraints must be worn in a way that the driver can release them and exit the vehicle unassisted regardless of the vehicle’s position.
+- b. Arm restraints must be commercially manufactured. Arm restraints certified to SFI Spec 3.3 and labeled as such meet this requirement.

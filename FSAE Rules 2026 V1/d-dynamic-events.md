@@ -29,8 +29,8 @@ Any area(s) inside the Dynamic Area prior to the entry to an event for the purpo
 #### D.2.1.2 The team may move the vehicle with
 
 
-a. All four wheels on the ground
-b. The rear wheels supported on dollies, by push bar mounted wheels The external wheels supporting the rear of the vehicle must be non pivoting so the vehicle travels only where the front wheels are steered.   The driver must always be able to steer and brake the vehicle normally.
+- a. All four wheels on the ground
+- b. The rear wheels supported on dollies, by push bar mounted wheels The external wheels supporting the rear of the vehicle must be non pivoting so the vehicle travels only where the front wheels are steered.   The driver must always be able to steer and brake the vehicle normally.
 
 #### D.2.1.3 When the Push Bar is attached, the engine must stay off, unless authorized by the officials
 
@@ -47,12 +47,12 @@ b. The rear wheels supported on dollies, by push bar mounted wheels The external
 ### D.2.3 Powertrain Operation
 
 In the paddock, (IC) Engines may be run or (EV) Tractive System may be Active if all three:
-a. (IC Only) The vehicle has passed Technical Inspection up to and including the Tilt Test OR
+- a. (IC Only) The vehicle has passed Technical Inspection up to and including the Tilt Test OR
 a Technical Inspector gives permission
 (EV only) The vehicle shows the OK to Energize sticker  [IN.10.4](in-technical-inspection.md#in104-active-inspection-ev-active-completion)
-b. The vehicle is supported on a stand
+- b. The vehicle is supported on a stand
 
-c. The drive wheels are minimum 10 cm off the ground, OR the drive wheels are removed
+- c. The drive wheels are minimum 10 cm off the ground, OR the drive wheels are removed
 ## D.3 Driving
 
 ### D.3.1 Drivers Meetings – Attendance Required
@@ -83,8 +83,8 @@ competition will be excluded from the competition.
 #### D.3.5.1 All Driver Equipment and Harness must be worn by the driver anytime in the cockpit with:
 
 
-a. (IC) Engine running or (EV) Tractive System Active
-b. Anytime between starting a Dynamic run and finishing or abandoning that Dynamic run
+- a. (IC) Engine running or (EV) Tractive System Active
+- b. Anytime between starting a Dynamic run and finishing or abandoning that Dynamic run
 
 #### D.3.5.2 Removal of any Driver Equipment during a Dynamic event will result in Disqualification.
 
@@ -159,7 +159,11 @@ Any specific variations will be addressed at the drivers meeting.
 
 ### D.5.2 Operating Conditions
 
-#### D.5.2.1 These operating conditions will be recognized: • Dry • Damp • Wet
+#### D.5.2.1 These operating conditions will be recognized:
+
+- Dry
+- Damp
+- Wet
 
 #### D.5.2.2 The current operating condition will be decided by the Officials and may change at any time.
 
@@ -174,8 +178,8 @@ Any specific variations will be addressed at the drivers meeting.
 #### D.6.1.2 When the operating condition is Damp, teams may change between Dry Tires and Wet Tires:
 
 
-a. Any time during the Acceleration, Skidpad, and Autocross Events
-b. Any time before starting their Endurance Event
+- a. Any time during the Acceleration, Skidpad, and Autocross Events
+- b. Any time before starting their Endurance Event
 
 ### D.6.2 Tire Changes during Endurance
 
@@ -196,14 +200,14 @@ C may change from Wet to Dry NO
 #### D.6.2.4 Time permitted to change tires:
 
 
-a. Change to Wet Tires - Any time in excess of 10 minutes without driver change, or 13 minutes with Driver Change, will be added to the team's total time for Endurance
-b. Change to Dry Tires - The time used to change to Dry Tires will be added to the team’s total time for Endurance
+- a. Change to Wet Tires - Any time in excess of 10 minutes without driver change, or 13 minutes with Driver Change, will be added to the team's total time for Endurance
+- b. Change to Dry Tires - The time used to change to Dry Tires will be added to the team’s total time for Endurance
 
 #### D.6.2.5 If the vehicle has a tire puncture,
 
 
-a. The wheel and tire may be replaced with an identical wheel and tire
-b. When the puncture is caused by track debris and not a result of component failure or the vehicle itself, the tire change time will not count towards the team’s total time.
+- a. The wheel and tire may be replaced with an identical wheel and tire
+- b. When the puncture is caused by track debris and not a result of component failure or the vehicle itself, the tire change time will not count towards the team’s total time.
 
 ## D.7 Driver Limitations
 
@@ -218,8 +222,8 @@ b. When the puncture is caused by track debris and not a result of component fai
 #### D.8.1.1 DOO - Cone is Down or Out when one or the two:
 
 
-a. Cone has been knocked over (Down)
-b. The entire base of the cone lies outside the box marked around the cone in its undisturbed position (Out)
+- a. Cone has been knocked over (Down)
+- b. The entire base of the cone lies outside the box marked around the cone in its undisturbed position (Out)
 
 #### D.8.1.2 DNF - Did Not Finish –
 
@@ -239,8 +243,8 @@ The path marked by cones which establishes the required path the vehicle must go
 
 #### D.8.1.7 OC – Off Course
 
-a. The vehicle did not pass through a gate in the required direction.
-b. The vehicle has all four wheels outside the course boundary as indicated by cones, edge marking or the edge of the paved surface. Where more than one boundary indicator is used on the same course, the narrowest track will be used when determining Off Course penalties.
+- a. The vehicle did not pass through a gate in the required direction.
+- b. The vehicle has all four wheels outside the course boundary as indicated by cones, edge marking or the edge of the paved surface. Where more than one boundary indicator is used on the same course, the narrowest track will be used when determining Off Course penalties.
 
 ## D.9 Acceleration Event
 
@@ -265,10 +269,10 @@ The Acceleration event evaluates the vehicle acceleration in a straight line on 
 #### D.9.2.3 Each Acceleration run is done as follows:
 
 
-a. The foremost part of the vehicle will be staged at 0.30 m behind the starting line
-b. A Green Flag or light signal will give the approval to begin the run
-c. Timing starts when the vehicle crosses the starting line
-d. Timing ends when the vehicle crosses the finish line
+- a. The foremost part of the vehicle will be staged at 0.30 m behind the starting line
+- b. A Green Flag or light signal will give the approval to begin the run
+- c. Timing starts when the vehicle crosses the starting line
+- d. Timing ends when the vehicle crosses the finish line
 
 #### D.9.2.4 Each driver may go to the front of the staging line immediately after their first run to make a second run
 
@@ -280,7 +284,12 @@ d. Timing ends when the vehicle crosses the finish line
 
 ### D.9.4 Acceleration Scoring
 
-#### D.9.4.1 Scoring Term Definitions: • Corrected Time = Acceleration Run Time + ( DOO * 2 ) • Tyour  -  the best Corrected Time for the team • Tmin  -  the lowest Corrected Time recorded for any team • Tmax  - 150% of Tmin
+#### D.9.4.1 Scoring Term Definitions:
+
+- Corrected Time = Acceleration Run Time + ( DOO * 2 )
+- Tyour  -  the best Corrected Time for the team
+- Tmin  -  the lowest Corrected Time recorded for any team
+- Tmax  - 150% of Tmin
 
 #### D.9.4.2 When Tyour < Tmax. the team score is calculated as: Acceleration Score = 95.5  x ( Tmax / Tyour ) -1 + 4.5 ( Tmax / Tmin ) -1
 
@@ -292,23 +301,27 @@ The Skidpad event measures the vehicle cornering ability on a flat surface while
 constant radius turn.
 ### D.10.1 Skidpad Layout
 
-#### D.10.1.1 Course Design • Two pairs of concentric circles in a figure of eight pattern • Centers of the circles  18.25 m apart • Inner circles   15.25 m in diameter
+#### D.10.1.1 Course Design
+
+- Two pairs of concentric circles in a figure of eight pattern
+- Centers of the circles  18.25 m apart
+- Inner circles   15.25 m in diameter
 
 
 - Outer circles   21.25 m in diameter
 - Driving path   the 3.0 m wide path between the inner and outer circles
 #### D.10.1.2 Cone Placement
 
-a. Sixteen (16) or seventeen (17) pylons will be put around the inside of each inner circle and thirteen (13) pylons will be positioned around the outside of each outer circle in the pattern shown in the Skidpad layout diagram
-b. Each circle will be marked with a chalk line, inside the inner circle and outside the outer circle The Skidpad layout diagram shows the circles for cone placement, not for course marking. Chalk lines are marked on the opposite side of the cones, outside the driving path
-c. Additional pylons will establish the entry and exit gates
-d. A cone may be put in the middle of the exit gate until the finish lap
+- a. Sixteen (16) or seventeen (17) pylons will be put around the inside of each inner circle and thirteen (13) pylons will be positioned around the outside of each outer circle in the pattern shown in the Skidpad layout diagram
+- b. Each circle will be marked with a chalk line, inside the inner circle and outside the outer circle The Skidpad layout diagram shows the circles for cone placement, not for course marking. Chalk lines are marked on the opposite side of the cones, outside the driving path
+- c. Additional pylons will establish the entry and exit gates
+- d. A cone may be put in the middle of the exit gate until the finish lap
 
 #### D.10.1.3 Course Operation
 
-a. Vehicles will enter and exit through gates on a 3.0 m wide path that is tangential to the circles where they meet.
-b. The line between the centers of the circles defines the start/stop line.
-c. A lap is defined as traveling around one of the circles from the start/stop line and returning to the start/stop line.
+- a. Vehicles will enter and exit through gates on a 3.0 m wide path that is tangential to the circles where they meet.
+- b. The line between the centers of the circles defines the start/stop line.
+- c. A lap is defined as traveling around one of the circles from the start/stop line and returning to the start/stop line.
 
 
 ### D.10.2 Skidpad Procedure
@@ -320,23 +333,13 @@ c. A lap is defined as traveling around one of the circles from the start/stop l
 #### D.10.2.3 Each Skidpad run is done as follows:
 
 
-a. A Green Flag or light signal will give the approval to begin the run
+- a. A Green Flag or light signal will give the approval to begin the run
+- b. The vehicle will enter perpendicular to the figure eight and go one full lap on the right circle
+- c. The next lap will be on the right circle and will be timed
+- d. Immediately after the second lap, the vehicle will enter the left circle for the third lap
+- e. The fourth lap will be on the left circle and will be timed
+- f. Immediately upon finishing the fourth lap, the vehicle will exit the track. The exit is at the intersection moving in the same direction as entered
 
-
-
-
-
-
-
-
-
-b. The vehicle will enter perpendicular to the figure eight and go one full lap on the right
-circle
-c. The next lap will be on the right circle and will be timed
-d. Immediately after the second lap, the vehicle will enter the left circle for the third lap
-e. The fourth lap will be on the left circle and will be timed
-f. Immediately upon finishing the fourth lap, the vehicle will exit the track. The exit is at the
-intersection moving in the same direction as entered
 #### D.10.2.4 Each driver may go to the front of the staging line immediately after their first run to make a second run
 
 ### D.10.3 Skidpad Penalties
@@ -351,7 +354,12 @@ A 0.125 second penalty for each DOO (including entry and exit gate cones) on tha
 
 ### D.10.4 Skidpad Scoring
 
-#### D.10.4.1 Scoring Term Definitions • Corrected Time = ( Right Lap Time + Left Lap Time ) / 2 + ( DOO * 0.125 ) • Tyour  -  the best Corrected Time for the team • Tmin  -  is the lowest Corrected Time recorded for any team • Tmax  -  125% of Tmin
+#### D.10.4.1 Scoring Term Definitions
+
+- Corrected Time = ( Right Lap Time + Left Lap Time ) / 2 + ( DOO * 0.125 )
+- Tyour  -  the best Corrected Time for the team
+- Tmin  -  is the lowest Corrected Time recorded for any team
+- Tmax  -  125% of Tmin
 
 #### D.10.4.2 When Tyour < Tmax. the team score is calculated as: Skidpad Score = 71.5  x ( Tmax / Tyour )2 -1 + 3.5 ( Tmax / Tmin )2 -1
 
@@ -366,16 +374,15 @@ course
 #### D.11.1.1 The Autocross course will be designed with these specifications.  Average speeds should be 40 km/hr to 48 km/hr
 
 
-a. Straights:  No longer than 60 m with hairpins at the two ends
-b. Straights:  No longer than 45 m with wide turns on the ends
-c. Constant Turns:  23 m to 45 m diameter
-d. Hairpin Turns:  9 m minimum outside diameter (of the turn)
+- a. Straights:  No longer than 60 m with hairpins at the two ends
+- b. Straights:  No longer than 45 m with wide turns on the ends
+- c. Constant Turns:  23 m to 45 m diameter
+- d. Hairpin Turns:  9 m minimum outside diameter (of the turn)
+- e. Slaloms:  Cones in a straight line with 7.62 m to 12.19 m spacing
+- f. Miscellaneous:  Chicanes, multiple turns, decreasing radius turns, etc.
+- g. Minimum track width: 3.5 m
+- h. Length of each run should be approximately 0.80 km
 
-
-e. Slaloms:  Cones in a straight line with 7.62 m to 12.19 m spacing
-f. Miscellaneous:  Chicanes, multiple turns, decreasing radius turns, etc.
-g. Minimum track width: 3.5 m
-h. Length of each run should be approximately 0.80 km
 #### D.11.1.2 The Autocross course specifications may deviate from the above to accommodate event site requirements.
 
 ### D.11.2 Autocross Procedure
@@ -387,10 +394,10 @@ h. Length of each run should be approximately 0.80 km
 #### D.11.2.3 Each Autocross run is done as follows:
 
 
-a. The vehicle will be staged at a specific distance behind the starting line
-b. A Green Flag or light signal will give the approval to begin the run
-c. Timing starts when the vehicle crosses the starting line
-d. Timing ends when the vehicle crosses the finish line
+- a. The vehicle will be staged at a specific distance behind the starting line
+- b. A Green Flag or light signal will give the approval to begin the run
+- c. Timing starts when the vehicle crosses the starting line
+- d. Timing ends when the vehicle crosses the finish line
 
 #### D.11.2.4 Each driver may go to the front of the staging line immediately after their first run to make a second run
 
@@ -400,14 +407,19 @@ d. Timing ends when the vehicle crosses the finish line
 
 #### D.11.3.2 Off Course (OC)
 
-a. When an OC occurs, the driver must reenter the track at or prior to the point of exit or receive a 20 second penalty
-b. Penalties will not be assessed to bypass an accident or other reasons at the discretion of track officials.
+- a. When an OC occurs, the driver must reenter the track at or prior to the point of exit or receive a 20 second penalty
+- b. Penalties will not be assessed to bypass an accident or other reasons at the discretion of track officials.
 
 #### D.11.3.3 Missed Slalom Missing one or more gates of a given slalom will be counted as one Off Course
 
 ### D.11.4 Autocross Scoring
 
-#### D.11.4.1 Scoring Term Definitions: • Corrected Time = Autocross Run Time + ( DOO * 2 ) + ( OC * 20 ) • Tyour  -  the best Corrected Time for the team • Tmin  -  the lowest Corrected Time recorded for any team • Tmax  - 145% of Tmin
+#### D.11.4.1 Scoring Term Definitions:
+
+- Corrected Time = Autocross Run Time + ( DOO * 2 ) + ( OC * 20 )
+- Tyour  -  the best Corrected Time for the team
+- Tmin  -  the lowest Corrected Time recorded for any team
+- Tmax  - 145% of Tmin
 
 #### D.11.4.2 When Tyour < Tmax. the team score is calculated as: Autocross Score = 118.5  x ( Tmax / Tyour ) -1 + 6.5 ( Tmax / Tmin ) -1
 
@@ -441,14 +453,14 @@ and reliability.
 #### D.12.2.2 The Endurance course will be designed with these specifications.  Average speed should be 48 km/hr to 57 km/hr with top speeds of approximately 105 km/hr.
 
 
-a. Straights:  No longer than 77 m with hairpins at the two ends
-b. Straights:  No longer than 61 m with wide turns on the ends
-c. Constant Turns:  30 m to 54 m diameter
-d. Hairpin Turns:  9 m minimum outside diameter (of the turn)
-e. Slaloms: Cones in a straight line with 9 m to 15 m spacing
-f. Miscellaneous:  Chicanes, multiple turns, decreasing radius turns, etc.
-g. Minimum track width:  4.5 m
-h. Designated passing zones at several locations
+- a. Straights:  No longer than 77 m with hairpins at the two ends
+- b. Straights:  No longer than 61 m with wide turns on the ends
+- c. Constant Turns:  30 m to 54 m diameter
+- d. Hairpin Turns:  9 m minimum outside diameter (of the turn)
+- e. Slaloms: Cones in a straight line with 9 m to 15 m spacing
+- f. Miscellaneous:  Chicanes, multiple turns, decreasing radius turns, etc.
+- g. Minimum track width:  4.5 m
+- h. Designated passing zones at several locations
 
 #### D.12.2.3 The Endurance course specifications may deviate from the above to accommodate event site requirements.
 
@@ -459,9 +471,9 @@ together to reduce the need for passing.
 #### D.12.3.1 The Endurance Run Order:
 
 
-a. Should be primarily based on the Autocross event finish order
-b. Should include the teams eligible for Endurance which did not compete in the Autocross event.
-c. May be altered by the organizer to accommodate specific circumstances or event considerations
+- a. Should be primarily based on the Autocross event finish order
+- b. Should include the teams eligible for Endurance which did not compete in the Autocross event.
+- c. May be altered by the organizer to accommodate specific circumstances or event considerations
 
 #### D.12.3.2 Each team must keep track of the Endurance Run Order and have their vehicle fueled, in line and prepared to start when their turn to run arrives.
 
@@ -471,14 +483,14 @@ c. May be altered by the organizer to accommodate specific circumstances or even
 #### D.12.4.1 Teams that are not ready to run or cannot start their Endurance event in the permitted time when their turn in the Run Order arrives:
 
 
-a. Get a time penalty ([D.12.12.5](#d12125-endurance-starting-d1241-two-minutes-120-seconds-penalty))
-b. May then run at the discretion of the Officials
+- a. Get a time penalty ([D.12.12.5](#d12125-endurance-starting-d1241-two-minutes-120-seconds-penalty))
+- b. May then run at the discretion of the Officials
 
 #### D.12.4.2 After Driver Change, the vehicle will be permitted up to 120 seconds (two minutes) to (IC) restart the engine or to (EV) enter Ready to Drive  EV.9.5
 
 
-a. The time will start when the driver first tries to restart the engine or to enable the Tractive System
-b. The time to try to start / restart is not counted towards the Endurance time
+- a. The time will start when the driver first tries to restart the engine or to enable the Tractive System
+- b. The time to try to start / restart is not counted towards the Endurance time
 
 #### D.12.4.3 If a vehicle stalls on the track, it will be permitted one lap by the vehicle that follows it (approximately 60 seconds) to restart.   This time counts toward the Endurance time.
 
@@ -491,11 +503,14 @@ b. The time to try to start / restart is not counted towards the Endurance time
 #### D.12.5.2 Endurance Event sequence:
 
 
-a. The first driver will do an Endurance Run per [D.12.6](#d126-endurance-run-procedure) below
-b. The Driver Change must then be done per [D.12.8](#d128-driver-change-procedure) below
-c. The second driver will do an Endurance Run per [D.12.6](#d126-endurance-run-procedure) below
+- a. The first driver will do an Endurance Run per [D.12.6](#d126-endurance-run-procedure) below
+- b. The Driver Change must then be done per [D.12.8](#d128-driver-change-procedure) below
+- c. The second driver will do an Endurance Run per [D.12.6](#d126-endurance-run-procedure) below
 
-#### D.12.5.3 The Endurance Event is complete when the two: • The team has completed the specified number of laps • The second driver crosses the finish line
+#### D.12.5.3 The Endurance Event is complete when the two:
+
+- The team has completed the specified number of laps
+- The second driver crosses the finish line
 
 ### D.12.6 Endurance Run Procedure
 
@@ -512,41 +527,41 @@ c. The second driver will do an Endurance Run per [D.12.6](#d126-endurance-run-p
 #### D.12.7.1 The team may bring only these items into the Driver Change Area:
 
 
-a. Three team members, including the driver or drivers
-b. (EV Only) The three team members must consist of an ESO [EV.11.1.1](ev-electric-vehicles.md#ev1111-the-electrical-system-officer-eso-ad52) and two drivers.
-c. Minimal tools necessary to adjust the vehicle to fit the second driver and/or change tires Team members may only carry tools by hand (no carts, tool chests etc)
-d. Each extra person entering the Driver Change Area:  20 point penalty
+- a. Three team members, including the driver or drivers
+- b. (EV Only) The three team members must consist of an ESO [EV.11.1.1](ev-electric-vehicles.md#ev1111-the-electrical-system-officer-eso-ad52) and two drivers.
+- c. Minimal tools necessary to adjust the vehicle to fit the second driver and/or change tires Team members may only carry tools by hand (no carts, tool chests etc)
+- d. Each extra person entering the Driver Change Area:  20 point penalty
 
 #### D.12.7.2 The only work permitted during Driver Change is:
 
 
-a. Operation of Master Switches [IC.9.3](ic-internal-combustion-engine-vehicles.md#ic93-primary-master-switch), [EV.7.9](ev-electric-vehicles.md#ev79-master-switches), Main Switch [IC.9.4](ic-internal-combustion-engine-vehicles.md#ic94-cockpit-main-switch), or Shutdown Buttons
+- a. Operation of Master Switches [IC.9.3](ic-internal-combustion-engine-vehicles.md#ic93-primary-master-switch), [EV.7.9](ev-electric-vehicles.md#ev79-master-switches), Main Switch [IC.9.4](ic-internal-combustion-engine-vehicles.md#ic94-cockpit-main-switch), or Shutdown Buttons
 
 ### EV.7.10
 
-b. Adjustments to fit the driver [IN.16.2.2](in-technical-inspection.md#in1622-changes-to-fit-the-vehicle-to-different-drivers-are-permitted-adjustment-of-the-driver-restraint-system-head-restraint-seat-and-pedal-assembly-substitution-of-the-head-restraint-or-seat-insert-adjustment-of-mirrors)
-c. Tire changes per [D.6.2](#d62-tire-changes-during-endurance)
+- b. Adjustments to fit the driver [IN.16.2.2](in-technical-inspection.md#in1622-changes-to-fit-the-vehicle-to-different-drivers-are-permitted)
+- c. Tire changes per [D.6.2](#d62-tire-changes-during-endurance)
 
 ### D.12.8 Driver Change Procedure
 
 #### D.12.8.1 The Driver Change will be done in this sequence:
 
 
-a. Vehicle will stop in Driver Change Area
-b. First Driver turns off the engine / Tractive System.  Driver Change time starts.
-c. First Driver exits the vehicle
-d. Any necessary adjustments may be made to the vehicle to fit the Second Driver [IN.16.2.2](in-technical-inspection.md#in1622-changes-to-fit-the-vehicle-to-different-drivers-are-permitted-adjustment-of-the-driver-restraint-system-head-restraint-seat-and-pedal-assembly-substitution-of-the-head-restraint-or-seat-insert-adjustment-of-mirrors)
-e. Second Driver is secured in the vehicle
-f. Second Driver is ready to start the engine / enable the Tractive System.  Driver Change time stops.
-g. Second Driver receives permission to continue
-h. The vehicle engine is started or Tractive System enabled.  See [D.12.4](#d124-endurance-vehicle-starting-restarting)
-i. The vehicle stages to go back onto course, at the direction of the event officials
+- a. Vehicle will stop in Driver Change Area
+- b. First Driver turns off the engine / Tractive System.  Driver Change time starts.
+- c. First Driver exits the vehicle
+- d. Any necessary adjustments may be made to the vehicle to fit the Second Driver [IN.16.2.2](in-technical-inspection.md#in1622-changes-to-fit-the-vehicle-to-different-drivers-are-permitted)
+- e. Second Driver is secured in the vehicle
+- f. Second Driver is ready to start the engine / enable the Tractive System.  Driver Change time stops.
+- g. Second Driver receives permission to continue
+- h. The vehicle engine is started or Tractive System enabled.  See [D.12.4](#d124-endurance-vehicle-starting-restarting)
+- i. The vehicle stages to go back onto course, at the direction of the event officials
 
 #### D.12.8.2 Three minutes are permitted for the team to complete the Driver Change
 
 
-a. Any additional time for inspection of the vehicle and the Driver Equipment is not included in the Driver Change time
-b. Time more than permitted will be added to the team Endurance time
+- a. Any additional time for inspection of the vehicle and the Driver Equipment is not included in the Driver Change time
+- b. Time more than permitted will be added to the team Endurance time
 
 #### D.12.8.3 The Driver Change Area will be in a location where the timing system will see the Driver Change as a long lap which will be deleted from the total time
 
@@ -566,15 +581,15 @@ b. Time more than permitted will be added to the team Endurance time
 
 #### D.12.10.4 Driving Black Flag
 
-a. May be shown for any reason such as aggressive driving, failing to obey signals, not yielding for passing, not driving inside the designated course, etc.
-b. Course officials will discuss the situation with the driver
-c. The time spent in Black Flag or a time penalty may be included in the Endurance Run time.
-d. If not possible to give a penalty by a stop under a Black Flag, (not enough laps left), or during post event review, officials may add a penalty [D.14.2](#d142-post-endurance-penalties)
+- a. May be shown for any reason such as aggressive driving, failing to obey signals, not yielding for passing, not driving inside the designated course, etc.
+- b. Course officials will discuss the situation with the driver
+- c. The time spent in Black Flag or a time penalty may be included in the Endurance Run time.
+- d. If not possible to give a penalty by a stop under a Black Flag, (not enough laps left), or during post event review, officials may add a penalty [D.14.2](#d142-post-endurance-penalties)
 
 #### D.12.10.5 Mechanical Black Flag
 
-a. May be shown for any reason to question the vehicle condition
-b. Time spent off track is not included in the Endurance Run time.
+- a. May be shown for any reason to question the vehicle condition
+- b. Time spent off track is not included in the Endurance Run time.
 
 #### D.12.10.6 Based on the inspection or discussion during a Black Flag period, the vehicle may not be permitted to continue the Endurance Run and will be scored DNF
 
@@ -588,10 +603,10 @@ b. Time spent off track is not included in the Endurance Run time.
 #### D.12.11.3 When a pass is to be made:
 
 
-a. A slower leading vehicle gets a Blue Flag
-b. The slower vehicle must move into the slow lane and decelerate
-c. The faster vehicle will continue in the fast lane and make the pass
-d. The vehicle that had been passed may reenter traffic only under the control of the passing zone exit flag
+- a. A slower leading vehicle gets a Blue Flag
+- b. The slower vehicle must move into the slow lane and decelerate
+- c. The faster vehicle will continue in the fast lane and make the pass
+- d. The vehicle that had been passed may reenter traffic only under the control of the passing zone exit flag
 
 #### D.12.11.4 Passing rules do not apply to vehicles that are passing disabled vehicles on the course or vehicles that have spun out and are not moving.  When passing a disabled or off track vehicle, slow down, drive cautiously and be aware of all the vehicles and track workers in the area.
 
@@ -601,16 +616,16 @@ d. The vehicle that had been passed may reenter traffic only under the control o
 
 #### D.12.12.2 Off Course (OC)
 
-a. When an OC occurs, the driver must reenter the track at or prior to the point of exit or receive a 20 second penalty
-b. Penalties will not be assessed to bypass an accident or other reasons at the discretion of track officials.
+- a. When an OC occurs, the driver must reenter the track at or prior to the point of exit or receive a 20 second penalty
+- b. Penalties will not be assessed to bypass an accident or other reasons at the discretion of track officials.
 
 #### D.12.12.3 Missed Slalom Missing one or more gates of a given slalom will be counted as one Off Course
 
 #### D.12.12.4 Penalties for Moving or Post Event Violations
 
 
-a. Black Flag penalties per [D.12.10](#d1210-endurance-event-black-flags), if applicable
-b. Post Event Inspection penalties per [D.14.2](#d142-post-endurance-penalties), if applicable
+- a. Black Flag penalties per [D.12.10](#d1210-endurance-event-black-flags), if applicable
+- b. Post Event Inspection penalties per [D.14.2](#d142-post-endurance-penalties), if applicable
 
 #### D.12.12.5 Endurance Starting (D.12.4.1) Two minutes (120 seconds) penalty
 
@@ -620,15 +635,20 @@ The Chief Marshall/Director of Operations may end the Endurance event (DNF) a ve
 
 ### D.12.13 Endurance Scoring
 
-#### D.12.13.1 Scoring Term Definitions: • Endurance Run Time  -  Total Time for the two Drivers, minus the Driver Change lap, minus any Mechanical Black Flag Time, plus any Penalty time  D.14.2 • Corrected Time = Endurance Run Time + ( DOO * 2 ) + ( OC * 20 ) • Tyour  -  the Corrected Time for the team • Tmin  -  the lowest Corrected Time recorded for any team
+#### D.12.13.1 Scoring Term Definitions:
+
+- Endurance Run Time  -  Total Time for the two Drivers, minus the Driver Change lap, minus any Mechanical Black Flag Time, plus any Penalty time  [D.14.2](#d142-post-endurance-penalties)
+- Corrected Time = Endurance Run Time + ( DOO * 2 ) + ( OC * 20 )
+- Tyour  -  the Corrected Time for the team
+- Tmin  -  the lowest Corrected Time recorded for any team
 
 
 - Tmax  - 145% of Tmin
 #### D.12.13.2 The vehicle must complete the Endurance Event to receive a score based on their Corrected Time
 
 
-a. If Tyour < Tmax, the team score is calculated as: Endurance Time Score = 250  x ( Tmax / Tyour ) -1 ( Tmax / Tmin ) -1
-b. If Tyour > Tmax, Endurance Time Score = 0
+- a. If Tyour < Tmax, the team score is calculated as: Endurance Time Score = 250  x ( Tmax / Tyour ) -1 ( Tmax / Tmin ) -1
+- b. If Tyour > Tmax, Endurance Time Score = 0
 
 #### D.12.13.3 The vehicle receives points based on the laps and/or parts of Endurance completed. The Endurance Laps Score is worth up to 25 points
 
@@ -648,8 +668,8 @@ The Efficiency event evaluates the fuel/energy used to complete the Endurance ev
 #### D.13.2.1 For IC vehicles:
 
 
-a. The fuel tank must be filled to the fuel level line ([IC.5.4.5](ic-internal-combustion-engine-vehicles.md#ic545-fuel-level-line--))
-b. During fuelling, once filled to the scribe line, no shaking or tilting of the tank, fuel system, or the entire vehicle is permitted
+- a. The fuel tank must be filled to the fuel level line ([IC.5.4.5](ic-internal-combustion-engine-vehicles.md#ic545-fuel-level-line--))
+- b. During fuelling, once filled to the scribe line, no shaking or tilting of the tank, fuel system, or the entire vehicle is permitted
 
 #### D.13.2.2 (EV only) The vehicle may be fully charged
 
@@ -660,20 +680,20 @@ b. During fuelling, once filled to the scribe line, no shaking or tilting of the
 #### D.13.2.5 For Internal Combustion vehicles (IC):
 
 
-a. The Fuel Tank must be filled to the Fuel Level Line ([IC.5.4.5](ic-internal-combustion-engine-vehicles.md#ic545-fuel-level-line--)) to measure fuel used.
+- a. The Fuel Tank must be filled to the Fuel Level Line ([IC.5.4.5](ic-internal-combustion-engine-vehicles.md#ic545-fuel-level-line--)) to measure fuel used.
 
 #### IC.5.5.1
 
-b. If the fuel level changes after refuelling:
-   - Additional fuel will be added to return the fuel tank level to the fuel level line.
-   - Twice this amount will be added to the previously measured fuel consumption
-c. If damage or a potential environmental hazard (example - Fuel Tank leakage) exists, the Fuel Tank will not be refilled  [D.13.3.4](#d1334-cannot-measure-fuelenergy-used)
+- b. If the fuel level changes after refuelling:
+  - Additional fuel will be added to return the fuel tank level to the fuel level line.
+  - Twice this amount will be added to the previously measured fuel consumption
+- c. If damage or a potential environmental hazard (example - Fuel Tank leakage) exists, the Fuel Tank will not be refilled  [D.13.3.4](#d1334-cannot-measure-fuelenergy-used)
 
 
 #### D.13.2.6 For Electric Vehicles (EV):
 
-a. Energy Meter data must be downloaded to measure energy used and check for Violations [EV.3.3](ev-electric-vehicles.md#ev33-power-and-voltage)
-b. Penalties will be applied per [EV.3.5](ev-electric-vehicles.md#ev35-penalties) and/or [D.13.3.4](#d1334-cannot-measure-fuelenergy-used)
+- a. Energy Meter data must be downloaded to measure energy used and check for Violations [EV.3.3](ev-electric-vehicles.md#ev33-power-and-voltage)
+- b. Penalties will be applied per [EV.3.5](ev-electric-vehicles.md#ev35-penalties) and/or [D.13.3.4](#d1334-cannot-measure-fuelenergy-used)
 
 ### D.13.3 Efficiency Eligibility
 
@@ -684,8 +704,8 @@ b. Penalties will be applied per [EV.3.5](ev-electric-vehicles.md#ev35-penalties
 #### D.13.3.3 Partial Completion of Endurance
 
 
-a. Vehicles which cross the start line after Driver Change are eligible for Efficiency points
-b. Other vehicles get zero points
+- a. Vehicles which cross the start line after Driver Change are eligible for Efficiency points
+- b. Other vehicles get zero points
 
 #### D.13.3.4 Cannot Measure Fuel/Energy Used
 
@@ -697,13 +717,20 @@ The vehicle gets zero points
 
 Each fuel or energy used is converted using the factors:
 
-a. Gasoline / Petrol 2.31 kg of CO2 per liter
-b. E85 1.65 kg of CO2 per liter
-c. Electric 0.65 kg of CO2 per kWh
+- a. Gasoline / Petrol 2.31 kg of CO2 per liter
+- b. E85 1.65 kg of CO2 per liter
+- c. Electric 0.65 kg of CO2 per kWh
 
 #### D.13.4.2 (EV only) Full credit is given for energy recovered through regenerative braking
 
-#### D.13.4.3 Scoring Term Definitions: • CO2 min  -  the smallest mass of CO2 used by any competitor who is eligible for Efficiency • CO2 your  -  the mass of CO2 used by the team being scored • Tmin  -  the lowest Endurance time of the fastest team which is eligible for Efficiency • Tyour  -  same as Endurance (D.12.13.1) • Lapyours   -  the number of laps driven by the team being scored • Laptotal Tmin and Latptotal CO2 min  -   be the number of laps completed by the teams which set Tmin and CO2min, respectively
+#### D.13.4.3 Scoring Term Definitions:
+
+- CO2 min  -  the smallest mass of CO2 used by any competitor who is eligible for Efficiency
+- CO2 your  -  the mass of CO2 used by the team being scored
+- Tmin  -  the lowest Endurance time of the fastest team which is eligible for Efficiency
+- Tyour  -  same as Endurance ([D.12.13.1](#d12131-scoring-term-definitions))
+- Lapyours   -  the number of laps driven by the team being scored
+- Laptotal Tmin and Latptotal CO2 min  -   be the number of laps completed by the teams which set Tmin and CO2min, respectively
 
 #### D.13.4.4 The Efficiency Factor is calculated by:
 
@@ -713,7 +740,11 @@ Tmin / LapTotal Tmin
 X
 CO2 min / LapTotal CO2 min
  Tyours / Lap yours CO2 your / Lap yours
-#### D.13.4.5 EfficiencyFactor min is calculated using the above formula with: • CO2 your  (IC) equivalent to 60.06 kg CO2/100km  (based on gasoline 26 ltr/100km) • CO2 your  (EV) equivalent to 20.02 kg CO2/100km • Tyour   1.45 times Tmin
+#### D.13.4.5 EfficiencyFactor min is calculated using the above formula with:
+
+- CO2 your  (IC) equivalent to 60.06 kg CO2/100km  (based on gasoline 26 ltr/100km)
+- CO2 your  (EV) equivalent to 20.02 kg CO2/100km
+- Tyour   1.45 times Tmin
 
 
 #### D.13.4.6 When the team is eligible for Efficiency. the team score is calculated as:
@@ -735,9 +766,9 @@ Efficiency Factor your - Efficiency Factor min
 #### D.14.2.1 Penalties may be applied to the Endurance and/or Efficiency events based on:
 
 
-a. Infractions or issues during the Endurance Event (including [D.12.10.4](#d12104-driving-black-flag).d)
-b. Post Endurance Technical Inspection
-c. (EV only) Energy Meter violations  [EV.3.3](ev-electric-vehicles.md#ev33-power-and-voltage), [EV.3.5.2](ev-electric-vehicles.md#ev352-violations-during-the-endurance-event-each-violation-60-second-penalty-d1421)
+- a. Infractions or issues during the Endurance Event (including [D.12.10.4](#d12104-driving-black-flag).d)
+- b. Post Endurance Technical Inspection
+- c. (EV only) Energy Meter violations  [EV.3.3](ev-electric-vehicles.md#ev33-power-and-voltage), [EV.3.5.2](ev-electric-vehicles.md#ev352-violations-during-the-endurance-event)
 
 #### D.14.2.2 Any penalty will be at the discretion of the officials
 
@@ -752,7 +783,6 @@ c. (EV only) Energy Meter violations  [EV.3.3](ev-electric-vehicles.md#ev33-powe
 #### D.14.3.4 Team may be DNF or DQ for:
 
 
-a. Multiple violations involving safety, environment, or performance advantage
-b. A single substantial violation
-
+- a. Multiple violations involving safety, environment, or performance advantage
+- b. A single substantial violation
 

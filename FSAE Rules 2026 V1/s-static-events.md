@@ -43,7 +43,10 @@ for the Presentation Event
 
 #### S.2.5.1 One or more team members will give the presentation to the judges
 
-#### S.2.5.2 All team members who will give any part of the presentation, or who will respond to judges’ questions must be: • In the presentation area when the presentation starts • Introduced and identified to the judges
+#### S.2.5.2 All team members who will give any part of the presentation, or who will respond to judges’ questions must be:
+
+- In the presentation area when the presentation starts
+- Introduced and identified to the judges
 
 #### S.2.5.3 Presentations will be time limited. The judges will stop any presentation exceeding the time limit.
 
@@ -85,12 +88,12 @@ and assembly and accounting for each part and process to meet a budget is part o
 Management
 ### S.3.2 Cost Event Supplement
 
-a. Additional specific information on the Cost and Manufacturing Event, including
+- a. Additional specific information on the Cost and Manufacturing Event, including
 explanation and requirements, is provided in the Formula SAE Cost Event Supplement
 document
-b. Use the Formula SAE Cost Event Supplement to properly complete the requirements of
+- b. Use the Formula SAE Cost Event Supplement to properly complete the requirements of
 the Cost and Manufacturing Event
-c. The Formula SAE Cost Event Supplement is available on the Event Website
+- c. The Formula SAE Cost Event Supplement is available on the Event Website
 ### S.3.3 Cost Event Areas
 
 #### S.3.3.1 Cost Report Preparation and submission of a report (the “Cost Report”)
@@ -107,11 +110,11 @@ Discussion at the Competition with the Cost Judges around the team’s vehicle.
 #### S.3.4.1 The Cost Report must:
 
 
-a. List and cost each part on the vehicle using the standardized Cost Tables
-b. Base the cost on the actual manufacturing technique used on the prototype Cast parts on the prototype must be cost as cast, and fabricated parts as fabricated, etc.
-c. Include Tooling Cost (welding jigs, molds, patterns and dies) for processes requiring it.
-d. Exclude R & D and capital expenditures (plant, machinery, hand tools and power tools).
-e. Include supporting documentation to let officials verify part costing
+- a. List and cost each part on the vehicle using the standardized Cost Tables
+- b. Base the cost on the actual manufacturing technique used on the prototype Cast parts on the prototype must be cost as cast, and fabricated parts as fabricated, etc.
+- c. Include Tooling Cost (welding jigs, molds, patterns and dies) for processes requiring it.
+- d. Exclude R & D and capital expenditures (plant, machinery, hand tools and power tools).
+- e. Include supporting documentation to let officials verify part costing
 
 #### S.3.4.2 Generate and submit the Cost Report using the Event Website, see PS - Pre-Competition Submissions
 
@@ -120,11 +123,11 @@ e. Include supporting documentation to let officials verify part costing
 #### S.3.5.1 The BOM is a list of all vehicle parts, showing the relationships between the items.
 
 
-a. The overall vehicle is broken down into separate Systems
-b. Systems are made up of Assemblies
-c. Assemblies are made up of Parts
-d. Parts consist of Materials, Processes and Fasteners
-e. Tooling is associated with each Process that requires production tooling
+- a. The overall vehicle is broken down into separate Systems
+- b. Systems are made up of Assemblies
+- c. Assemblies are made up of Parts
+- d. Parts consist of Materials, Processes and Fasteners
+- e. Tooling is associated with each Process that requires production tooling
 
 ### S.3.6 Late Submission
 
@@ -145,8 +148,8 @@ Competition Submissions
 #### S.3.7.6 Changes to the Cost Report in the Cost Addendum will incur additional cost:
 
 
-a. Added items will be cost at 125% of the table cost: + (1.25 x Cost)
-b. Removed items will be credited 75% of the table cost: - (0.75 x Cost)
+- a. Added items will be cost at 125% of the table cost: + (1.25 x Cost)
+- b. Removed items will be credited 75% of the table cost: - (0.75 x Cost)
 
 ### S.3.8 Cost Tables
 
@@ -182,11 +185,11 @@ b. Removed items will be credited 75% of the table cost: - (0.75 x Cost)
 #### S.3.12.1 This procedure will be used in determining penalties:
 
 
-a. Penalty A will be calculated using procedure Penalty Method A - Fixed Point Deductions
-b. Penalty B will be calculated using procedure Penalty Method B – Adjusted Cost Additions
-c. The higher of the two penalties will be applied against the Cost Event score
-   - Penalty A expressed in points will be deducted from the Cost Event score
-   - Penalty B expressed in dollars will be added to the Adjusted Cost of the vehicle
+- a. Penalty A will be calculated using procedure Penalty Method A - Fixed Point Deductions
+- b. Penalty B will be calculated using procedure Penalty Method B – Adjusted Cost Additions
+- c. The higher of the two penalties will be applied against the Cost Event score
+  - Penalty A expressed in points will be deducted from the Cost Event score
+  - Penalty B expressed in dollars will be added to the Adjusted Cost of the vehicle
 
 #### S.3.12.2 Any error that results in a team over reporting a cost in their Cost Report will not be further penalized.
 
@@ -196,21 +199,19 @@ c. The higher of the two penalties will be applied against the Cost Event score
 
 A - Fixed Point Deductions
 
-a. From the Bill of Material, the Cost Judges will determine if all Parts and Processes have been included in the analysis.
-b. If any omission or error, a penalty proportional to the BOM level of the error is added:
-   - Missing/inaccurate Material, Process, Fastener 1 point
-   - Missing/inaccurate Part 3 point
-   - Missing/inaccurate Assembly 5 point
-c. Each of the penalties listed above supersedes the previous penalty. Example - if a point deduction is given for a missing Assembly, the missing Parts are ignored.
+- a. From the Bill of Material, the Cost Judges will determine if all Parts and Processes have been included in the analysis.
+- b. If any omission or error, a penalty proportional to the BOM level of the error is added:
+  - Missing/inaccurate Material, Process, Fastener 1 point
+  - Missing/inaccurate Part 3 point
+  - Missing/inaccurate Assembly 5 point
+- c. Each of the penalties listed above supersedes the previous penalty. Example - if a point deduction is given for a missing Assembly, the missing Parts are ignored.
+- d. Differences other than those listed above will be deducted at the discretion of the Cost Judges.
 
-
-d. Differences other than those listed above will be deducted at the discretion of the Cost
-Judges.
 #### S.3.12.5 Penalty Method B – Adjusted Cost Additions
 
 
-a. The table cost for the missing or incomplete items will be calculated from the standard Cost Tables.
-b. The penalty will be a value equal to twice the difference between the team cost and the correct cost for all items in error. Penalty = 2 x (Table Cost – Team Reported Cost) The table costs of all items in error are included in the calculation.  A missing Assembly would include the price of all Parts, Materials, Processes and Fasteners making up the Assembly.
+- a. The table cost for the missing or incomplete items will be calculated from the standard Cost Tables.
+- b. The penalty will be a value equal to twice the difference between the team cost and the correct cost for all items in error. Penalty = 2 x (Table Cost – Team Reported Cost) The table costs of all items in error are included in the calculation.  A missing Assembly would include the price of all Parts, Materials, Processes and Fasteners making up the Assembly.
 
 ### S.3.13 Event Day and Discussion
 
@@ -223,10 +224,10 @@ b. The penalty will be a value equal to twice the difference between the team co
 #### S.3.13.4 The Cost Judges will:
 
 
-a. Review whether the Cost Report accurately reflects the vehicle as presented
-b. Review the manufacturing feasibility of the vehicle
-c. Assess supporting documentation based on its quality, accuracy and thoroughness
-d. Apply penalties for missing or incorrect information in the Cost Report compared to the vehicle presented at inspection
+- a. Review whether the Cost Report accurately reflects the vehicle as presented
+- b. Review the manufacturing feasibility of the vehicle
+- c. Assess supporting documentation based on its quality, accuracy and thoroughness
+- d. Apply penalties for missing or incorrect information in the Cost Report compared to the vehicle presented at inspection
 
 ### S.3.14 Cost Audit
 
@@ -245,7 +246,11 @@ of the Cost Scenario
 
 #### S.3.16.2 The Cost Event is worth 100 points
 
-#### S.3.16.3 Cost Event Scores may be awarded in areas including, but not limited to: • Price Score • Discussion Score • Scenario Score
+#### S.3.16.3 Cost Event Scores may be awarded in areas including, but not limited to:
+
+- Price Score
+- Discussion Score
+- Scenario Score
 
 #### S.3.16.4 Penalty points may be subtracted from the Cost Score, with no limit.
 
@@ -266,7 +271,10 @@ of the Cost Scenario
 
 #### S.4.2.1 Teams must submit the Design Briefing, Design Spec Sheet and Vehicle Drawings
 
-#### S.4.2.2 These Design Documents will be used for: • Design Judge reviews prior to the Design Event • Sorting teams into appropriate design groups based on the quality of their review.
+#### S.4.2.2 These Design Documents will be used for:
+
+- Design Judge reviews prior to the Design Event
+- Sorting teams into appropriate design groups based on the quality of their review.
 
 #### S.4.2.3 Penalties for Late Submission of all or any one of the Design Documents will be added as given in section PS - Pre-Competition Submissions
 
@@ -279,8 +287,8 @@ of the Cost Scenario
 #### S.4.3.2 Refer to the Design Briefing template for:
 
 
-a. Specific content requirements, areas and details
-b. Maximum slides that may be used per topic
+- a. Specific content requirements, areas and details
+- b. Maximum slides that may be used per topic
 
 #### S.4.3.3 Submit the Design Briefing as given in section PS - Pre-Competition Submissions
 
@@ -289,9 +297,9 @@ b. Maximum slides that may be used per topic
 #### S.4.4.1 The Vehicle Drawings must meet:
 
 
-a. Three view line drawings showing the vehicle, from the front, top, and side
-b. Each drawing must appear on a separate page
-c. May be manually or computer generated
+- a. Three view line drawings showing the vehicle, from the front, top, and side
+- b. Each drawing must appear on a separate page
+- c. May be manually or computer generated
 
 #### S.4.4.2 Submit the Vehicle Drawings as given in section PS - Pre-Competition Submissions
 
@@ -310,9 +318,9 @@ subject to tuning, an anticipated range of values may be appropriate.
 #### S.4.6.2 Vehicles must be presented for Design judging in finished condition, fully assembled, complete and ready to run
 
 
-a. (EV only) The Tractive Battery Pack must pass Inspection to be at the Design Event [IN.5.3](in-technical-inspection.md#in53-inspection-completion)
-b. The judges will not evaluate any vehicle that is presented at the Design event in what they consider to be an unfinished state
-c. Point penalties may be assessed for vehicles with obvious preparation issues
+- a. (EV only) The Tractive Battery Pack must pass Inspection to be at the Design Event [IN.5.3](in-technical-inspection.md#in53-inspection-completion)
+- b. The judges will not evaluate any vehicle that is presented at the Design event in what they consider to be an unfinished state
+- c. Point penalties may be assessed for vehicles with obvious preparation issues
 
 ### S.4.7 Support Material
 
@@ -330,9 +338,9 @@ selected teams.
 #### S.4.9.1 The Design Judges will:
 
 
-a. Evaluate the engineering effort based upon the team’s Design Documents, discussion with the team, and an inspection of the vehicle
-b. Inspect the vehicle to determine if the design concepts are adequate and appropriate for the application (relative to the objectives stated in the rules)
-c. Deduct points if the team cannot adequately explain the engineering and construction of the vehicle
+- a. Evaluate the engineering effort based upon the team’s Design Documents, discussion with the team, and an inspection of the vehicle
+- b. Inspect the vehicle to determine if the design concepts are adequate and appropriate for the application (relative to the objectives stated in the rules)
+- c. Deduct points if the team cannot adequately explain the engineering and construction of the vehicle
 
 #### S.4.9.2 The Design Judges may assign a portion of the Design Event points to the Design Documents
 

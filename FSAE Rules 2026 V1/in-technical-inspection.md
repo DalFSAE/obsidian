@@ -142,8 +142,8 @@ Bring these to Mechanical / Electrical Inspection:
 #### IN.6.2.2 If any deflection is significant, then a force of approximately 200 N may be applied
 
 
-a. Loaded deflection should not be more than 25 mm
-b. Any permanent deflection less than 5 mm
+- a. Loaded deflection should not be more than 25 mm
+- b. Any permanent deflection less than 5 mm
 
 #### IN.6.2.3 If any vehicle on track is observed to have large, uncontrolled movements of Aerodynamic Devices, then officials may Black Flag the vehicle for IN.17 Reinspection.
 
@@ -154,8 +154,8 @@ b. Any permanent deflection less than 5 mm
 #### IN.6.3.2 When the Front Hoop is integrally bonded or laminated to the monocoque F.7.4.3, provide:
 
 
-a. Documentation that shows dimensions on the tubes
-b. Pictures of the dimensioned tube being included in the layup
+- a. Documentation that shows dimensions on the tubes
+- b. Pictures of the dimensioned tube being included in the layup
 
 #### IN.6.3.3 For items which cannot be verified by an inspector, the team must provide documentation, visual and/or written, that the requirements have been met
 
@@ -210,18 +210,18 @@ Each driver in the normal driving position is checked for the three:
 #### IN.9.2.2 The Egress Test will be conducted for each driver as follows:
 
 
-a. The driver must wear the specified Driver Equipment  [VE.3.2](ve-vehicle-and-driver-equipment.md#ve32-helmet), [VE.3.3](ve-vehicle-and-driver-equipment.md#ve33-driver-gear)
-b. Egress time begins with the driver in the fully seated position, with hands in driving position on the connected steering wheel
-c. Egress test may have the driver touch the (IC) Cockpit Main Switch [IC.9.4](ic-internal-combustion-engine-vehicles.md#ic94-cockpit-main-switch)  (EV) Shutdown Button [EV.7.10.4](ev-electric-vehicles.md#ev7104-one-shutdown-button-must-be-mounted-in-the-cockpit-which)
-d. Egress time will stop when the driver has two feet on the pavement
+- a. The driver must wear the specified Driver Equipment  [VE.3.2](ve-vehicle-and-driver-equipment.md#ve32-helmet), [VE.3.3](ve-vehicle-and-driver-equipment.md#ve33-driver-gear)
+- b. Egress time begins with the driver in the fully seated position, with hands in driving position on the connected steering wheel
+- c. Egress test may have the driver touch the (IC) Cockpit Main Switch [IC.9.4](ic-internal-combustion-engine-vehicles.md#ic94-cockpit-main-switch)  (EV) Shutdown Button [EV.7.10.4](ev-electric-vehicles.md#ev7104-one-shutdown-button-must-be-mounted-in-the-cockpit-which)
+- d. Egress time will stop when the driver has two feet on the pavement
 
 ### IN.9.3 Driver Clearance and Egress Test Completion
 
 #### IN.9.3.1 To drive the vehicle, each team driver must:
 
 
-a. Meet the Driver Clearance requirements  [IN.9.1](#in91-driver-clearance)
-b. Successfully complete the Egress Test  [IN.9.2](#in92-egress-test)
+- a. Meet the Driver Clearance requirements  [IN.9.1](#in91-driver-clearance)
+- b. Successfully complete the Egress Test  [IN.9.2](#in92-egress-test)
 
 #### IN.9.3.2 A driver(s) must complete the Driver Cockpit Checks to pass Mechanical Inspection
 
@@ -238,9 +238,9 @@ b. Successfully complete the Egress Test  [IN.9.2](#in92-egress-test)
 #### IN.10.2.1 The insulation resistance between the Tractive System and GLV System Ground will be measured.
 
 
-a. The available measurement voltages are 250 V and 500 V
-b. All vehicles with a maximum nominal operation voltage below 500 V will be measured with the next available voltage level
-c. All vehicles with a system voltage of 500 V or more will be measured with 500 V
+- a. The available measurement voltages are 250 V and 500 V
+- b. All vehicles with a maximum nominal operation voltage below 500 V will be measured with the next available voltage level
+- c. All vehicles with a system voltage of 500 V or more will be measured with 500 V
 
 #### IN.10.2.2 To pass the Insulation Measurement Test the measured insulation resistance must be minimum 500 Ohm/Volt related to the maximum nominal Tractive System operation voltage
 
@@ -259,10 +259,10 @@ in a radius of 2 m around the vehicle against the criteria in [EV.9.7](ev-electr
 
 ### IN.11.1 Tilt Test Requirements
 
-a. The vehicle must contain the maximum amount of fluids it may carry
-b. The tallest driver must be seated in the normal driving position
-c. Tilt tests may be conducted in one, the other, or the two directions to pass
-d. (IC only) Engines fitted with mechanically operated fuel pumps must be run to fill and
+- a. The vehicle must contain the maximum amount of fluids it may carry
+- b. The tallest driver must be seated in the normal driving position
+- c. Tilt tests may be conducted in one, the other, or the two directions to pass
+- d. (IC only) Engines fitted with mechanically operated fuel pumps must be run to fill and
 pressure the system downstream of the High Pressure pump.  See [IC.6.2](ic-internal-combustion-engine-vehicles.md#ic62-high-pressure-injection-hpi-direct-injection-di)
 ### IN.11.2 Tilt Test Criteria
 
@@ -279,15 +279,20 @@ Tilt Tests must be passed before a vehicle may try any further inspections
 
 #### IN.12.1.1 The sound level will be measured during a stationary test, with the vehicle gearbox in neutral at the defined Test Speed
 
-#### IN.12.1.2 Measurements will be made with a free field microphone placed: • free from obstructions • at the Exhaust Outlet vertical level  IC.7.2.2 • 0.5 m from the end of the Exhaust Outlet  IC.7.2.2 • at an angle of 45° with the outlet in the horizontal plane (see IN.12.2.2 below)
+#### IN.12.1.2 Measurements will be made with a free field microphone placed:
+
+- free from obstructions
+- at the Exhaust Outlet vertical level  [IC.7.2.2](ic-internal-combustion-engine-vehicles.md#ic722-the-exhaust-outlets-must-be)
+- 0.5 m from the end of the Exhaust Outlet  [IC.7.2.2](ic-internal-combustion-engine-vehicles.md#ic722-the-exhaust-outlets-must-be)
+- at an angle of 45° with the outlet in the horizontal plane (see [IN.12.2.2](#in1222-exhaust-outlets-that-are-not-parallel-to-the-ground-may-be-tested-outside-of-the-horizontal-plane) below)
 
 ### IN.12.2 Special Configurations
 
 #### IN.12.2.1 Where the Exhaust has more than one Exhaust Outlet:
 
 
-a. The noise test is repeated for each outlet
-b. The highest sound level is used
+- a. The noise test is repeated for each outlet
+- b. The highest sound level is used
 
 #### IN.12.2.2 Exhaust Outlets that are not parallel to the ground may be tested outside of the horizontal plane.
 
@@ -297,9 +302,9 @@ b. The highest sound level is used
 #### IN.12.2.4 When the exhaust has a manually adjustable tuning device(s):
 
 
-a. The position of the device must be visible to the officials for the noise test
-b. The device must be manually operable by the officials during the noise test
-c. The device must not be moved or modified after the noise test is passed
+- a. The position of the device must be visible to the officials for the noise test
+- b. The device must be manually operable by the officials during the noise test
+- c. The device must not be moved or modified after the noise test is passed
 
 ### IN.12.3 Industrial Engine
 
@@ -312,20 +317,20 @@ Submit a Rules Question to request approval of an Industrial Engine.
 
 The engine speed that corresponds to an average piston speed of:
 
-a. Automotive / Motorcycle engines 914.4 m/min (3,000 ft/min)
-b. Industrial Engines 731.5 m/min (2,400 ft/min) The calculated speed will be rounded to the nearest 500 rpm. Test Speeds for typical engines are published on the Event Website
+- a. Automotive / Motorcycle engines 914.4 m/min (3,000 ft/min)
+- b. Industrial Engines 731.5 m/min (2,400 ft/min) The calculated speed will be rounded to the nearest 500 rpm. Test Speeds for typical engines are published on the Event Website
 
 #### IN.12.4.2 Idle Test Speed
 
-a. Determined by the vehicle’s calibrated idle speed
-b. If the idle speed varies then the vehicle will be tested across the range of idle speeds determined by the team
+- a. Determined by the vehicle’s calibrated idle speed
+- b. If the idle speed varies then the vehicle will be tested across the range of idle speeds determined by the team
 
 #### IN.12.4.3 The vehicle must be compliant at all engine speeds up to the maximum defined Test Speed.
 
 ### IN.12.5 Maximum Permitted Sound Level
 
-a. At idle   103 dBC, fast weighting
-b. At all other speeds   110 dBC, fast weighting
+- a. At idle   103 dBC, fast weighting
+- b. At all other speeds   110 dBC, fast weighting
 ### IN.12.6 Noise Level Retesting
 
 #### IN.12.6.1 Noise levels may be monitored at any time
@@ -351,16 +356,16 @@ Noise Tests must be passed before a vehicle may try any further inspections
 ### IN.13.2 Rain Test Conduct
 
 The water spray will be rain like, not a direct high pressure water jet
-a. Spray water at the vehicle from any possible direction for 120 seconds
-b. Stop the water spray
-c. Observe the vehicle for 120 seconds
+- a. Spray water at the vehicle from any possible direction for 120 seconds
+- b. Stop the water spray
+- c. Observe the vehicle for 120 seconds
 ### IN.13.3 Rain Test Completion
 
 #### IN.13.3.1 The test is passed if the:
 
 
-a. Insulation Monitoring Device ([EV.7.6](ev-electric-vehicles.md#ev76-insulation-monitoring-device---imd)) does not react during the entire 240 seconds duration
-b. Insulation Monitoring Device functionality is verified after the 240 seconds test
+- a. Insulation Monitoring Device ([EV.7.6](ev-electric-vehicles.md#ev76-insulation-monitoring-device---imd)) does not react during the entire 240 seconds duration
+- b. Insulation Monitoring Device functionality is verified after the 240 seconds test
 
 #### IN.13.3.2 The Rain Test must be passed before a vehicle may try any further inspections
 
@@ -376,10 +381,13 @@ specified by the brake inspectors
 #### IN.14.2.1 Brake Test procedure:
 
 
-a. Accelerate to speed (typically getting into 2nd gear) into the designated braking zone
-b. Apply the brakes with force sufficient to demonstrate full lockup of all four wheels
+- a. Accelerate to speed (typically getting into 2nd gear) into the designated braking zone
+- b. Apply the brakes with force sufficient to demonstrate full lockup of all four wheels
 
-#### IN.14.2.2 The Brake Test passes if: • All four wheels lock up • The engine stays running during the complete test
+#### IN.14.2.2 The Brake Test passes if:
+
+- All four wheels lock up
+- The engine stays running during the complete test
 
 ### IN.14.3 Brake Test Conduct (EV Only)
 
@@ -388,9 +396,9 @@ b. Apply the brakes with force sufficient to demonstrate full lockup of all four
 #### IN.14.3.2 Brake Test procedure:
 
 
-a. Accelerate to speed into the designated braking zone
-b. Switch off the Tractive System  [EV.7.10.4](ev-electric-vehicles.md#ev7104-one-shutdown-button-must-be-mounted-in-the-cockpit-which)
-c. Apply the brakes with force sufficient to demonstrate full lockup of all four wheels
+- a. Accelerate to speed into the designated braking zone
+- b. Switch off the Tractive System  [EV.7.10.4](ev-electric-vehicles.md#ev7104-one-shutdown-button-must-be-mounted-in-the-cockpit-which)
+- c. Apply the brakes with force sufficient to demonstrate full lockup of all four wheels
 
 #### IN.14.3.3 The Brake Test passes if all four wheels lock  IN.14.3.1
 
@@ -433,9 +441,22 @@ Inspection Form.
 
 #### IN.16.2.1 The vehicle must maintain all required specifications (including but not limited to ride height, suspension travel, braking capacity (pad material/composition), sound level and wing location) throughout the competition.
 
-#### IN.16.2.2 Changes to fit the vehicle to different drivers are permitted: • Adjustment of the driver restraint system, Head Restraint, seat and pedal assembly • Substitution of the Head Restraint or seat insert • Adjustment of mirrors
+#### IN.16.2.2 Changes to fit the vehicle to different drivers are permitted:
 
-#### IN.16.2.3 Once the vehicle receives Inspection Approval, the ONLY modifications permitted to the vehicle are: • Adjustment of belts, chains and clutches • Adjustment of brake bias • Adjustment to engine / powertrain operating parameters, including fuel mixture and ignition timing, and any software calibration changes • Adjustment of the suspension • Changing springs, sway bars and shims in the suspension • Adjustment of Tire Pressure, subject to V.4.3.4 • Adjustment of wing or wing element(s) angle, but not the location  T.7.1 • Replenishment of fluids
+- Adjustment of the driver restraint system, Head Restraint, seat and pedal assembly
+- Substitution of the Head Restraint or seat insert
+- Adjustment of mirrors
+
+#### IN.16.2.3 Once the vehicle receives Inspection Approval, the ONLY modifications permitted to the vehicle are:
+
+- Adjustment of belts, chains and clutches
+- Adjustment of brake bias
+- Adjustment to engine / powertrain operating parameters, including fuel mixture and ignition timing, and any software calibration changes
+- Adjustment of the suspension
+- Changing springs, sway bars and shims in the suspension
+- Adjustment of Tire Pressure, subject to [V.4.3.4](v-vehicle-requirements.md#v434-tire-pressure)
+- Adjustment of wing or wing element(s) angle, but not the location  [T.7.1](t-technical-aspects.md#t71-aerodynamic-devices)
+- Replenishment of fluids
 
 
 - Replacement of worn tires or brake pads.  Replacement tires and brake pads must be
@@ -447,8 +468,8 @@ Inspection.
 ### IN.16.3 Repairs or Changes After Inspection Approval
 
 The Inspection Approval may be voided for any reason including, but not limited to:
-a. Damage to the vehicle  [IN.15.1.3](#in1513-the-inspection-approval-is-contingent-on-the-vehicle-remaining-in-the-required-condition-throughout-the-competition)
-b. Changes beyond those permitted per [IN.16.2](#in162-after-inspection-approval) above
+- a. Damage to the vehicle  [IN.15.1.3](#in1513-the-inspection-approval-is-contingent-on-the-vehicle-remaining-in-the-required-condition-throughout-the-competition)
+- b. Changes beyond those permitted per [IN.16.2](#in162-after-inspection-approval) above
 ## IN.17 Reinspection
 
 ### IN.17.1 Requirement
@@ -469,5 +490,5 @@ b. Changes beyond those permitted per [IN.16.2](#in162-after-inspection-approval
 
 #### IN.17.3.2 During Dynamic Events
 
-a. Issues found during Reinspection will void Inspection Approval
-b. Penalties may be applied to the Dynamic Events the vehicle has competed in Applied penalties may include additional time added to event(s), loss of one or more fastest runs, up to Disqualification, subject to official discretion
+- a. Issues found during Reinspection will void Inspection Approval
+- b. Penalties may be applied to the Dynamic Events the vehicle has competed in Applied penalties may include additional time added to event(s), loss of one or more fastest runs, up to Disqualification, subject to official discretion

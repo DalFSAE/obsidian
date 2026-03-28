@@ -91,9 +91,9 @@ the Organizer prior to start of competition
 
 #### AD.5.1.3 Faculty Advisors:
 
-a. May advise their teams on general engineering and engineering project management theory
-b. Must not design, build or repair any part of the vehicle
-c. Must not develop any documentation or presentation
+- a. May advise their teams on general engineering and engineering project management theory
+- b. Must not design, build or repair any part of the vehicle
+- c. Must not develop any documentation or presentation
 
 ### AD.5.2 Electrical System Officer  (EV Only)
 
@@ -105,9 +105,9 @@ during the event
 #### AD.5.2.2 The ESO must be:
 
 
-a. A valid team member, see [AD.3](#ad3-individual-participation-requirements) Individual Participation Requirements
-b. One or more ESO must not be a driver
-c. Certified or has received appropriate practical training whether formal or informal for working with High Voltage systems in automotive vehicles Give details of the training on the ESO/ESA form
+- a. A valid team member, see [AD.3](#ad3-individual-participation-requirements) Individual Participation Requirements
+- b. One or more ESO must not be a driver
+- c. Certified or has received appropriate practical training whether formal or informal for working with High Voltage systems in automotive vehicles Give details of the training on the ESO/ESA form
 
 #### AD.5.2.3 Duties of the ESO - see EV.11.1.1
 
@@ -166,7 +166,10 @@ The use of self-propelled pit carts, tool boxes, tire carriers or similar motori
 part of the competition site, including the paddocks, is prohibited
 ### AD.7.4 Trash Cleanup
 
-#### AD.7.4.1 Cleanup of trash and debris is the responsibility of the teams • The team’s work area should be kept uncluttered • At the end of the day, each team must clean all debris from their area and help with maintaining a clean paddock
+#### AD.7.4.1 Cleanup of trash and debris is the responsibility of the teams
+
+- The team’s work area should be kept uncluttered
+- At the end of the day, each team must clean all debris from their area and help with maintaining a clean paddock
 
 #### AD.7.4.2 Teams must remove all of their material and trash when leaving the site at the end of the competition
 

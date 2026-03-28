@@ -187,7 +187,10 @@ reading: they do not affect the paragraph contents.
 
 #### GR.6.4.1 Unless otherwise specified, all rules apply to all vehicles at all times
 
-#### GR.6.4.2 Rules specific to vehicles based on their powertrain will be specified as such in the rule text: • Internal Combustion  “IC” or “IC Only” • Electric Vehicle  “EV” or “EV Only”
+#### GR.6.4.2 Rules specific to vehicles based on their powertrain will be specified as such in the rule text:
+
+- Internal Combustion  “IC” or “IC Only”
+- Electric Vehicle  “EV” or “EV Only”
 
 
 ### GR.6.5 Figures and Illustrations
@@ -207,14 +210,22 @@ or that require new or novel rule interpretations.
 Rules Questions may also be used to request approval, as specified in these rules.
 ### GR.7.2 Question Format
 
-#### GR.7.2.1 All Rules Questions must include: • Full name and contact information of the person submitting the question • University name – no abbreviations • The specific competition your team has, or is planning to, enter • Number of the applicable rule(s)
+#### GR.7.2.1 All Rules Questions must include:
 
-#### GR.7.2.2 Response Time • Please give a minimum of two weeks for a response • Do not resubmit questions
+- Full name and contact information of the person submitting the question
+- University name – no abbreviations
+- The specific competition your team has, or is planning to, enter
+- Number of the applicable rule(s)
+
+#### GR.7.2.2 Response Time
+
+- Please give a minimum of two weeks for a response
+- Do not resubmit questions
 
 #### GR.7.2.3 Submission Addresses
 
-a. Teams entering Formula SAE competitions: Follow the link and instructions published on the Event Website to "Submit a Rules Question"
-b. Teams entering other competitions please visit those respective competition websites for further instructions
+- a. Teams entering Formula SAE competitions: Follow the link and instructions published on the Event Website to "Submit a Rules Question"
+- b. Teams entering other competitions please visit those respective competition websites for further instructions
 
 ### GR.7.3 Question Publication
 

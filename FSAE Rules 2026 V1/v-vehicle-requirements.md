@@ -7,10 +7,10 @@ that are not in a straight line.
 ### V.1.1 Open Wheel
 
 Open Wheel vehicles must satisfy all of these criteria:
-a. The top 180° of the wheels/tires must be unobstructed when viewed from vertically
+- a. The top 180° of the wheels/tires must be unobstructed when viewed from vertically
 above the wheel.
-b. The wheels/tires must be unobstructed when viewed from the side.
-c. No part of the vehicle may enter a keep out zone defined by two lines extending
+- b. The wheels/tires must be unobstructed when viewed from the side.
+- c. No part of the vehicle may enter a keep out zone defined by two lines extending
 vertically from positions 75 mm in front of and 75 mm aft of, the outer diameter of the
 front and rear tires in the side view elevation of the vehicle, with tires steered straight
 ahead. This keep out zone will extend laterally from the outside plane of the wheel/tire
@@ -45,16 +45,19 @@ The vehicle must have a minimum wheelbase of 1525 mm
 
 ### V.2.1 Accommodation
 
-#### V.2.1.1 The vehicle must be able to accommodate drivers of sizes ranging from 5th percentile female up to 95th percentile male. • Accommodation includes driver position, driver controls, and driver equipment • Anthropometric data may be found on the Event Website
+#### V.2.1.1 The vehicle must be able to accommodate drivers of sizes ranging from 5th percentile female up to 95th percentile male.
+
+- Accommodation includes driver position, driver controls, and driver equipment
+- Anthropometric data may be found on the Event Website
 
 #### V.2.1.2 The driver’s head and hands must not contact the ground in any rollover attitude
 
 ### V.2.2 Visibility
 
-a. The driver must have sufficient visibility to the front and sides of the vehicle
-b. When seated in a normal driving position, the driver must have a minimum field of vision
+- a. The driver must have sufficient visibility to the front and sides of the vehicle
+- b. When seated in a normal driving position, the driver must have a minimum field of vision
 of 100° to the left and the right sides
-c. If mirrors are required for this rule, they must remain in position and adjusted to enable
+- c. If mirrors are required for this rule, they must remain in position and adjusted to enable
 the required visibility throughout all Dynamic Events
 ## V.3 Suspension And Steering
 
@@ -68,7 +71,10 @@ the required visibility throughout all Dynamic Events
 
 #### V.3.1.4 Fasteners in the Suspension system are  Critical Fasteners, see T.8.2
 
-#### V.3.1.5 All spherical rod ends and spherical bearings on the suspension and steering must be one of: • Mounted in double shear • Captured by having a screw/bolt head or washer with an outside diameter that is larger than spherical bearing housing inside diameter.
+#### V.3.1.5 All spherical rod ends and spherical bearings on the suspension and steering must be one of:
+
+- Mounted in double shear
+- Captured by having a screw/bolt head or washer with an outside diameter that is larger than spherical bearing housing inside diameter.
 
 
 ### V.3.2 Steering
@@ -82,8 +88,8 @@ the required visibility throughout all Dynamic Events
 #### V.3.2.4 The steering system must have positive steering stops that prevent the steering linkages from locking up (the inversion of a four bar linkage at one of the pivots). The stops:
 
 
-a. Must prevent the wheels and tires from contacting suspension, bodywork, or Chassis during the track events
-b. May be put on the uprights or on the rack
+- a. Must prevent the wheels and tires from contacting suspension, bodywork, or Chassis during the track events
+- b. May be put on the uprights or on the rack
 
 #### V.3.2.5 Steering system free play must be less than seven degrees (7°) total measured at the steering wheel
 
@@ -98,9 +104,9 @@ b. May be put on the uprights or on the rack
 #### V.3.2.10 Rear wheel steering may be used.
 
 
-a. Rear wheel steering must incorporate mechanical stops to limit the range of angular movement of the rear wheels to a maximum of six degrees (6°)
-b. The team must provide the ability for the steering angle range to be verified at Technical Inspection with a driver in the vehicle
-c. Rear wheel steering may be electrically operated
+- a. Rear wheel steering must incorporate mechanical stops to limit the range of angular movement of the rear wheels to a maximum of six degrees (6°)
+- b. The team must provide the ability for the steering angle range to be verified at Technical Inspection with a driver in the vehicle
+- c. Rear wheel steering may be electrically operated
 
 ### V.3.3 Steering Wheel
 
@@ -131,8 +137,8 @@ Wheels must be 203.2 mm (8.0 inches) or more in diameter.
 Vehicles may have two types of tires, Dry and Wet
 #### V.4.3.1 Dry Tires
 
-a. The tires on the vehicle when it is presented for Technical Inspection.
-b. May be any size or type, slicks or treaded.
+- a. The tires on the vehicle when it is presented for Technical Inspection.
+- b. May be any size or type, slicks or treaded.
 
 #### V.4.3.2 Wet Tires
 
@@ -142,17 +148,17 @@ Any size or type of treaded or grooved tire where:
 
 #### V.4.3.3 Tire Set
 
-a. All four Dry Tires and Wheels or all four Wet Tires and Wheels do not have to be identical
-b. Once each tire set has been presented for Technical Inspection, any tire compound or size, or wheel type or size must not be changed
+- a. All four Dry Tires and Wheels or all four Wet Tires and Wheels do not have to be identical
+- b. Once each tire set has been presented for Technical Inspection, any tire compound or size, or wheel type or size must not be changed
 
 #### V.4.3.4 Tire Pressure
 
-a. Tire Pressure must be in the range permitted by the manufacturer at all times
-b. Tire Pressure may be inspected at any time
+- a. Tire Pressure must be in the range permitted by the manufacturer at all times
+- b. Tire Pressure may be inspected at any time
 
 #### V.4.3.5 Requirements for All Tires
 
 
-a. Teams must not do any hand cutting, grooving or modification of the tires
-b. Tire warmers are not permitted
-c. No traction enhancers may be applied to the tires at any time onsite at the competition
+- a. Teams must not do any hand cutting, grooving or modification of the tires
+- b. Tire warmers are not permitted
+- c. No traction enhancers may be applied to the tires at any time onsite at the competition

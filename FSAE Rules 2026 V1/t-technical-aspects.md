@@ -10,18 +10,18 @@
 #### T.1.1.2 The template will be held horizontally, parallel to the ground, and inserted vertically from a height above any Primary Structure or bodywork that is between the Front Hoop and the Main Hoop until it meets the two of:   ( refer to F.6.4 and F.7.5.1 )
 
 
-a. Has passed 25 mm below the lowest point of the top of the Side Impact Structure
-b. Is less than or equal to 320 mm above the lowest point inside the cockpit
+- a. Has passed 25 mm below the lowest point of the top of the Side Impact Structure
+- b. Is less than or equal to 320 mm above the lowest point inside the cockpit
 
 #### T.1.1.3 Fore and aft translation of the template is permitted during insertion.
 
 #### T.1.1.4 During this test:
 
 
-a. The steering wheel, steering column, seat and all padding may be removed
-b. The shifter, shift mechanism, or clutch mechanism must not be removed unless it is integral with the steering wheel and is removed with the steering wheel
-c. The firewall must not be moved or removed
-d. Cables, wires, hoses, tubes, etc. must not block movement of the template During inspection, the steering column, for practical purposes, will not be removed.  The template may be maneuvered around the steering column, but not any fixed supports. For ease of use, the template may contain a slot at the front center that the steering column may pass through.
+- a. The steering wheel, steering column, seat and all padding may be removed
+- b. The shifter, shift mechanism, or clutch mechanism must not be removed unless it is integral with the steering wheel and is removed with the steering wheel
+- c. The firewall must not be moved or removed
+- d. Cables, wires, hoses, tubes, etc. must not block movement of the template During inspection, the steering column, for practical purposes, will not be removed.  The template may be maneuvered around the steering column, but not any fixed supports. For ease of use, the template may contain a slot at the front center that the steering column may pass through.
 
 
 
@@ -33,27 +33,27 @@ d. Cables, wires, hoses, tubes, etc. must not block movement of the template Dur
 
 #### T.1.2.1 Requirement:
 
-a. The cockpit must have a free internal cross section
-b. The template shown below must pass through the cockpit
+- a. The cockpit must have a free internal cross section
+- b. The template shown below must pass through the cockpit
 
 
 Template maximum thickness: 7 mm
 #### T.1.2.2 Conduct of the test.  The template:
 
 
-a. Will be held vertically and inserted into the cockpit opening rearward of the rearmost portion of the steering column.
-b. Will then be passed horizontally through the cockpit to a point 100 mm rearwards of the face of the rearmost pedal when in the inoperative position
-c. May be moved vertically inside the cockpit
+- a. Will be held vertically and inserted into the cockpit opening rearward of the rearmost portion of the steering column.
+- b. Will then be passed horizontally through the cockpit to a point 100 mm rearwards of the face of the rearmost pedal when in the inoperative position
+- c. May be moved vertically inside the cockpit
 
 #### T.1.2.3 During this test:
 
 
-a. If the pedals are adjustable, they must be in their most forward position.
-b. The steering wheel may be removed
-c. Padding may be removed if it can be easily removed without the use of tools with the driver in the seat
-d. The seat and any seat insert(s) that may be used must stay in the cockpit
-e. Cables, wires, hoses, tubes, etc. must not block movement of the template
-f. The steering column and associated components may pass through the 50 mm wide center band of the template. For ease of use, the template may contain a full or partial slot in the shaded area shown on the figure
+- a. If the pedals are adjustable, they must be in their most forward position.
+- b. The steering wheel may be removed
+- c. Padding may be removed if it can be easily removed without the use of tools with the driver in the seat
+- d. The seat and any seat insert(s) that may be used must stay in the cockpit
+- e. Cables, wires, hoses, tubes, etc. must not block movement of the template
+- f. The steering column and associated components may pass through the 50 mm wide center band of the template. For ease of use, the template may contain a full or partial slot in the shaded area shown on the figure
 
 ### T.1.3 Driver Protection
 
@@ -77,19 +77,19 @@ f. The steering column and associated components may pass through the 50 mm wide
 
 #### T.1.4.1 Accelerator Pedal
 
-a. An Accelerator Pedal must control the Powertrain output
-b. Pedal Travel is the percent of travel from a fully released position to a fully applied position. 0% is fully released and 100% is fully applied.
-c. The Accelerator Pedal must:
-   - Return to 0% Pedal Travel when not pushed
-   - Have a positive stop to prevent any cable, actuation system or sensor from damage or overstress
+- a. An Accelerator Pedal must control the Powertrain output
+- b. Pedal Travel is the percent of travel from a fully released position to a fully applied position. 0% is fully released and 100% is fully applied.
+- c. The Accelerator Pedal must:
+  - Return to 0% Pedal Travel when not pushed
+  - Have a positive stop to prevent any cable, actuation system or sensor from damage or overstress
 
 #### T.1.4.2 Any mechanism in the throttle system that could become jammed must be covered. This is to prevent debris or interference and includes but is not limited to a gear mechanism
 
 #### T.1.4.3 All Vehicle Controls (steering, gear change, Cockpit Main Switch / Cockpit Shutdown Button) must be operated from inside the cockpit without any part of the driver, including hands, arms or elbows, being outside of:
 
 
-a. The Side Impact Structure defined in [F.6.4](f-chassis-and-structural.md#f64-side-impact-structure) / [F.7.5](f-chassis-and-structural.md#f75-side-impact-structure)
-b. Two longitudinal vertical planes parallel to the centerline of the chassis touching the uppermost member of the Side Impact Structure
+- a. The Side Impact Structure defined in [F.6.4](f-chassis-and-structural.md#f64-side-impact-structure) / [F.7.5](f-chassis-and-structural.md#f75-side-impact-structure)
+- b. Two longitudinal vertical planes parallel to the centerline of the chassis touching the uppermost member of the Side Impact Structure
 
 #### T.1.4.4 All Vehicle Controls must stay below the top-most point of the Front Hoop in any operational position
 
@@ -98,8 +98,8 @@ b. Two longitudinal vertical planes parallel to the centerline of the chassis to
 #### T.1.5.1 The Driver’s Seat must be protected by one of the two:
 
 
-a. In side view, the lowest point of any Driver’s Seat must be no lower than the upper surface of the lowest structural tube or equivalent
-b. A longitudinal tube (or tubes) that meets the requirements for Side Impact tubing ([F.3.2.1](f-chassis-and-structural.md#f321-h).e), passing underneath the lowest point of the Driver Seat.
+- a. In side view, the lowest point of any Driver’s Seat must be no lower than the upper surface of the lowest structural tube or equivalent
+- b. A longitudinal tube (or tubes) that meets the requirements for Side Impact tubing ([F.3.2.1](f-chassis-and-structural.md#f321-h).e), passing underneath the lowest point of the Driver Seat.
 
 ### T.1.6 Thermal Protection
 
@@ -111,13 +111,13 @@ b. A longitudinal tube (or tubes) that meets the requirements for Side Impact tu
 #### T.1.6.3 The design must address all three types of heat transfer between the heat source (examples include but are not limited to:  exhaust pipe, coolant hose/tube, Tractive Battery Pack) and a place that the driver could contact (including seat or floor):
 
 
-a. Conduction Isolation by one of the two:
-   - No direct contact between the heat source and the panel
-   - A heat resistant, conduction isolation material with a minimum thickness of 8 mm between the heat source and the panel
-b. Convection Isolation by a minimum air gap of 25 mm between the heat source and the panel
-c. Radiation Isolation by one of the two:
-   - A solid metal heat shield with a minimum thickness of 0.4 mm
-   - Reflective foil or tape when combined with conduction insulation
+- a. Conduction Isolation by one of the two:
+  - No direct contact between the heat source and the panel
+  - A heat resistant, conduction isolation material with a minimum thickness of 8 mm between the heat source and the panel
+- b. Convection Isolation by a minimum air gap of 25 mm between the heat source and the panel
+- c. Radiation Isolation by one of the two:
+  - A solid metal heat shield with a minimum thickness of 0.4 mm
+  - Reflective foil or tape when combined with conduction insulation
 
 ### T.1.7 Floor Closeout
 
@@ -134,35 +134,33 @@ c. Radiation Isolation by one of the two:
 #### T.1.8.1 A Firewall(s) must separate the driver compartment and any portion of the Driver Harness from:
 
 
-a. All components of the Fuel System, the engine oil, the liquid cooling systems, any lithium batteries
-b. (EV only) All Tractive System components other than Outboard Wheel Motors [EV.4.1.3](ev-electric-vehicles.md#ev413-if-motors-are-mounted-to-the-suspension-uprights-their-cables-and-wiring-must) and cable to those Motors where mounted at the wheels or on the front control arms
+- a. All components of the Fuel System, the engine oil, the liquid cooling systems, any lithium batteries
+- b. (EV only) All Tractive System components other than Outboard Wheel Motors [EV.4.1.3](ev-electric-vehicles.md#ev413-if-motors-are-mounted-to-the-suspension-uprights-their-cables-and-wiring-must) and cable to those Motors where mounted at the wheels or on the front control arms
 
 #### T.1.8.2 The Firewall must extend sufficiently far upwards and/or rearwards and/or sideways where any point on the drivers body less than 100 mm above the bottom of the helmet of the tallest driver must not be in direct line of sight with any part given in T.1.8.1 above
 
 #### T.1.8.3 Any Firewall must be:
 
 
-a. A non permeable surface made from a rigid, Nonflammable Material
-b. Mounted tightly
+- a. A non permeable surface made from a rigid, Nonflammable Material
+- b. Mounted tightly
 
 #### T.1.8.4 (EV only) The Firewall or the part of the Firewall on the Tractive System side must be:
 
 
-a. Made of aluminum.  The Firewall layer itself must not be aluminum tape.
-b. Grounded, refer to [EV.6.7](ev-electric-vehicles.md#ev67-grounding) Grounding
+- a. Made of aluminum.  The Firewall layer itself must not be aluminum tape.
+- b. Grounded, refer to [EV.6.7](ev-electric-vehicles.md#ev67-grounding) Grounding
 
 #### T.1.8.5 (EV only) The Tractive Battery Container must not be part of the Firewall
 
 #### T.1.8.6 Sealing
 
-a. Any Firewall must seal completely against the passage of fluids (the Firewall itself, joints, edges, any pass throughs and Floor Closeout)
-b. Firewalls that have multiple panels must overlap and be sealed at the joints
-c. Sealing between Firewalls must not be a stressed part of the Firewall
-d. Grommets must be used to seal any pass through for wiring, cables, etc
+- a. Any Firewall must seal completely against the passage of fluids (the Firewall itself, joints, edges, any pass throughs and Floor Closeout)
+- b. Firewalls that have multiple panels must overlap and be sealed at the joints
+- c. Sealing between Firewalls must not be a stressed part of the Firewall
+- d. Grommets must be used to seal any pass through for wiring, cables, etc
+- e. Any seals or adhesives used with the Firewall must be rated for the application environment
 
-
-e. Any seals or adhesives used with the Firewall must be rated for the application
-environment
 ## T.2 Driver Accommodation
 
 ### T.2.1 Harness Definitions
@@ -173,22 +171,22 @@ b. 6 Point Harness – consists of two Lap Belts, two Shoulder Belts and two leg
 Submarine Belts.
 c. 7 Point Harness – consists of two Lap Belts, two Shoulder Belts, two leg or Anti-
 Submarine Belts and a negative g or Z Belt.
-d. Upright Driving Position - with a seat back angled at 30° or less from the vertical as
+- d. Upright Driving Position - with a seat back angled at 30° or less from the vertical as
 measured along the line joining the two 200 mm circles of the template of the 95th
 percentile male as defined in [F.5.6.5](f-chassis-and-structural.md#f565-driver-template) and positioned per [F.5.6.6](f-chassis-and-structural.md#f566-driver-template-position)
-e. Reclined Driving Position - with a seat back angled at more than 30° from the vertical as
+- e. Reclined Driving Position - with a seat back angled at more than 30° from the vertical as
 measured along the line joining the two 200 mm circles of the template of the 95th
 percentile male as defined in [F.5.6.5](f-chassis-and-structural.md#f565-driver-template) and positioned per [F.5.6.6](f-chassis-and-structural.md#f566-driver-template-position)
-f. Chest to Groin Line - the straight line that in side view follows the line of the Shoulder
+- f. Chest to Groin Line - the straight line that in side view follows the line of the Shoulder
 Belts from the chest to the release buckle.
 ### T.2.2 Harness Specification
 
 #### T.2.2.1 The vehicle must use a 5, 6 or 7 Point Harness meeting one or more of the three:
 
 
-a. SFI Specification 16.1
-b. SFI Specification 16.5
-c. FIA specification 8853/2016
+- a. SFI Specification 16.1
+- b. SFI Specification 16.5
+- c. FIA specification 8853/2016
 
 #### T.2.2.2 The belts must have the original manufacturers labels showing the specification and expiration date
 
@@ -205,8 +203,8 @@ c. FIA specification 8853/2016
 #### T.2.3.1 Vehicles with a Reclined Driving Position must have:
 
 
-a. A 6 Point Harness or a 7 Point Harness
-b. Anti-Submarine Belts with tilt lock adjusters (“quick adjusters”) OR two sets of Anti- Submarine Belts installed.
+- a. A 6 Point Harness or a 7 Point Harness
+- b. Anti-Submarine Belts with tilt lock adjusters (“quick adjusters”) OR two sets of Anti- Submarine Belts installed.
 
 #### T.2.3.2 All Lap Belts must incorporate a tilt lock adjuster (“quick adjuster”). Lap Belts with “pull-up” adjusters are recommended over “pull-down” adjusters.
 
@@ -222,34 +220,34 @@ b. Anti-Submarine Belts with tilt lock adjusters (“quick adjusters”) OR two 
 #### T.2.4.3 Each tab, bracket or eye to which any part of the Harness is attached must:
 
 
-a. Support a minimum load in pullout and tearout before failure of:
-   - If one belt is attached to the tab, bracket or eye    15 kN
-   - If two belts are attached to the tab, bracket or eye   30 kN
-b. Be 1.6 mm minimum thickness
-c. Not cause abrasion to the belt webbing Bolt tabs are checked in double tearout
+- a. Support a minimum load in pullout and tearout before failure of:
+  - If one belt is attached to the tab, bracket or eye    15 kN
+  - If two belts are attached to the tab, bracket or eye   30 kN
+- b. Be 1.6 mm minimum thickness
+- c. Not cause abrasion to the belt webbing Bolt tabs are checked in double tearout
 
 #### T.2.4.4 Attachment of tabs or brackets must meet these:
 
 
-a. Where brackets are fastened to the chassis, no less than two 6 mm or 1/4” minimum diameter Critical Fasteners, see [T.8.2](#t82-critical-fastener-requirements) or stronger must be used to attach the bracket to the chassis
-b. Welded tabs or eyes must have a minimum base dimension of the outer diameter of the tab or eye
-c. Where a single shear tab is welded to the chassis, the tab to tube welding must be on the two sides of the base of the tab Double shear attachments are preferred.  Tabs and brackets for double shear mounts should be welded on the two sides.
+- a. Where brackets are fastened to the chassis, no less than two 6 mm or 1/4” minimum diameter Critical Fasteners, see [T.8.2](#t82-critical-fastener-requirements) or stronger must be used to attach the bracket to the chassis
+- b. Welded tabs or eyes must have a minimum base dimension of the outer diameter of the tab or eye
+- c. Where a single shear tab is welded to the chassis, the tab to tube welding must be on the two sides of the base of the tab Double shear attachments are preferred.  Tabs and brackets for double shear mounts should be welded on the two sides.
 
 #### T.2.4.5 Eyebolts or Weld Eyes must:
 
 
-a. Be one piece. No eyenuts or swivels.
-b. Be harness manufacturer supplied Threads should be 7/16-20 or greater
-c. Be aligned to let the harness clip-on bracket pivot freely, and not touch other harness brackets (lap and anti sub) or other vehicle parts
-d. Have a positive locking feature on threads or by the belt itself
-e. Weld Eyes must have a shank inserted through a Welded Insert [F.3.4.3](f-chassis-and-structural.md#f343-if-welded-tubing-reinforcements-are-required-such-as-inserts-for-bolt-holes-or-material-to-support-suspension-cutouts)
+- a. Be one piece. No eyenuts or swivels.
+- b. Be harness manufacturer supplied Threads should be 7/16-20 or greater
+- c. Be aligned to let the harness clip-on bracket pivot freely, and not touch other harness brackets (lap and anti sub) or other vehicle parts
+- d. Have a positive locking feature on threads or by the belt itself
+- e. Weld Eyes must have a shank inserted through a Welded Insert [F.3.4.3](f-chassis-and-structural.md#f343-if-welded-tubing-reinforcements-are-required-such-as-inserts-for-bolt-holes-or-material-to-support-suspension-cutouts)
 
 #### T.2.4.6 For the belt itself to be considered a positive locking feature, the eyebolt must:
 
 
-a. Have minimum 10 threads engaged in a threaded insert
-b. Be shimmed to fully tight
-c. Be properly aligned with the clip-on harness bracket (not twisted) to prevent the belt creating a torque on the eyebolt.
+- a. Have minimum 10 threads engaged in a threaded insert
+- b. Be shimmed to fully tight
+- c. Be properly aligned with the clip-on harness bracket (not twisted) to prevent the belt creating a torque on the eyebolt.
 
 #### T.2.4.7 Harness installation must meet T.1.8.1
 
@@ -265,8 +263,8 @@ c. Be properly aligned with the clip-on harness bracket (not twisted) to prevent
 #### T.2.5.4 With an Upright Driving Position:
 
 
-a. The Lap Belt Side View Angle must be between 45° and 65° to the horizontal.
-b. The centerline of the Lap Belt at the seat bottom should be between 0 – 75 mm forward of the seat back to seat bottom junction.
+- a. The Lap Belt Side View Angle must be between 45° and 65° to the horizontal.
+- b. The centerline of the Lap Belt at the seat bottom should be between 0 – 75 mm forward of the seat back to seat bottom junction.
 
 #### T.2.5.5 With a Reclined Driving Position, the Lap Belt Side View Angle must be between 60° and 80° to the horizontal.
 
@@ -274,12 +272,15 @@ b. The centerline of the Lap Belt at the seat bottom should be between 0 – 75 
 #### T.2.5.6 The Lap Belts must attach by one of the two:
 
 
-a. Bolt or eyebolt through a welded tube insert or tested monocoque attachment  [F.7.8.8](f-chassis-and-structural.md#f788-load-paths-between-attachments-and-the-monocoque-side-impact-structure-f75-must-use-continuous-laminates-f43-with-core)
-b. Bolt to a tab or bracket, or clip to an eye ( [T.2.4.3](#t243-loaded-in-tension-on-the-shoulder-harness-mounting-bar-d-wrap-around-physically-tested-hardware-attached-to-a-monocoque) ) on a tube frame
+- a. Bolt or eyebolt through a welded tube insert or tested monocoque attachment  [F.7.8.8](f-chassis-and-structural.md#f788-load-paths-between-attachments-and-the-monocoque-side-impact-structure-f75-must-use-continuous-laminates-f43-with-core)
+- b. Bolt to a tab or bracket, or clip to an eye ( [T.2.4.3](#t243-loaded-in-tension-on-the-shoulder-harness-mounting-bar-d-wrap-around-physically-tested-hardware-attached-to-a-monocoque) ) on a tube frame
 
 #### T.2.5.7 In side view, the Lap Belt must be capable of pivoting freely by using a shouldered bolt or an eye bolt attachment
 
-#### T.2.5.8 Any bolt used to attach a Lap Belt, directly to the chassis or to an intermediate bracket, is a Critical Fasteners, see T.8.2, with a minimum diameter that is the smaller of: • The bolt diameter specified by the manufacturer • 10 mm or 3/8”
+#### T.2.5.8 Any bolt used to attach a Lap Belt, directly to the chassis or to an intermediate bracket, is a Critical Fasteners, see T.8.2, with a minimum diameter that is the smaller of:
+
+- The bolt diameter specified by the manufacturer
+- 10 mm or 3/8”
 
 ### T.2.6 Shoulder Harness
 
@@ -290,9 +291,9 @@ b. Bolt to a tab or bracket, or clip to an eye ( [T.2.4.3](#t243-loaded-in-tensi
 #### T.2.6.3 The Shoulder Belts must attach by one of the four:
 
 
-a. Wrap around the Shoulder Harness Mounting bar
-b. Bolt through a welded tube insert or tested monocoque attachment  [F.7.8.8](f-chassis-and-structural.md#f788-load-paths-between-attachments-and-the-monocoque-side-impact-structure-f75-must-use-continuous-laminates-f43-with-core)
-c. Bolt to a well gusseted tab behind the Shoulder Harness Mounting Bar or clip to an eye (
+- a. Wrap around the Shoulder Harness Mounting bar
+- b. Bolt through a welded tube insert or tested monocoque attachment  [F.7.8.8](f-chassis-and-structural.md#f788-load-paths-between-attachments-and-the-monocoque-side-impact-structure-f75-must-use-continuous-laminates-f43-with-core)
+- c. Bolt to a well gusseted tab behind the Shoulder Harness Mounting Bar or clip to an eye (
 
 #### T.2.4.3 ) loaded in tension on the Shoulder Harness Mounting bar d. Wrap around physically tested hardware attached to a monocoque
 
@@ -323,7 +324,10 @@ c. Bolt to a well gusseted tab behind the Shoulder Harness Mounting Bar or clip 
 
 
 
-#### T.2.6.4 Any bolt used to attach a Shoulder Belt, directly to the chassis or to an intermediate bracket, is a Critical Fasteners, see T.8.2, with a minimum diameter that is the smaller of: • The bolt diameter specified by the manufacturer • 10 mm or 3/8”
+#### T.2.6.4 Any bolt used to attach a Shoulder Belt, directly to the chassis or to an intermediate bracket, is a Critical Fasteners, see T.8.2, with a minimum diameter that is the smaller of:
+
+- The bolt diameter specified by the manufacturer
+- 10 mm or 3/8”
 
 ### T.2.7 Anti-Submarine Belt Mounting
 
@@ -333,12 +337,9 @@ c. Bolt to a well gusseted tab behind the Shoulder Harness Mounting Bar or clip 
 #### T.2.7.2 The Anti-Submarine Belts of a 6 point harness must mount in one of the two:
 
 
-a. With the belts going vertically down from the groin, or with an Anti-Submarine Belt Side View Angle up to 20° rearwards. The Anti-Submarine Belt Mount Spacing should be approximately 100 mm apart.
+- a. With the belts going vertically down from the groin, or with an Anti-Submarine Belt Side View Angle up to 20° rearwards. The Anti-Submarine Belt Mount Spacing should be approximately 100 mm apart.
+- b. With the Anti-Submarine Belt Mounting Points on the Primary Structure at or near the Lap Belt anchorages, the driver sitting on the Anti-Submarine Belts, and the belts coming up around the groin to the release buckle.
 
-
-b. With the Anti-Submarine Belt Mounting Points on the Primary Structure at or near the
-Lap Belt anchorages, the driver sitting on the Anti-Submarine Belts, and the belts coming
-up around the groin to the release buckle.
 
 
 
@@ -364,17 +365,20 @@ up around the groin to the release buckle.
 #### T.2.7.3 Installation of all Anti-Submarine Belts must go in a straight line from the Anti-Submarine Belt Mounting Point(s) without touching any hole in the seat or any other intermediate structure until they reach:
 
 
-a. The release buckle for the 5 Point Harness mounting per [T.2.7.1](#t271-the-anti-submarine-belt-of-a-5-point-harness-must-be-mounted-with-the-mounting-point-in-line-with-or-slightly-forward-of-the-drivers-chest-to-groin-line-with-an-anti-submarine-belt-side-view-angle-no-more-than-20)
-b. The first point where the belt touches the driver’s body for the 6 Point Harness mounting per [T.2.7.2](#t272-the-anti-submarine-belts-of-a-6-point-harness-must-mount-in-one-of-the-two)
+- a. The release buckle for the 5 Point Harness mounting per [T.2.7.1](#t271-the-anti-submarine-belt-of-a-5-point-harness-must-be-mounted-with-the-mounting-point-in-line-with-or-slightly-forward-of-the-drivers-chest-to-groin-line-with-an-anti-submarine-belt-side-view-angle-no-more-than-20)
+- b. The first point where the belt touches the driver’s body for the 6 Point Harness mounting per [T.2.7.2](#t272-the-anti-submarine-belts-of-a-6-point-harness-must-mount-in-one-of-the-two)
 
 #### T.2.7.4 The Anti Submarine Belts must attach by one of the three:
 
 
-a. Bolt or eyebolt through a welded tube insert or tested monocoque attachment  [F.7.8.8](f-chassis-and-structural.md#f788-load-paths-between-attachments-and-the-monocoque-side-impact-structure-f75-must-use-continuous-laminates-f43-with-core)
-b. Bolt to a tab or bracket, or clip to an eye ( [T.2.4.3](#t243-loaded-in-tension-on-the-shoulder-harness-mounting-bar-d-wrap-around-physically-tested-hardware-attached-to-a-monocoque) ) on a tube frame
-c. Wrap around a tube meeting [F.3.2.1](f-chassis-and-structural.md#f321-h).j that connects the Lower Side Impact tubes [F.6.4.5](f-chassis-and-structural.md#f645-the-lower-side-impact-structure-member-must-connect-the-bottom-of-the-main-hoop-and-the-bottom-of-the-front-hoop). The belt must not be able to touch the ground.
+- a. Bolt or eyebolt through a welded tube insert or tested monocoque attachment  [F.7.8.8](f-chassis-and-structural.md#f788-load-paths-between-attachments-and-the-monocoque-side-impact-structure-f75-must-use-continuous-laminates-f43-with-core)
+- b. Bolt to a tab or bracket, or clip to an eye ( [T.2.4.3](#t243-loaded-in-tension-on-the-shoulder-harness-mounting-bar-d-wrap-around-physically-tested-hardware-attached-to-a-monocoque) ) on a tube frame
+- c. Wrap around a tube meeting [F.3.2.1](f-chassis-and-structural.md#f321-h).j that connects the Lower Side Impact tubes [F.6.4.5](f-chassis-and-structural.md#f645-the-lower-side-impact-structure-member-must-connect-the-bottom-of-the-main-hoop-and-the-bottom-of-the-front-hoop). The belt must not be able to touch the ground.
 
-#### T.2.7.5 Any bolt used to attach an Anti-Submarine Belt, directly to the chassis or to an intermediate bracket, is a Critical Fasteners, see T.8.2, with a minimum diameter that is the smaller of: • The bolt diameter specified by the manufacturer • 8 mm or 5/16”
+#### T.2.7.5 Any bolt used to attach an Anti-Submarine Belt, directly to the chassis or to an intermediate bracket, is a Critical Fasteners, see T.8.2, with a minimum diameter that is the smaller of:
+
+- The bolt diameter specified by the manufacturer
+- 8 mm or 5/16”
 
 ### T.2.8 Head Restraint
 
@@ -385,38 +389,36 @@ c. Wrap around a tube meeting [F.3.2.1](f-chassis-and-structural.md#f321-h).j th
 #### T.2.8.3 All material and structure of the Head Restraint must be inside one or the two of:
 
 
-a. Rollover Protection Envelope  [F.1.13](f-chassis-and-structural.md#f113-rollover-protection-envelope)
-b. Head Restraint Protection (if used)  [F.5.10](f-chassis-and-structural.md#f510-head-restraint-protection)
+- a. Rollover Protection Envelope  [F.1.13](f-chassis-and-structural.md#f113-rollover-protection-envelope)
+- b. Head Restraint Protection (if used)  [F.5.10](f-chassis-and-structural.md#f510-head-restraint-protection)
 
 #### T.2.8.4 Items must not:
 
 
-a. Attach to the material or structure of the Head Restraint
-b. Be 25 mm or less to the Head Restraint
+- a. Attach to the material or structure of the Head Restraint
+- b. Be 25 mm or less to the Head Restraint
 
 #### T.2.8.5 The Head Restraint, attachment and mounting must be strong enough to withstand a minimum force of: a. 900 N applied in a rearward direction b. 300 N applied in a lateral or vertical direction
 
 #### T.2.8.6 For all drivers, the Head Restraint must be located and adjusted where:
 
 
-a. The Head Restraint is no more than 25 mm away from the back of the driver’s helmet, with the driver in their normal driving position.
-b. The contact point of the back of the driver’s helmet on the Head Restraint is no less than 50 mm from any edge of the Head Restraint. Approximately 100 mm of longitudinal adjustment should accommodate range of specified drivers.  Several Head Restraints with different thicknesses may be used
+- a. The Head Restraint is no more than 25 mm away from the back of the driver’s helmet, with the driver in their normal driving position.
+- b. The contact point of the back of the driver’s helmet on the Head Restraint is no less than 50 mm from any edge of the Head Restraint. Approximately 100 mm of longitudinal adjustment should accommodate range of specified drivers.  Several Head Restraints with different thicknesses may be used
 
 #### T.2.8.7 The Head Restraint padding must:
 
 
-a. Be an energy absorbing material that is one of the two:
-   - Meets SFI Spec 45.2
-   - CONFOR CF45 (Blue) or CONFOR CF45M (Blue)  FIA Technical List No 17
+- a. Be an energy absorbing material that is one of the two:
+  - Meets SFI Spec 45.2
+  - CONFOR CF45 (Blue) or CONFOR CF45M (Blue)  FIA Technical List No 17
+- b. Have a minimum thickness of 38 mm
+- c. Have a minimum width of 15 cm
+- d. Meet one of the two:
+  - minimum area of 235 cm2 AND minimum total height adjustment of 17.5 cm
+  - minimum height of 28 cm
+- e. Be covered with a thin, flexible material that contains a ~20 mm diameter inspection hole in a surface other than the front surface
 
-
-b. Have a minimum thickness of 38 mm
-c. Have a minimum width of 15 cm
-d. Meet one of the two:
-- minimum area of 235 cm2 AND minimum total height adjustment of 17.5 cm
-- minimum height of 28 cm
-e. Be covered with a thin, flexible material that contains a ~20 mm diameter inspection
-hole in a surface other than the front surface
 ### T.2.9 Roll Bar Padding
 
 Any portion of the roll bar, roll bar bracing or Chassis which might be contacted by the driver’s
@@ -431,9 +433,9 @@ helmet must be covered with a minimum thickness of 12 mm of padding which meets 
 #### T.3.1.2 The Brake System must:
 
 
-a. Act on all four wheels
-b. Be operated by a single control
-c. Be capable of locking all four wheels
+- a. Act on all four wheels
+- b. Be operated by a single control
+- c. Be capable of locking all four wheels
 
 #### T.3.1.3 The Brake System must have two independent hydraulic circuits A leak or failure at any point in the Brake System must maintain effective brake power on minimum two wheels
 
@@ -455,7 +457,10 @@ c. Be capable of locking all four wheels
 
 ### T.3.2 Brake Pedal, Pedal Box and Mounting
 
-#### T.3.2.1 The Brake Pedal must be one of: • Fabricated from steel or aluminum • Machined from steel, aluminum or titanium
+#### T.3.2.1 The Brake Pedal must be one of:
+
+- Fabricated from steel or aluminum
+- Machined from steel, aluminum or titanium
 
 #### T.3.2.2 The Brake Pedal and associated components design must withstand a minimum force of 2000 N without any failure of the Brake System, pedal box, chassis mounting, or pedal adjustment This is not a design criteria.  The Brake Pedal and Brake System may be tested by pressing the pedal with the maximum force that can be exerted by any official when seated normally
 
@@ -465,8 +470,8 @@ c. Be capable of locking all four wheels
 #### T.3.2.4 (EV only) Additional requirements for Electric Vehicles:
 
 
-a. The first 90% of the Brake Pedal travel may be used to regenerate energy without actuating the hydraulic brake system
-b. The remaining Brake Pedal travel must directly operate the hydraulic brake system. Brake energy regeneration may stay active
+- a. The first 90% of the Brake Pedal travel may be used to regenerate energy without actuating the hydraulic brake system
+- b. The remaining Brake Pedal travel must directly operate the hydraulic brake system. Brake energy regeneration may stay active
 
 ### T.3.3 Brake Over Travel Switch - BOTS
 
@@ -475,8 +480,8 @@ b. The remaining Brake Pedal travel must directly operate the hydraulic brake sy
 #### T.3.3.2 The BOTS must:
 
 
-a. Be a mechanical single pole, single throw (two position) switch (push-pull, push-rotate or flip type)
-b. Hold if operated to the OFF position
+- a. Be a mechanical single pole, single throw (two position) switch (push-pull, push-rotate or flip type)
+- b. Hold if operated to the OFF position
 
 #### T.3.3.3 Operation of the BOTS to the OFF position must Open the Shutdown Circuit IC.9.2.2 / EV.7.2.2
 
@@ -491,9 +496,9 @@ b. Hold if operated to the OFF position
 #### T.3.4.2 The Brake Light must be:
 
 
-a. Red in color on a Black background
-b. Rectangular, triangular or near round shape with a minimum shining surface of 15 cm2
-c. Mounted between the wheel centerline and driver’s shoulder level vertically and approximately on vehicle centerline laterally.
+- a. Red in color on a Black background
+- b. Rectangular, triangular or near round shape with a minimum shining surface of 15 cm2
+- c. Mounted between the wheel centerline and driver’s shoulder level vertically and approximately on vehicle centerline laterally.
 
 #### T.3.4.3 When LED lights are used without a diffuser, they must not be more than 20 mm apart.
 
@@ -511,13 +516,17 @@ This section [T.4](#t4-electronic-throttle-components) applies only for:
 #### T.4.2.1 The Accelerator Pedal must operate the APPS  T.1.4.1
 
 
-a. Two springs must be used to return the foot pedal to 0% Pedal Travel
-b. Each spring must be capable of returning the pedal to 0% Pedal Travel with the other disconnected.  The springs in the APPS are not acceptable pedal return springs.
+- a. Two springs must be used to return the foot pedal to 0% Pedal Travel
+- b. Each spring must be capable of returning the pedal to 0% Pedal Travel with the other disconnected.  The springs in the APPS are not acceptable pedal return springs.
 
 #### T.4.2.2 Two or more electrically separate sensors must be used as APPSs.  A single OEM type APPS with two completely separate sensors in a single housing is acceptable.
 
 
-#### T.4.2.3 The APPS sensors must meet the three: • Have different transfer functions which have different gradients and/or offsets to the other(s) • Have a pull-up or pull-down resistor in circuit to bring an open circuit input to 0% pedal travel • At any pedal position above 10%, the pedal travel output of a single sensor must differ by minimum 10% from any other sensor Opposite slope sensors that do not meet this requirement will not be permitted
+#### T.4.2.3 The APPS sensors must meet the three:
+
+- Have different transfer functions which have different gradients and/or offsets to the other(s)
+- Have a pull-up or pull-down resistor in circuit to bring an open circuit input to 0% pedal travel
+- At any pedal position above 10%, the pedal travel output of a single sensor must differ by minimum 10% from any other sensor Opposite slope sensors that do not meet this requirement will not be permitted
 
 #### T.4.2.4 Implausibility is defined as a deviation of more than 10% Pedal Travel between the sensors or other failure as defined in this Section T.4.2.  Use of values larger than 10% Pedal Travel require justification in the ETC Systems Form and may not be approved
 
@@ -525,7 +534,10 @@ b. Each spring must be capable of returning the pedal to 0% Pedal Travel with th
 
 #### T.4.2.6 If three sensors are used, then if one APPS failure, any two sensors that agree within 10% Pedal Travel may be used to define the (IC) throttle position / (EV) torque target and the 3rd APPS may be ignored.
 
-#### T.4.2.7 Each APPS must be able to be checked during Technical Inspection by having one of the two: • A separate detachable connector that enables a check of functions by unplugging it • An inline switchable breakout box available that may disconnect each APPS signal
+#### T.4.2.7 Each APPS must be able to be checked during Technical Inspection by having one of the two:
+
+- A separate detachable connector that enables a check of functions by unplugging it
+- An inline switchable breakout box available that may disconnect each APPS signal
 
 #### T.4.2.8 The APPS signals must be sent directly to a controller using an analogue signal or via a digital data transmission bus such as CAN or FlexRay.
 
@@ -536,8 +548,8 @@ b. Each spring must be capable of returning the pedal to 0% Pedal Travel with th
 #### T.4.2.11 When any kind of digital data transmission is used to transmit the APPS signal:
 
 
-a. (IC Only) The ETC Systems Form must contain a detailed description of all the potential failure modes that can occur, the strategy that is used to detect these failures and the tests that have been conducted to prove that the detection strategy works
-b. The failures to be considered must include but are not limited to the failure of the APPS, APPS signals being out of range, corruption of the message and loss of messages and the associated time outs
+- a. (IC Only) The ETC Systems Form must contain a detailed description of all the potential failure modes that can occur, the strategy that is used to detect these failures and the tests that have been conducted to prove that the detection strategy works
+- b. The failures to be considered must include but are not limited to the failure of the APPS, APPS signals being out of range, corruption of the message and loss of messages and the associated time outs
 
 #### T.4.2.12 The current rules are written to only apply to the APPS (pedal), but the integrity of the torque command signal is important in all stages
 
@@ -546,7 +558,10 @@ b. The failures to be considered must include but are not limited to the failure
 
 #### T.4.3.1 The vehicle must have a sensor or switch to measure brake pedal position or brake system pressure
 
-#### T.4.3.2 The BSE must be able to be checked during Technical Inspection by having one of: • A separate detachable connector(s) for any BSE signal(s) to the main ECU without affecting any other connections • An inline switchable breakout box available that may disconnect each BSE signal(s) to the main ECU without affecting any other connections
+#### T.4.3.2 The BSE must be able to be checked during Technical Inspection by having one of:
+
+- A separate detachable connector(s) for any BSE signal(s) to the main ECU without affecting any other connections
+- An inline switchable breakout box available that may disconnect each BSE signal(s) to the main ECU without affecting any other connections
 
 #### T.4.3.3 The BSE or switch signals must be sent directly to a controller using an analogue signal or via a digital data transmission bus such as CAN or FlexRay Any failure of the BSE or BSE wiring that persists more than 100 msec must be detectable by the controller and treated like an implausibility and power to the (IC) electronic throttle / (EV) Motor(s) must be immediately stopped completely. (EV only) It is not necessary to completely deactivate the Tractive System, the motor controller(s) stopping power to the motor(s) is sufficient.
 
@@ -555,9 +570,9 @@ b. The failures to be considered must include but are not limited to the failure
 #### T.4.3.5 When any kind of digital data transmission is used to transmit the BSE signal:
 
 
-a. The ETC Systems Form must contain a detailed description of all the potential failure modes that can occur, the strategy that is used to detect these failures and the tests that have been conducted to prove that the detection strategy works.
-b. The failures modes must include but are not limited to the failure of the sensor, sensor signals being out of range, corruption of the message and loss of messages and the associated time outs.
-c. In all cases a sensor failure must immediately shutdown power to the motor(s)
+- a. The ETC Systems Form must contain a detailed description of all the potential failure modes that can occur, the strategy that is used to detect these failures and the tests that have been conducted to prove that the detection strategy works.
+- b. The failures modes must include but are not limited to the failure of the sensor, sensor signals being out of range, corruption of the message and loss of messages and the associated time outs.
+- c. In all cases a sensor failure must immediately shutdown power to the motor(s)
 
 ## T.5 Powertrain
 
@@ -571,13 +586,11 @@ Any transmission and drivetrain may be used.
 #### T.5.2.2 The final drivetrain shield must:
 
 
-a. Be made with solid material (not perforated)
-b. Cover the chain or belt from the drive sprocket to the driven sprocket/chain wheel/belt or pulley
-c. Start and end no higher than parallel to the lowest point of the chain wheel/belt/pulley:
+- a. Be made with solid material (not perforated)
+- b. Cover the chain or belt from the drive sprocket to the driven sprocket/chain wheel/belt or pulley
+- c. Start and end no higher than parallel to the lowest point of the chain wheel/belt/pulley:
+- d. Cover the bottom of the chain or belt or rotating component when fuel, brake lines
 
-
-
-d. Cover the bottom of the chain or belt or rotating component when fuel, brake lines
 #### T.3.1.8 , control, pressurized, electrical components are located below
 
 #### T.5.2.3 Body panels or other existing covers are acceptable when constructed per T.5.2.7 / T.5.2.8
@@ -591,18 +604,18 @@ d. Cover the bottom of the chain or belt or rotating component when fuel, brake 
 #### T.5.2.7 Chain Drive - Scatter shields for chains must:
 
 
-a. Be made of 2.66 mm (0.105 inch) minimum thickness steel (no alternatives are permitted)
-b. Have a minimum width equal to three times the width of the chain
-c. Be centered on the center line of the chain
-d. Stay aligned with the chain under all conditions
+- a. Be made of 2.66 mm (0.105 inch) minimum thickness steel (no alternatives are permitted)
+- b. Have a minimum width equal to three times the width of the chain
+- c. Be centered on the center line of the chain
+- d. Stay aligned with the chain under all conditions
 
 #### T.5.2.8 Non-metallic Belt Drive - Scatter shields for belts must:
 
 
-a. Be made from 3.0 mm minimum thickness aluminum alloy
-b. Have a minimum width that is equal to 1.7 times the width of the belt.
-c. Be centered on the center line of the belt
-d. Stay aligned with the belt under all conditions
+- a. Be made from 3.0 mm minimum thickness aluminum alloy
+- b. Have a minimum width that is equal to 1.7 times the width of the belt.
+- c. Be centered on the center line of the belt
+- d. Stay aligned with the belt under all conditions
 
 #### T.5.2.9 Attachment Fasteners -
 
@@ -610,25 +623,36 @@ All fasteners attaching scatter shields and guards must be 6 mm or 1/4” minimu
 
 #### T.5.2.10 Finger Guards
 
-a. Must cover any drivetrain parts that spin while the vehicle is stationary with the engine running.
-b. Must be made of material sufficient to resist finger forces.
-c. Mesh or perforated material may be used but must prevent the passage of a 12 mm diameter object through the guard.
+- a. Must cover any drivetrain parts that spin while the vehicle is stationary with the engine running.
+- b. Must be made of material sufficient to resist finger forces.
+- c. Mesh or perforated material may be used but must prevent the passage of a 12 mm diameter object through the guard.
 
 ### T.5.3 Motor Protection (EV Only)
 
-#### T.5.3.1 The rotating part of the Motor(s) EV.4.1 must be contained in a structural casing. The motor casing may be the original motor casing, a team built motor casing or the original casing with additional material added to achieve the minimum required thickness. • Minimum thickness for aluminum alloy:  3.0 mm If lower grade aluminum alloy is used, then the material must be thicker to provide an equivalent strength. • Minimum thickness for steel:  2.0 mm
+#### T.5.3.1 The rotating part of the Motor(s) EV.4.1 must be contained in a structural casing. The motor casing may be the original motor casing, a team built motor casing or the original casing with additional material added to achieve the minimum required thickness.
 
-#### T.5.3.2 A Scatter Shield must be included around the Motor(s) when one or the two: • The motor casing rotates around the stator
+- Minimum thickness for aluminum alloy:  3.0 mm If lower grade aluminum alloy is used, then the material must be thicker to provide an equivalent strength.
+- Minimum thickness for steel:  2.0 mm
+
+#### T.5.3.2 A Scatter Shield must be included around the Motor(s) when one or the two:
+
+- The motor casing rotates around the stator
 
 
 - The motor case is perforated
-#### T.5.3.3 The Motor Scatter Shield must be: • Made from aluminum alloy or steel • Minimum thickness:  1.0 mm
+#### T.5.3.3 The Motor Scatter Shield must be:
+
+- Made from aluminum alloy or steel
+- Minimum thickness:  1.0 mm
 
 ### T.5.4 Coolant Fluid
 
 #### T.5.4.1 Water cooled engines must use only plain water with no additives of any kind
 
-#### T.5.4.2 Liquid coolant for electric motors, Tractive Battery(s) or HV electronics must be one of: • plain water with no additives • oil
+#### T.5.4.2 Liquid coolant for electric motors, Tractive Battery(s) or HV electronics must be one of:
+
+- plain water with no additives
+- oil
 
 #### T.5.4.3 (EV only) Liquid coolant must not directly touch the cells in the Tractive Battery
 
@@ -643,9 +667,9 @@ c. Mesh or perforated material may be used but must prevent the passage of a 12 
 #### T.5.5.4 Two holes of minimum diameter 25 mm each must be provided in the structure or belly pan at the locations:
 
 
-a. The lowest point of the chassis
-b. Rearward of the driver position, forward of a fuel tank or other liquid source
-c. If the lowest point of the chassis obeys [T.5.5.4](#t554-two-holes-of-minimum-diameter-25-mm-each-must-be-provided-in-the-structure-or-belly-pan-at-the-locations).b, then only one set of holes [T.5.5.4](#t554-two-holes-of-minimum-diameter-25-mm-each-must-be-provided-in-the-structure-or-belly-pan-at-the-locations).a is necessary
+- a. The lowest point of the chassis
+- b. Rearward of the driver position, forward of a fuel tank or other liquid source
+- c. If the lowest point of the chassis obeys [T.5.5.4](#t554-two-holes-of-minimum-diameter-25-mm-each-must-be-provided-in-the-structure-or-belly-pan-at-the-locations).b, then only one set of holes [T.5.5.4](#t554-two-holes-of-minimum-diameter-25-mm-each-must-be-provided-in-the-structure-or-belly-pan-at-the-locations).a is necessary
 
 #### T.5.5.5 Absorbent material and open collection devices (regardless of material) are prohibited in compartments containing engine, drivetrain, exhaust and fuel systems below the highest point on the exhaust system.
 
@@ -656,9 +680,9 @@ c. If the lowest point of the chassis obeys [T.5.5.4](#t554-two-holes-of-minimum
 #### T.5.6.2 Catch cans must be:
 
 
-a. Able to hold boiling water without deformation
-b. Located rearwards of the Firewall below the driver’s shoulder level
-c. Positively retained, using no tie wraps or tape
+- a. Able to hold boiling water without deformation
+- b. Located rearwards of the Firewall below the driver’s shoulder level
+- c. Positively retained, using no tie wraps or tape
 
 #### T.5.6.3 Catch cans for the engine coolant system and engine lubrication system must have a minimum capacity of 10% of the fluid being contained or 0.9 liter, whichever is higher
 
@@ -690,16 +714,19 @@ The pressure regulator must be mounted directly onto the gas cylinder/tank
 
 The gas cylinder/tank must be insulated from any heat sources
 
-#### T.6.1.6 Cylinder Material – gas cylinders/tanks in a position 150 mm or less from an exhaust system must meet one of the two: • Made from metal • Meet the thermal protection requirements of T.1.6.3
+#### T.6.1.6 Cylinder Material – gas cylinders/tanks in a position 150 mm or less from an exhaust system must meet one of the two:
+
+- Made from metal
+- Meet the thermal protection requirements of [T.1.6.3](#t163-the-design-must-address-all-three-types-of-heat-transfer-between-the-heat-source-examples-include-but-are-not-limited-to-exhaust-pipe-coolant-hosetube-tractive-battery-pack-and-a-place-that-the-driver-could-contact-including-seat-or-floor)
 
 #### T.6.1.7 Cylinder Location -
 
 The gas cylinder/tank and the pressure regulator must be:
 
-a. Securely mounted inside the Chassis
-b. Located outside of the Cockpit
-c. In a position below the height of the Shoulder Belt Mount [T.2.6](#t26-shoulder-harness)
-d. Aligned so the axis of the gas cylinder/tank does not point at the driver
+- a. Securely mounted inside the Chassis
+- b. Located outside of the Cockpit
+- c. In a position below the height of the Shoulder Belt Mount [T.2.6](#t26-shoulder-harness)
+- d. Aligned so the axis of the gas cylinder/tank does not point at the driver
 
 #### T.6.1.8 Protection –
 
@@ -727,11 +754,9 @@ A part on the vehicle which guides airflow for purposes including generation of 
 #### T.7.1.3 All Aerodynamic Devices must meet:
 
 
-a. The mounting system provides sufficient rigidity in the static condition
+- a. The mounting system provides sufficient rigidity in the static condition
+- b. The Aerodynamic Devices do not oscillate or move excessively when the vehicle is moving.   Refer to [IN.6.2](in-technical-inspection.md#in62-aerodynamic-devices-stability-and-strength)
 
-
-b. The Aerodynamic Devices do not oscillate or move excessively when the vehicle is
-moving.   Refer to [IN.6.2](in-technical-inspection.md#in62-aerodynamic-devices-stability-and-strength)
 #### T.7.1.4 All forward facing edges that could contact a pedestrian (wings, end plates, and undertrays) must have a minimum radius of 5 mm for all horizontal edges and 3 mm for vertical edges. This may be the radius of the edges themselves, or additional permanently attached pieces designed to meet this requirement.
 
 #### T.7.1.5 Other edges that a person may touch must not be sharp
@@ -751,8 +776,8 @@ moving.   Refer to [IN.6.2](in-technical-inspection.md#in62-aerodynamic-devices-
 #### T.7.3.1 All Aerodynamic Device limitations are measured:
 
 
-a. With the wheels pointing in the straight ahead position
-b. Without a driver in the vehicle The intent is to standardize the measurement, see [GR.6.4.1](gr-general-regulations.md#gr641-unless-otherwise-specified-all-rules-apply-to-all-vehicles-at-all-times)
+- a. With the wheels pointing in the straight ahead position
+- b. Without a driver in the vehicle The intent is to standardize the measurement, see [GR.6.4.1](gr-general-regulations.md#gr641-unless-otherwise-specified-all-rules-apply-to-all-vehicles-at-all-times)
 
 #### T.7.3.2 Head Restraint Plane
 
@@ -770,8 +795,8 @@ Any part of any Aerodynamic Device or Bodywork must meet [V.1.1](v-vehicle-requi
 ### T.7.5 Length
 
 In plan view, any part of any Aerodynamic Device must be:
-a. No more than 700 mm forward of the fronts of the front tires
-b. No more than 250 mm rearward of the rear of the rear tires
+- a. No more than 700 mm forward of the fronts of the front tires
+- b. No more than 250 mm rearward of the rear of the rear tires
 ### T.7.6 Width
 
 In plan view, any part of any Aerodynamic Device must be:
@@ -787,11 +812,14 @@ In plan view, any part of any Aerodynamic Device must be:
 #### T.7.7.1 Any part of any Aerodynamic Device that is located:
 
 
-a. In the Rear Aerodynamic Zone must be no higher than 1200 mm above the ground
-b. Outside of the Rear Aerodynamic Zone must be no higher than 500 mm above the ground
-c. Forward of the centerline of the front wheel axles and outboard of two vertical planes parallel to the centerline of the chassis touching the inside of the front tires at the height of the hubs must be no higher than 250 mm above the ground
+- a. In the Rear Aerodynamic Zone must be no higher than 1200 mm above the ground
+- b. Outside of the Rear Aerodynamic Zone must be no higher than 500 mm above the ground
+- c. Forward of the centerline of the front wheel axles and outboard of two vertical planes parallel to the centerline of the chassis touching the inside of the front tires at the height of the hubs must be no higher than 250 mm above the ground
 
-#### T.7.7.2 Bodywork height is not restricted when the Bodywork is located: • Between the transverse vertical planes positioned at the front and rear axle centerlines • Inside two vertical fore and aft planes 400 mm outboard from the centerline on each side of the vehicle
+#### T.7.7.2 Bodywork height is not restricted when the Bodywork is located:
+
+- Between the transverse vertical planes positioned at the front and rear axle centerlines
+- Inside two vertical fore and aft planes 400 mm outboard from the centerline on each side of the vehicle
 
 
 ## T.8 Fasteners
@@ -815,12 +843,15 @@ A fastener (bolt, screw, pin, etc) used in a location specified in the applicabl
 #### T.8.2.1 Any Critical Fastener must meet, at minimum, one of these:
 
 
-a. SAE Grade 5
-b. Metric Class 8.8
-c. AN/MS Specifications
-d. Equivalent to or better than above, as approved by a Rules Question or at Technical Inspection
+- a. SAE Grade 5
+- b. Metric Class 8.8
+- c. AN/MS Specifications
+- d. Equivalent to or better than above, as approved by a Rules Question or at Technical Inspection
 
-#### T.8.2.2 All threaded Critical Fasteners must be one of the two: • Hex head • Hexagonal recessed drive with cap head (Socket Head Cap Screws or Allen screws/bolts)
+#### T.8.2.2 All threaded Critical Fasteners must be one of the two:
+
+- Hex head
+- Hexagonal recessed drive with cap head (Socket Head Cap Screws or Allen screws/bolts)
 
 #### T.8.2.3 Critical Fasteners must not be countersunk types
 
@@ -835,22 +866,22 @@ d. Equivalent to or better than above, as approved by a Rules Question or at Tec
 #### T.8.3.1 Positive Locking Mechanisms are defined as those which:
 
 
-a. Technical Inspectors / team members can see that the device/system is in place (visible)
-b. Do not rely on the clamping force to apply the locking or anti vibration feature Meaning If the fastener begins to loosen, the locking device still prevents the fastener coming completely loose
+- a. Technical Inspectors / team members can see that the device/system is in place (visible)
+- b. Do not rely on the clamping force to apply the locking or anti vibration feature Meaning If the fastener begins to loosen, the locking device still prevents the fastener coming completely loose
 
 #### T.8.3.2 Examples of acceptable Positive Locking Mechanisms include, but are not limited to:
 
 
-a. Correctly installed safety wiring
-b. Cotter pins
-c. Nylon lock nuts (where temperature does not exceed 80°C)
-d. Prevailing torque lock nuts Lock washers, bolts with nylon patches and thread locking compounds (Loctite®), DO NOT meet the positive locking requirement.  A latch requires an additional Positive Locking Mechanism
+- a. Correctly installed safety wiring
+- b. Cotter pins
+- c. Nylon lock nuts (where temperature does not exceed 80°C)
+- d. Prevailing torque lock nuts Lock washers, bolts with nylon patches and thread locking compounds (Loctite®), DO NOT meet the positive locking requirement.  A latch requires an additional Positive Locking Mechanism
 
 #### T.8.3.3 If the Positive Locking Mechanism is by prevailing torque lock nuts:
 
 
-a. Locking fasteners must be in as new condition
-b. A supply of replacement fasteners must be presented in Technical Inspection, including any attachment method
+- a. Locking fasteners must be in as new condition
+- b. A supply of replacement fasteners must be presented in Technical Inspection, including any attachment method
 
 ### T.8.4 Requirements for All Fasteners
 
@@ -885,8 +916,8 @@ A type of electrical relay or contactor that lets current flow only in the energ
 #### T.9.2.5 Batteries or battery packs based on lithium chemistry must meet one of the two:
 
 
-a. Have a rigid, sturdy casing made from Nonflammable Material
-b. A commercially available battery designed as an OEM style replacement
+- a. Have a rigid, sturdy casing made from Nonflammable Material
+- b. A commercially available battery designed as an OEM style replacement
 
 #### T.9.2.6 All batteries using chemistries other than lead acid must be presented at Technical Inspection with markings identifying it for comparison to a datasheet or other documentation proving the pack and supporting electronics meet all rules requirements
 
@@ -895,37 +926,39 @@ b. A commercially available battery designed as an OEM style replacement
 Each Master Switch ( [IC.9.3](ic-internal-combustion-engine-vehicles.md#ic93-primary-master-switch) /  [EV.7.9](ev-electric-vehicles.md#ev79-master-switches) ) must meet:
 #### T.9.3.1 Location
 
-a. On the driver’s right hand side of the vehicle
-b. In proximity to the Main Hoop
-c. At the driver's shoulder height
-d. Able to be easily operated from outside the vehicle
+- a. On the driver’s right hand side of the vehicle
+- b. In proximity to the Main Hoop
+- c. At the driver's shoulder height
+- d. Able to be easily operated from outside the vehicle
 
 #### T.9.3.2 Characteristics
 
-a. Be of the rotary mechanical type
-b. Be rigidly mounted to the vehicle and must not be removed during maintenance
-c. Mounted where the rotary axis of the key is near horizontal and across the vehicle
-d. The ON position must be in the horizontal position and must be marked accordingly
-e. The OFF position must be clearly marked
-f. (EV Only) Operated with a red removable key that must only be removable in the electrically open position
+- a. Be of the rotary mechanical type
+- b. Be rigidly mounted to the vehicle and must not be removed during maintenance
+- c. Mounted where the rotary axis of the key is near horizontal and across the vehicle
+- d. The ON position must be in the horizontal position and must be marked accordingly
+- e. The OFF position must be clearly marked
+- f. (EV Only) Operated with a red removable key that must only be removable in the electrically open position
 
 
 ### T.9.4 Inertia Switch
 
-#### T.9.4.1 Inertia Switch Requirement • (EV) Must have an Inertia Switch • (IC) Should have an Inertia Switch
+#### T.9.4.1 Inertia Switch Requirement
+
+- (EV) Must have an Inertia Switch
+- (IC) Should have an Inertia Switch
 
 #### T.9.4.2 The Inertia Switch must be:
 
 
-a. A resettable automotive crash sensor
-b. Mechanically and rigidly attached to the vehicle
-c. Removable to test functionality
+- a. A resettable automotive crash sensor
+- b. Mechanically and rigidly attached to the vehicle
+- c. Removable to test functionality
 
 #### T.9.4.3 Inertia Switch operation:
 
 
-a. Must trigger due to a longitudinal impact load which decelerates the vehicle at between 8 g and 11 g depending on the duration of the deceleration
-b. Must Open the Shutdown Circuit [IC.9.2.2](ic-internal-combustion-engine-vehicles.md#ic922-when-the-shutdown-circuit-opens-it-must) / [EV.7.2.2](ev-electric-vehicles.md#ev722-when-the-shutdown-circuit-opens) if triggered
-c. Must latch until manually reset
-d. May be reset by the driver from inside the driver's cell
-
+- a. Must trigger due to a longitudinal impact load which decelerates the vehicle at between 8 g and 11 g depending on the duration of the deceleration
+- b. Must Open the Shutdown Circuit [IC.9.2.2](ic-internal-combustion-engine-vehicles.md#ic922-when-the-shutdown-circuit-opens-it-must) / [EV.7.2.2](ev-electric-vehicles.md#ev722-when-the-shutdown-circuit-opens) if triggered
+- c. Must latch until manually reset
+- d. May be reset by the driver from inside the driver's cell
