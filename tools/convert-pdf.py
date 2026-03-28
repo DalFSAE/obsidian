@@ -232,11 +232,11 @@ def expand_block(text: str) -> list[str]:
                 parts = _BULLET_SPLIT_RE.split(item_text)
                 item_lead = parts[0].rstrip()
                 bullets = [p.strip() for p in parts[1:] if p.strip()]
-                out.append(f"{letter}. {item_lead}" if item_lead else f"{letter}.")
+                out.append(f"- {letter}. {item_lead}" if item_lead else f"- {letter}.")
                 for b in bullets:
-                    out.append(f"   - {b}")
+                    out.append(f"  - {b}")
             else:
-                out.append(f"{letter}. {item_text}")
+                out.append(f"- {letter}. {item_text}")
         return out
 
     # No lettered list — handle inline/leading bullets
@@ -250,6 +250,11 @@ def expand_block(text: str) -> list[str]:
             if p.strip():
                 out.append(f"- {p.strip()}")
         return out if out else [text]
+
+    # Safety net: standalone letter-item line that didn't start at 'a.'
+    # (e.g. "b. The vehicle will enter..." arriving as a body paragraph)
+    if re.match(r"^[a-z]\. +[A-Z\(]", text):
+        return [f"- {text}"]
 
     return [text]
 
@@ -348,11 +353,33 @@ def process_section_lines(lines: list[str]) -> list[str]:
                 # Leaf rule: the inline text IS the rule content. Merge any
                 # following lines that are word-wrap continuations (not a blank
                 # line, not a new rule ID, not a new section header).
+                #
+                # Special case: PDF page breaks insert a blank line mid-list.
+                # When we hit a blank, peek ahead — if we're building a list
+                # and the next non-blank line is the next list item, skip
+                # the blank and keep merging.
                 parts = [inline_content] if inline_content else []
                 j = i + 1
                 while j < len(lines):
                     next_stripped = lines[j].strip()
                     if not next_stripped:
+                        # Find next non-blank line
+                        k = j + 1
+                        while k < len(lines) and not lines[k].strip():
+                            k += 1
+                        if k < len(lines):
+                            peek = lines[k].strip()
+                            in_list = any(
+                                re.match(r"^[a-z]\. ", p) for p in parts if p
+                            )
+                            is_next_item = (
+                                re.match(r"^[a-z]\. +[A-Z\(]", peek)
+                                and not RULE_ID_RE.match(peek)
+                                and not SECTION_HEADER_RE.match(peek)
+                            )
+                            if in_list and is_next_item:
+                                j = k  # skip blank(s), continue merging
+                                continue
                         break
                     if RULE_ID_RE.match(next_stripped):
                         break
@@ -387,7 +414,24 @@ def process_section_lines(lines: list[str]) -> list[str]:
                             if expanded != lead_in:
                                 result.append(expanded)
                     else:
-                        result.append(f"{heading_prefix} {rule_id} {full_text}")
+                        # No lettered list — try bullet expansion
+                        expanded_lines = expand_block(full_text)
+                        if len(expanded_lines) > 1:
+                            # Bullets found; first line is the lead-in (if not itself a bullet)
+                            first = expanded_lines[0]
+                            if not first.startswith("-"):
+                                result.append(f"{heading_prefix} {rule_id} {first}")
+                                result.append("")
+                                for exp in expanded_lines[1:]:
+                                    result.append(exp)
+                            else:
+                                # No lead-in text at all — heading has no extra text
+                                result.append(f"{heading_prefix} {rule_id}")
+                                result.append("")
+                                for exp in expanded_lines:
+                                    result.append(exp)
+                        else:
+                            result.append(f"{heading_prefix} {rule_id} {full_text}")
                     result.append("")
                 else:
                     result.append(f"{heading_prefix} {rule_id}")
