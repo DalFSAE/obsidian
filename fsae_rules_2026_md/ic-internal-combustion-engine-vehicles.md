@@ -16,7 +16,7 @@
 
 All parts of the engine air system and fuel control, delivery and storage systems (including the
 throttle or carburetor, and the complete air intake system, including the air cleaner and any
-air boxes) must lie inside the Tire Surface Envelope F.1.14
+air boxes) must lie inside the Tire Surface Envelope [F.1.14](f-chassis-and-structural.md#f114-tire-surface-envelope)
 ## IC.2 Air Intake System
 
 ### IC.2.1 General
@@ -85,8 +85,8 @@ upstream of the intake system restrictor.
 ### IC.3.2 Throttle Actuation Method
 
 The throttle may be operated:
-a. Mechanically by a cable or rod system  IC.3.3
-b. By Electronic Throttle Control  IC.4
+a. Mechanically by a cable or rod system  [IC.3.3](#ic33-throttle-actuation-mechanical)
+b. By Electronic Throttle Control  [IC.4](#ic4-electronic-throttle-control)
 ### IC.3.3 Throttle Actuation – Mechanical
 
 #### IC.3.3.1 The throttle cable or rod must: a. Have smooth operation b. Have no possibility of binding or sticking c. Be minimum 50 mm from any exhaust system component and out of the exhaust stream d. Be protected from being bent or kinked by the driver’s foot when it is operated by the driver or when the driver enters or exits the vehicle
@@ -97,7 +97,7 @@ b. By Electronic Throttle Control  IC.4
 
 ## IC.4 Electronic Throttle Control
 
-This section IC.4 applies only when Electronic Throttle Control is used
+This section [IC.4](#ic4-electronic-throttle-control) applies only when Electronic Throttle Control is used
 An Electronic Throttle Control (ETC) system may be used.  This is a device or system which
 may change the engine throttle setting based on various inputs.
 ### IC.4.1 General Design
@@ -148,10 +148,10 @@ may change the engine throttle setting based on various inputs.
 
 ### IC.4.5 Accelerator Pedal Position Sensor - APPS
 
-Refer to T.4.2 for specific requirements of the APPS
+Refer to [T.4.2](t-technical-aspects.md#t42-accelerator-pedal-position-sensor---apps) for specific requirements of the APPS
 ### IC.4.6 Brake System Encoder - BSE
 
-Refer to T.4.3 for specific requirements of the BSE
+Refer to [T.4.3](t-technical-aspects.md#t43-brake-system-encoder---bse) for specific requirements of the BSE
 ### IC.4.7 Throttle Plausibility Checks
 
 #### IC.4.7.1 Brakes and Throttle Position a. The power to the electronic throttle must be shut down if the mechanical brakes are operated and the TPS signals that the throttle is open by more than a permitted amount for more than one second. b. An interval of one second is permitted for the throttle to close (return to idle).  Failure to achieve this in the required interval must result in immediate shut down of fuel flow and the ignition system. c. The permitted relationship between BSE and TPS may be defined by the team using a table.  This functionality must be demonstrated at Technical Inspection.
@@ -339,7 +339,7 @@ devices that connect directly to the exhaust system, are prohibited.
 Each vehicle must start the engine using an onboard starter at all times
 ### IC.8.2 Batteries
 
-Refer to T.9.2 for specific requirements of Low Voltage batteries
+Refer to [T.9.2](t-technical-aspects.md#t92-low-voltage-batteries) for specific requirements of Low Voltage batteries
 ### IC.8.3 Voltage Limit
 
 #### IC.8.3.1 Voltage between any two electrical connections must be Low Voltage T.9.1.2
@@ -353,9 +353,9 @@ Refer to T.9.2 for specific requirements of Low Voltage batteries
 #### IC.9.1.1 The Shutdown Circuit consists of these components: a. Primary Master Switch  IC.9.3 b. Cockpit Main Switch  IC.9.4
 
 
-c. (ETC Only) Brake System Plausibility Device (BSPD)  IC.4.8
-d. Brake Overtravel Switch (BOTS)  T.3.3
-e. Inertia Switch (if used)  T.9.4
+c. (ETC Only) Brake System Plausibility Device (BSPD)  [IC.4.8](#ic48-brake-system-plausibility-device---bspd)
+d. Brake Overtravel Switch (BOTS)  [T.3.3](t-technical-aspects.md#t33-brake-over-travel-switch---bots)
+e. Inertia Switch (if used)  [T.9.4](t-technical-aspects.md#t94-inertia-switch)
 #### IC.9.1.2 The team must be able to demonstrate all features and functions of the Shutdown Circuit and components at Technical Inspection
 
 #### IC.9.1.3 The international electrical symbol  (a red spark on a white edged blue triangle) must be near the Primary Master Switch and the Cockpit Main Switch.
@@ -379,5 +379,4 @@ e. Inertia Switch (if used)  T.9.4
 #### IC.9.4.2 Location – The Cockpit Main Switch must be: a. In easy reach of the driver when in a normal driving position wearing Harness b. Adjacent to the Steering Wheel c. Unobstructed by the Steering Wheel or any other part of the vehicle
 
 #### IC.9.4.3 Function - the Cockpit Main Switch may act through a relay
-
 

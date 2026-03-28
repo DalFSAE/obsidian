@@ -162,4 +162,3 @@ part of the competition site, including the paddocks, is prohibited
 #### AD.7.4.2 Teams must remove all of their material and trash when leaving the site at the end of the competition
 
 #### AD.7.4.3 Teams that abandon furniture, or that leave a paddock that requires special cleaning, will be billed for removal and/or cleanup costs
-

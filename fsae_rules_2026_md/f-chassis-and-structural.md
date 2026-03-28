@@ -67,7 +67,7 @@ of the four tires.
 
 The area that is inside a plane from the top of the Main Hoop to the top of the Front
 Bulkhead, plus a plane from the top of the Main Hoop to the rearmost Triangulated structural
-tube, or monocoque equivalent.      * see note in step F.1.13 above
+tube, or monocoque equivalent.      * see note in step [F.1.13](#f113-rollover-protection-envelope) above
 
 ### F.1.16 Buckling Modulus (EI)
 
@@ -119,7 +119,7 @@ in the SES.
 
 ### F.3.1 Dimensions
 
-Diameter and Wall Thickness values provided in this Section F.3 are based on dimensions for
+Diameter and Wall Thickness values provided in this Section [F.3](#f3-tubing-and-material) are based on dimensions for
 commonly available tubing.
 
 
@@ -130,7 +130,7 @@ commonly available tubing.
 ### F.3.4 :
 
 Aluminum Tubing
-Permitted per F.3.5 ?
+Permitted per [F.3.5](#f35-aluminum-tubing) ?
 a. Front Bulkhead Size B Yes
 b. Front Bulkhead Support Size C Yes
 c. Front Hoop Size A Yes
@@ -234,8 +234,8 @@ e. The edge of the punch and hole in the fixture may include an optional fillet 
 maximum radius of 1 mm.
 f. The SES must include force and displacement data and photos of the test setup.
 g. The first peak in the load-deflection curve must be used to determine the skin shear
-strength; this may be less than the minimum force required by F.7.3.3 / F.7.5.5
-h. The maximum force recorded must meet the requirements of F.7.3.3 / F.7.5.5
+strength; this may be less than the minimum force required by [F.7.3.3](#f733-the-perimeter-shear-strength-of-the-monocoque-laminate-in-the-front-bulkhead-support-structure-must-be-4-kn-or-more-for-a-section-with-a-diameter-of-25-mm-this-must-be-proven-by-a-physical-test-completed-per-f425-and-the-results-included-in-the-ses) / [F.7.5.5](#f755-the-perimeter-shear-strength-of-the-monocoque-laminate-must-be-75-kn-or-more-for-a-section-with-a-diameter-of-25-mm-this-must-be-proven-by-physical-test-completed-per-f425-and-the-results-included-in-the-ses)
+h. The maximum force recorded must meet the requirements of [F.7.3.3](#f733-the-perimeter-shear-strength-of-the-monocoque-laminate-in-the-front-bulkhead-support-structure-must-be-4-kn-or-more-for-a-section-with-a-diameter-of-25-mm-this-must-be-proven-by-a-physical-test-completed-per-f425-and-the-results-included-in-the-ses) / [F.7.5.5](#f755-the-perimeter-shear-strength-of-the-monocoque-laminate-must-be-75-kn-or-more-for-a-section-with-a-diameter-of-25-mm-this-must-be-proven-by-physical-test-completed-per-f425-and-the-results-included-in-the-ses)
 #### F.4.2.6 Lap Joint Test The Lap Joint Test measures the force required to pull apart a joint of two laminate samples that are bonded together a. A joint design with two perpendicular bond areas may show equivalence using the shear performance of the smaller of the two areas b. A joint design with a single bond area must have two separate pull tests with different orientations of the adhesive joint: • Parallel to the pull direction, with the adhesive joint in pure shear • T peel normal to the pull direction, with the adhesive joint in peel c. The samples used must: • Have skin thicknesses identical to those used in the actual monocoque • Be manufactured using the same materials and processes The intent is to perform a test of the actual bond overlap, and fail the skin before the bond d. The force and displacement data and photos of the test setup must be included in the SES. e. The shear strength * normal area of the bond must be more than the UTS * cross sectional area of the skin
 
 ### F.4.3 Use of Laminates
@@ -374,7 +374,7 @@ straight ahead position.
 
 ### F.5.10 Head Restraint Protection
 
-An additional frame member may be added to meet T.2.8.3.b
+An additional frame member may be added to meet [T.2.8.3](t-technical-aspects.md#t283-all-material-and-structure-of-the-head-restraint-must-be-inside-one-or-the-two-of-a-rollover-protection-envelope-f113-b-head-restraint-protection-if-used-f510).b
 #### F.5.10.1 If used, the Head Restraint Protection frame member must: a. Attach to the nodes where the Main Hoop Braces F.5.9.2 connect to the Main Hoop b. Be constructed of a single piece of uncut, continuous, closed section steel tubing meeting
 
 #### F.3.2.1 .h c. Meet F.5.2.1 and F.5.2.2, as applicable  (does not need to meet F.5.2.3)
@@ -435,10 +435,10 @@ c. Have a wall thickness of 2.0 mm or more
 Steering system racks or mounting components that are external (vertically above or below)
 to the Primary Structure must be protected from frontal impact.
 The protective structure must:
-a. Be  F.3.2.1.n or Equivalent
+a. Be  [F.3.2.1](#f321-h-c-meet-f521-and-f522-as-applicable-does-not-need-to-meet-f523).n or Equivalent
 b. Extend to the vertical limit of the steering component(s)
 c. Extend to the local width of the Chassis
-d. Meet F.7.8 if not welded to the Chassis
+d. Meet [F.7.8](#f78-attachments) if not welded to the Chassis
 ### F.5.15 Other Side Tube Requirements
 
 If there is a Roll Hoop Brace or other frame tube alongside the driver, at the height of the neck
@@ -449,13 +449,13 @@ frame tube, and the driver’s neck contacting this brace or tube.
 ### F.5.16 Component Protection
 
 When specified in the rules, components must be protected by one or two of:
-a. Fully Triangulated structure with tubes meeting F.3.2.1.n
-b. Structure Equivalent to the above, as determined per F.4.1.3
+a. Fully Triangulated structure with tubes meeting [F.3.2.1](#f321-h-c-meet-f521-and-f522-as-applicable-does-not-need-to-meet-f523).n
+b. Structure Equivalent to the above, as determined per [F.4.1.3](#f413-calculations-that-show-equivalence-of-the-structure-to-one-of-similar-geometry-made-to-meet-the-minimum-requirements-for-a-structure-made-from-steel-tubing-per-f32-equivalency-calculations-must-be-submitted-for-energy-dissipation-yield-and-ultimate-strengths-in-bending-buckling-and-tension)
 ## F.6 Tube Frames
 
 ### F.6.1 Front Bulkhead
 
-The Front Bulkhead must be constructed of closed section tubing meeting F.3.2.1.a
+The Front Bulkhead must be constructed of closed section tubing meeting [F.3.2.1](#f321-h-c-meet-f521-and-f522-as-applicable-does-not-need-to-meet-f523).a
 ### F.6.2 Front Bulkhead Support
 
 #### F.6.2.1 Frame Members of the Front Bulkhead Support system must be constructed of closed section tubing meeting F.3.2.1.b
@@ -621,7 +621,7 @@ d. Examples of acceptable configurations of members may be found in the SES
 
 ### F.7.7 Roll Hoop Bracing Attachment
 
-Attachment of tubular Front or Main Hoop Bracing to the monocoque must obey F.7.8.
+Attachment of tubular Front or Main Hoop Bracing to the monocoque must obey [F.7.8](#f78-attachments).
 ### F.7.8 Attachments
 
 #### F.7.8.1 Each attachment point between the monocoque or composite panels and the other Primary Structure must be able to carry a minimum load of 30 kN in any direction. a. When a Roll Hoop attaches in three locations on each side, the attachments must be located at the bottom, top, and a location near the midpoint b. When a Roll Hoop attaches at only the bottom and a point between the top and the midpoint on each side, each of the four attachments must show load strength of 45 kN in all directions
@@ -699,7 +699,7 @@ higher than 120 kN
 #### F.8.4.3 If the outside profile of the Front Bulkhead is more than 400 mm x 350 mm, or the team uses the Standard Honeycomb Impact Attenuator, and then one of the two must be met: a. The Front Bulkhead must include an additional support that is a diagonal or X-brace that meets F.3.2.1.b or Equivalent (integral or attached) for Monocoque bulkheads  F.2.3.1 • The structure must go across the entire Front Bulkhead opening on the diagonal • Attachment points at each end must carry a minimum load of 30 kN in any direction
 
 
-b. Physical testing per F.8.8.6 and F.8.8.7 must be done to prove that the Anti Intrusion
+b. Physical testing per [F.8.8.6](#f886-impact-attenuator-test-setup-a-during-any-test-the-impact-attenuator-must-be-attached-to-the-anti-intrusion-plate-using-the-intended-vehicle-attachment-method-b-the-impact-attenuator-assembly-must-be-attached-to-a-structurally-representative-section-of-the-intended-chassis-the-test-fixture-must-have-equivalent-strength-and-stiffness-to-a-baseline-front-bulkhead-a-solid-block-of-material-in-the-shape-of-the-front-bulkhead-is-not-structurally-representative-c-there-must-be-50-mm-minimum-clearance-rearwards-of-the-anti-intrusion-plate-to-the-test-fixture-d-no-part-of-the-anti-intrusion-plate-may-permanently-deflect-more-than-25-mm-beyond-the-position-of-the-anti-intrusion-plate-before-the-test-the-25-mm-spacing-represents-the-front-bulkhead-support-and-insures-that-the-plate-does-not-intrude-excessively-into-the-cockpit) and [F.8.8.7](#f887-test-conduct-a-composite-impact-attenuators-must-be-dynamic-tested) must be done to prove that the Anti Intrusion
 Plate does not permanently deflect more than 25 mm.
 ### F.8.5 Impact Attenuator Attachment
 
@@ -895,7 +895,7 @@ Technical Inspection
 - Go to the top and bottom edges of the Rear Bulkhead structures
 b. A metal plate or composite Equivalent may replace upper, lower, and diagonal tubes
 If used, the plate must:
-- Fully overlap the Rear Bulkhead Support F.11.3.3 above
+- Fully overlap the Rear Bulkhead Support [F.11.3.3](#f1133-the-top-of-the-rear-bulkhead-must-be-vertically-above-the-bottom-of-the-rear-bulkhead-vertically-above-is-defined-as-the-upper-and-lower-cross-sections-partially-or-fully-overlapping-in-top-view) above
 - Attach by one of the two, as determined by the SES:
 - Fully laminated to the Rear Bulkhead or Rear Bulkhead Support
 - Attachment strength greater than 120 kN
@@ -908,4 +908,3 @@ If used, the plate must:
 #### F.11.4.2 The Tractive Battery Pack should have a minimum 25 mm total clearance to each of the front, side, and rear impact structures The clearance may be put together on either side of any Non Crushable items around the Tractive Battery Pack
 
 #### F.11.4.3 Non Crushable Items mounted behind the Rear Bulkhead must not be able to come through the Rear Bulkhead
-

@@ -129,4 +129,3 @@ Vehicles may have two types of tires, Dry and Wet
 #### V.4.3.4 Tire Pressure a. Tire Pressure must be in the range permitted by the manufacturer at all times b. Tire Pressure may be inspected at any time
 
 #### V.4.3.5 Requirements for All Tires a. Teams must not do any hand cutting, grooving or modification of the tires b. Tire warmers are not permitted c. No traction enhancers may be applied to the tires at any time onsite at the competition
-

@@ -95,29 +95,28 @@ as applicable to your design
 ### F.2.1 see below XLSX Tech
 
 
-ETC - Notice of Intent IC.4.2 see below PDF ETC
-ETC – Systems Form (ETCSF) IC.4.2 see below XLSX ETC
+ETC - Notice of Intent [IC.4.2](ic-internal-combustion-engine-vehicles.md#ic42-documentation) see below PDF ETC
+ETC – Systems Form (ETCSF) [IC.4.2](ic-internal-combustion-engine-vehicles.md#ic42-documentation) see below XLSX ETC
 EV – Electrical Systems Officer and
 Electrical Systems Advisor Form
 ### AD.5.2 ,
 
 ### AD.5.3 see below PDF Tech
 
-EV - Electrical System Form (ESF)  EV.2.1 see below XLSX Tech
-Presentation  (if required, see S.2.4.1) S.2.4 see S.2.4 see S.2.4 Other
-Cost Report S.3.4 see S.3.4.2 (1) Other
-Cost Addendum S.3.7 see below see S.3.7 none
-Design Briefing S.4.3 see below PDF Other
-Vehicle Drawings S.4.4 see S.4.4.1 PDF Other
-Design Spec Sheet S.4.5 see below XLSX Other
+EV - Electrical System Form (ESF)  [EV.2.1](ev-electric-vehicles.md#ev21-electrical-system-form---esf) see below XLSX Tech
+Presentation  (if required, see [S.2.4.1](s-static-events.md#s241-the-presentation-concept-may-require-information-to-be-submitted-prior-to-the-event-specific-details-will-be-included-in-the-presentation-concept)) [S.2.4](s-static-events.md#s24-presentation-submissions) see [S.2.4](s-static-events.md#s24-presentation-submissions) see [S.2.4](s-static-events.md#s24-presentation-submissions) Other
+Cost Report [S.3.4](s-static-events.md#s34-cost-report) see [S.3.4.2](s-static-events.md#s342-generate-and-submit-the-cost-report-using-the-event-website-see-ps---pre-competition-submissions) (1) Other
+Cost Addendum [S.3.7](s-static-events.md#s37-cost-addendum) see below see [S.3.7](s-static-events.md#s37-cost-addendum) none
+Design Briefing [S.4.3](s-static-events.md#s43-design-briefing) see below PDF Other
+Vehicle Drawings [S.4.4](s-static-events.md#s44-vehicle-drawings) see [S.4.4.1](s-static-events.md#s441-the-vehicle-drawings-must-meet-a-three-view-line-drawings-showing-the-vehicle-from-the-front-top-and-side-b-each-drawing-must-appear-on-a-separate-page-c-may-be-manually-or-computer-generated) PDF Other
+Design Spec Sheet [S.4.5](s-static-events.md#s45-design-spec-sheet) see below XLSX Other
 
 Format:  Use the template file or form available on the Event Website
 Note (1):  Refer to the Event Website for submission requirements
 Table PS-2 Submission Penalty Information
 Penalty Group Penalty Points
 per 24 Hours Not Submitted after the Deadline
-ETC none Not Approved to use ETC  -  see PS.3.4.1
-Tech -20 Grounds for Removal  -  see PS.3.3
+ETC none Not Approved to use ETC  -  see [PS.3.4.1](#ps341-electronic-throttle-control-etc-ic-only-a-there-is-no-point-penalty-for-etc-documents-b-the-team-will-not-be-permitted-to-run-etc-on-their-vehicle-and-must-use-mechanical-throttle-operation-when-the-etc-notice-of-intent-is-not-submitted-the-etc-systems-form-is-not-submitted-or-is-not-accepted)
+Tech -20 Grounds for Removal  -  see [PS.3.3](#ps33-removal-of-team-entry)
 Other -20 Removed from Cost/Design/Presentation
-Event and Score 0 points – see PS.3.2.2
-
+Event and Score 0 points – see [PS.3.2.2](#ps322-additional-penalties-will-apply-if-not-submitted-subject-to-official-discretion)

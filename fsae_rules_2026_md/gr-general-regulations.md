@@ -277,4 +277,3 @@ The decision regarding any protest is final
 #### GR.9.3.2 Second Year Vehicles must not enter Formula SAE Competitions, unless permitted by the organizer of the specific competition. The Formula SAE and Formula SAE Electric events do not allow Second Year Vehicles
 
 #### GR.9.3.3 Third Year Vehicles must not enter any Formula SAE Competitions
-

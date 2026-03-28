@@ -40,7 +40,7 @@ Every electrical part that is not part of the Tractive System
 
 ### EV.2.2 Submission Penalties
 
-Penalties for the ESF are added as given in section PS - Pre-Competition Submissions
+Penalties for the ESF are added as given in section [PS](ps-pre-competition-submissions.md) - Pre-Competition Submissions
 ## EV.3 Electrical Limitations
 
 ### EV.3.1 Operation
@@ -134,10 +134,10 @@ Controller.  No direct connections between Motor(s) and Tractive Battery.
 
 ### EV.4.5 Accelerator Pedal Position Sensor - APPS
 
-Refer to T.4.2 for specific requirements of the APPS
+Refer to [T.4.2](t-technical-aspects.md#t42-accelerator-pedal-position-sensor---apps) for specific requirements of the APPS
 ### EV.4.6 Brake System Encoder - BSE
 
-Refer to T.4.3 for specific requirements of the BSE
+Refer to [T.4.3](t-technical-aspects.md#t43-brake-system-encoder---bse) for specific requirements of the BSE
 ### EV.4.7 APPS / Brake Pedal Plausibility Check
 
 #### EV.4.7.1 Must monitor for the two conditions: • The mechanical brakes are engaged  EV.4.6,  T.3.2.4 • The APPS signals more than 25% Pedal Travel  EV.4.5
@@ -146,7 +146,7 @@ Refer to T.4.3 for specific requirements of the BSE
 
 ### EV.4.8 Tractive System Part Positioning
 
-All parts belonging to the Tractive System must meet F.11
+All parts belonging to the Tractive System must meet [F.11](f-chassis-and-structural.md#f11-tractive-system-ev-only)
 ### EV.4.9 Housings and Enclosures
 
 #### EV.4.9.1 Each housing or enclosure containing parts of the Tractive System other than Motor housings, must be labelled with the: a. Symbol specified in ISO 7010-W012  (triangle with black lightning bolt on yellow background) b. Text “High Voltage” if the voltage meets T.9.1.1
@@ -219,7 +219,7 @@ All parts belonging to the Tractive System must meet F.11
 ### EV.5.5 Manual Service Disconnect - MSD
 
 A Manual Service Disconnect (MSD) must be included to quickly disconnect one or the two
-poles of the Tractive Battery Pack  EV.11.3.2
+poles of the Tractive Battery Pack  [EV.11.3.2](#ev1132-the-msd-ev55-must-be-disconnected-when-vehicles-are-a-moved-around-the-competition-site-b-participating-in-static-events)
 #### EV.5.5.1 The Manual Service Disconnect (MSD) must be: a. A directly accessible element, fuse or connector that will visually show disconnected b. More than 350 mm from the ground c. Easily visible when standing behind the vehicle d. Operable in 10 seconds or less by an untrained person e. Operable without removing any bodywork or obstruction or using tools f. Directly operated.  Remote operation through a long handle, rope or wire is not acceptable. g. Clearly marked with "MSD"
 
 #### EV.5.5.2 The Energy Meter must not be used as the Manual Service Disconnect (MSD)
@@ -242,7 +242,7 @@ poles of the Tractive Battery Pack  EV.11.3.2
 
 ### EV.5.7 Voltage Indicator
 
-Each Tractive Battery Pack must have a prominent indicator when High Voltage T.9.1.1 is
+Each Tractive Battery Pack must have a prominent indicator when High Voltage [T.9.1.1](t-technical-aspects.md#t911-high-voltage-hv-any-voltage-more-than-60-v-dc-or-25-v-ac-rms) is
 present at the vehicle side of the IRs
 #### EV.5.7.1 The Voltage Indicator must always function, including when the Tractive Battery Pack is disconnected or removed
 
@@ -267,7 +267,7 @@ present at the vehicle side of the IRs
 
 ### EV.5.9 Connectors
 
-Tractive System connectors outside of a housing must contain an Interlock EV.7.8
+Tractive System connectors outside of a housing must contain an Interlock [EV.7.8](#ev78-interlocks)
 ### EV.5.10 Ready to Move Light
 
 #### EV.5.10.1 The vehicle must have two Ready to Move Lights: a. One pointed forward b. One pointed aft Refer to the Rules FAQ on the Event Website for additional information
@@ -474,7 +474,7 @@ c. On the positive conductor in the Grounded Low Voltage System
 #### EV.7.7.2 The BSPD must Open the Shutdown Circuit  EV.7.2.2 when the two of these exist:
 
 
-- Demand for Hard Braking   EV.4.6
+- Demand for Hard Braking   [EV.4.6](#ev46-brake-system-encoder---bse)
 - Tractive System current is at a level where 5 kW of electrical power in the DC circuit is
 delivered to the Motor(s) at the nominal battery voltage
 The BSPD may delay opening the shutdown circuit up to 0.5 sec to prevent false trips
@@ -557,13 +557,13 @@ The BSPD may delay opening the shutdown circuit up to 0.5 sec to prevent false t
 ### EV.9.1 Activation Requirement
 
 The driver must complete the Activation Sequence without external assistance after the
-Master Switches EV.7.9 are ON
+Master Switches [EV.7.9](#ev79-master-switches) are ON
 ### EV.9.2 Activation Sequence
 
 The vehicle systems must energize in this sequence:
-a. Low Voltage (GLV) System  EV.9.3
-b. Tractive System Active  EV.9.4
-c. Ready to Drive  EV.9.5
+a. Low Voltage (GLV) System  [EV.9.3](#ev93-low-voltage-glv-system)
+b. Tractive System Active  [EV.9.4](#ev94-tractive-system-active)
+c. Ready to Drive  [EV.9.5](#ev95-ok-to-energize)
 ### EV.9.3 Low Voltage (GLV) System
 
 The Shutdown Circuit may be Closed when or after the GLV System is energized
@@ -658,7 +658,7 @@ The Shutdown Circuit may be Closed when or after the GLV System is energized
 A vehicle will be a Red Car if any of the following:
 
 a. Actual or possible damage to the vehicle affecting the Tractive System
-b. Vehicle fault indication (EV.5.11 or equivalent)
+b. Vehicle fault indication ([EV.5.11](#ev511-tractive-system-status-indicator) or equivalent)
 c. Other conditions, at the discretion of the officials
 ### EV.12.2 Actions
 
@@ -667,5 +667,4 @@ b. No contact with the vehicle unless the officials give permission
 Contact with the vehicle may require trained personnel with proper Personal Protective
 Equipment
 c. Call out Red Car responders
-
 

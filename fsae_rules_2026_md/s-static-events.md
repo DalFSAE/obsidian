@@ -112,7 +112,7 @@ c. The Formula SAE Cost Event Supplement is available on the Event Website
 
 ### S.3.6 Late Submission
 
-Penalties for Late Submission of Cost Report will be added as given in section PS - Pre-
+Penalties for Late Submission of Cost Report will be added as given in section [PS](ps-pre-competition-submissions.md) - Pre-
 Competition Submissions
 ### S.3.7 Cost Addendum
 
@@ -242,7 +242,7 @@ of the Cost Scenario
 
 ### S.4.5 Design Spec Sheet
 
-Use the format provided and submit the Design Spec Sheet as given in section PS - Pre-
+Use the format provided and submit the Design Spec Sheet as given in section [PS](ps-pre-competition-submissions.md) - Pre-
 Competition Submissions
 The Design Judges realize that final design refinements and vehicle development may cause
 the submitted values to differ from those of the completed vehicle.  For specifications that are
@@ -280,4 +280,3 @@ selected teams.
 #### S.4.10.2 Penalty points may be subtracted from the Design score
 
 #### S.4.10.3 Vehicles that are excluded from Design judging or refused judging get zero points for Design, and may receive penalty points.
-

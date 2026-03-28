@@ -8,7 +8,7 @@ Rules.
 ### IN.1.1 Inspection Required
 
 Each vehicle must pass all applicable parts of Technical Inspection, receive Inspection
-Approval IN.15.1 and show the Inspection Sticker IN.15.2 before it may participate in any
+Approval [IN.15.1](#in151-inspection-approval) and show the Inspection Sticker [IN.15.2](#in152-inspection-sticker) before it may participate in any
 Dynamic event.
 ### IN.1.2 Technical Inspection Authority
 
@@ -22,7 +22,7 @@ Teams must make sure that their vehicle, and the required equipment, obeys the F
 Rules before Technical Inspection.
 ### IN.1.4 Reinspection
 
-Officials may Reinspect any vehicle at any time during the competition  IN.17
+Officials may Reinspect any vehicle at any time during the competition  [IN.17](#in17-reinspection)
 ## IN.2 Inspection Conduct
 
 ### IN.2.1 Vehicle Condition
@@ -85,21 +85,21 @@ Sheets published before the competition
 
 Bring these to Initial Inspection / Gear Check:
 - Technical Inspection Form
-- All Driver Equipment per VE.3 to be used by each driver
-- Fire Extinguishers (for paddock and vehicle)  VE.2.3
-- Wet Tires  V.4.3.2
+- All Driver Equipment per [VE.3](ve-vehicle-and-driver-equipment.md#ve3-driver-equipment) to be used by each driver
+- Fire Extinguishers (for paddock and vehicle)  [VE.2.3](ve-vehicle-and-driver-equipment.md#ve23-fire-extinguisher)
+- Wet Tires  [V.4.3.2](v-vehicle-requirements.md#v432-wet-tires-any-size-or-type-of-treaded-or-grooved-tire-where-the-tread-pattern-or-grooves-were-molded-in-by-the-tire-manufacturer-or-were-cut-by-the-tire-manufacturer-or-appointed-agent-any-grooves-that-have-been-cut-must-have-documented-proof-that-this-rule-was-met-there-is-a-minimum-tread-depth-of-24-mm)
 ## IN.5 Tractive Battery Pack And Charger Inspection (EV Only)
 
 ### IN.5.1 Inspection Items
 
 Bring these to Tractive Battery Pack and Charger Inspection:
-- Tractive Battery Pack mounted on the Hand Cart  EV.4.10
-- Spare Battery Pack(s) and Tractive Battery components (if applicable)  EV.5.1.3
-- Charger(s) for the Tractive Battery  EV.8.1
-- Tractive Battery Container samples (if applicable)  F.10.2.1.c,  F.10.2.2.c
+- Tractive Battery Pack mounted on the Hand Cart  [EV.4.10](ev-electric-vehicles.md#ev410-for-charging)
+- Spare Battery Pack(s) and Tractive Battery components (if applicable)  [EV.5.1.3](ev-electric-vehicles.md#ev513-all-tractive-battery-components-andor-tractive-battery-containers-including-spares-and-replacement-parts-must-be-identical-to-the-design-documented-in-the-esf-and-ses)
+- Charger(s) for the Tractive Battery  [EV.8.1](ev-electric-vehicles.md#ev81-charger-requirements)
+- Tractive Battery Container samples (if applicable)  [F.10.2.1](f-chassis-and-structural.md#f1021-the-floor-or-bottom-must-be-made-from-one-of-the-three-a-steel-125-mm-minimum-thickness-b-aluminum-32-mm-minimum-thickness-c-equivalent-alternate-composite-materials-f41-f42).c,  [F.10.2.2](f-chassis-and-structural.md#f1022-all-walls-internal-and-external-covers-and-lids-must-be-made-from-one-of-the-three-a-steel-09-mm-minimum-thickness-b-aluminum-23-mm-minimum-thickness-c-equivalent-alternate-composite-materials-f41-f42).c
 
-- Electrical Systems Form (ESF) and Component Data Sheets  EV.2
-- Electronic copies of any submitted Rules Questions with the received answer  GR.7
+- Electrical Systems Form (ESF) and Component Data Sheets  [EV.2](ev-electric-vehicles.md#ev2-documentation)
+- Electronic copies of any submitted Rules Questions with the received answer  [GR.7](gr-general-regulations.md#gr7-rules-questions)
 These basic tools in good condition:
 - Insulated cable shears
 - Insulated screw drivers
@@ -127,13 +127,13 @@ installed) before Tractive Battery Pack Inspection is fully completed
 ### IN.6.1 Inspection Items
 
 Bring these to Mechanical / Electrical Inspection:
-- Vehicle on the Dry Tires to be used for Dynamic events  V.4.3.1
+- Vehicle on the Dry Tires to be used for Dynamic events  [V.4.3.1](v-vehicle-requirements.md#v431-dry-tires-a-the-tires-on-the-vehicle-when-it-is-presented-for-technical-inspection-b-may-be-any-size-or-type-slicks-or-treaded)
 - Technical Inspection Form
-- Push Bar  VE.2.2
-- Structural Equivalency Spreadsheet (SES) – electronic copy  F.2.1
-- Monocoque Laminate Test Specimens (if applicable)  F.4.2
-- The Impact Attenuator that was tested (if applicable)  F.8.8.7
-- Electronic copies of any submitted Rules Questions with the received answer  GR.7
+- Push Bar  [VE.2.2](ve-vehicle-and-driver-equipment.md#ve22-push-bar)
+- Structural Equivalency Spreadsheet (SES) – electronic copy  [F.2.1](ps-pre-competition-submissions.md#f21-see-below-xlsx-tech)
+- Monocoque Laminate Test Specimens (if applicable)  [F.4.2](f-chassis-and-structural.md#f42-laminate-and-material-testing)
+- The Impact Attenuator that was tested (if applicable)  [F.8.8.7](f-chassis-and-structural.md#f887-test-conduct-a-composite-impact-attenuators-must-be-dynamic-tested)
+- Electronic copies of any submitted Rules Questions with the received answer  [GR.7](gr-general-regulations.md#gr7-rules-questions)
 ### IN.6.2 Aerodynamic Devices Stability and Strength
 
 #### IN.6.2.1 Any Aerodynamic Devices may be checked by pushing on the device in any direction and at any point This is guidance, but actual conformance will be up to technical inspectors at the respective competitions. The intent is to reduce the likelihood of wings detaching
@@ -167,11 +167,11 @@ The organizer may measure or tear down engines to confirm conformance to the rul
 The Driver Template Inspection is part of Mechanical Inspection
 ### IN.7.1 Conduct
 
-The Driver Template shown in F.5.6.5 will be positioned as given in F.5.6.6
+The Driver Template shown in [F.5.6.5](f-chassis-and-structural.md#f565-driver-template-a-two-dimensional-template-used-to-represent-the-95th-percentile-male-is-made-to-these-dimensions-see-figure-below-a-circle-of-diameter-200-mm-will-represent-the-hips-and-buttocks-a-circle-of-diameter-200-mm-will-represent-the-shouldercervical-region-a-circle-of-diameter-300-mm-will-represent-the-head-with-helmet-a-straight-line-measuring-490-mm-will-connect-the-centers-of-the-two-200-mm-circles-a-straight-line-measuring-280-mm-will-connect-the-centers-of-the-upper-200-mm-circle-and-the-300-mm-head-circle) will be positioned as given in [F.5.6.6](f-chassis-and-structural.md#f566-driver-template-position-the-driver-template-will-be-positioned-as-follows-the-seat-will-be-adjusted-to-the-rearmost-position-the-pedals-will-be-put-in-the-most-forward-position-the-bottom-200-mm-circle-will-be-put-on-the-seat-bottom-where-the-distance-between-the-center-of-this-circle-and-the-rearmost-face-of-the-pedals-is-no-less-than-915-mm-the-middle-200-mm-circle-representing-the-shoulders-will-be-positioned-on-the-seat-back-the-upper-300-mm-circle-will-be-positioned-no-more-than-25-mm-away-from-the-head-restraint-where-the-drivers-helmet-would-normally-be-located-while-driving)
 ### IN.7.2 Driver Template Clearance Criteria
 
 To pass Mechanical Technical Inspection, the Driver Template must meet the clearance
-specified in F.5.6.4
+specified in [F.5.6.4](f-chassis-and-structural.md#f564-roll-hoop-and-driver-position-when-seated-normally-and-restrained-by-the-driver-restraint-system-the-helmet-of-a-95th-percentile-male-see-v211-and-all-of-the-teams-drivers-must-a-be-a-minimum-of-50-mm-from-the-straight-line-drawn-from-the-top-of-the-main-hoop-to-the-top-of-the-front-hoop-b-be-a-minimum-of-50-mm-from-the-straight-line-drawn-from-the-top-of-the-main-hoop-to-the-lower-end-of-the-main-hoop-bracing-if-the-bracing-extends-rearwards-c-be-no-further-rearwards-than-the-rear-surface-of-the-main-hoop-if-the-main-hoop-bracing-extends-forwards)
 ## IN.8 Cockpit Template Inspections
 
 The Cockpit Template Inspections is part of Mechanical Inspection
@@ -192,9 +192,9 @@ parts of Technical Inspection
 ### IN.9.1 Driver Clearance
 
 Each driver in the normal driving position is checked for the three:
-- Helmet clearance  F.5.6.4
-- Head Restraint positioning  T.2.8.6
-- Harness fit and adjustment  T.2.5, T.2.6, T.2.7
+- Helmet clearance  [F.5.6.4](f-chassis-and-structural.md#f564-roll-hoop-and-driver-position-when-seated-normally-and-restrained-by-the-driver-restraint-system-the-helmet-of-a-95th-percentile-male-see-v211-and-all-of-the-teams-drivers-must-a-be-a-minimum-of-50-mm-from-the-straight-line-drawn-from-the-top-of-the-main-hoop-to-the-top-of-the-front-hoop-b-be-a-minimum-of-50-mm-from-the-straight-line-drawn-from-the-top-of-the-main-hoop-to-the-lower-end-of-the-main-hoop-bracing-if-the-bracing-extends-rearwards-c-be-no-further-rearwards-than-the-rear-surface-of-the-main-hoop-if-the-main-hoop-bracing-extends-forwards)
+- Head Restraint positioning  [T.2.8.6](t-technical-aspects.md#t286-for-all-drivers-the-head-restraint-must-be-located-and-adjusted-where-a-the-head-restraint-is-no-more-than-25-mm-away-from-the-back-of-the-drivers-helmet-with-the-driver-in-their-normal-driving-position-b-the-contact-point-of-the-back-of-the-drivers-helmet-on-the-head-restraint-is-no-less-than-50-mm-from-any-edge-of-the-head-restraint-approximately-100-mm-of-longitudinal-adjustment-should-accommodate-range-of-specified-drivers-several-head-restraints-with-different-thicknesses-may-be-used)
+- Harness fit and adjustment  [T.2.5](t-technical-aspects.md#t25-lap-belt-mounting), [T.2.6](t-technical-aspects.md#t26-shoulder-harness), [T.2.7](t-technical-aspects.md#t27-anti-submarine-belt-mounting)
 ### IN.9.2 Egress Test
 
 #### IN.9.2.1 Each driver must be able to exit to the side of the vehicle in no more than 5 seconds
@@ -225,7 +225,7 @@ Each driver in the normal driving position is checked for the three:
 ### IN.10.3 Ready to Drive Sound
 
 The sound level may be measured with a free field microphone placed free from obstructions
-in a radius of 2 m around the vehicle against the criteria in EV.9.7
+in a radius of 2 m around the vehicle against the criteria in [EV.9.7](ev-electric-vehicles.md#ev97-ready-to-drive-sound)
 ### IN.10.4 Active Inspection / EV Active Completion
 
 #### IN.10.4.1 A separate OK to Energize Inspection Sticker IN.15.2 may be given to show that the vehicle may be Tractive System Active  EV.9.5
@@ -240,7 +240,7 @@ a. The vehicle must contain the maximum amount of fluids it may carry
 b. The tallest driver must be seated in the normal driving position
 c. Tilt tests may be conducted in one, the other, or the two directions to pass
 d. (IC only) Engines fitted with mechanically operated fuel pumps must be run to fill and
-pressure the system downstream of the High Pressure pump.  See IC.6.2
+pressure the system downstream of the High Pressure pump.  See [IC.6.2](ic-internal-combustion-engine-vehicles.md#ic62-high-pressure-injection-hpi-direct-injection-di)
 ### IN.11.2 Tilt Test Criteria
 
 #### IN.11.2.1 No fluid leakage of any type when the vehicle is tilted to a 45° angle to the horizontal
@@ -294,8 +294,8 @@ b. At all other speeds   110 dBC, fast weighting
 
 ### IN.12.7 Switch Function
 
-The function of one or more of the Primary Master Switch IC.9.3, Cockpit Main Switch IC.9.4,
-and/or BOTS T.3.3 will be verified during the Noise Test
+The function of one or more of the Primary Master Switch [IC.9.3](ic-internal-combustion-engine-vehicles.md#ic93-primary-master-switch), Cockpit Main Switch [IC.9.4](ic-internal-combustion-engine-vehicles.md#ic94-cockpit-main-switch),
+and/or BOTS [T.3.3](t-technical-aspects.md#t33-brake-over-travel-switch---bots) will be verified during the Noise Test
 ### IN.12.8 Noise Test Completion
 
 Noise Tests must be passed before a vehicle may try any further inspections
@@ -304,7 +304,7 @@ Noise Tests must be passed before a vehicle may try any further inspections
 ### IN.13.1 Rain Test Requirements
 
 - Tractive System must be Active
-- The vehicle must not be in Ready to Drive mode (EV.7)
+- The vehicle must not be in Ready to Drive mode ([EV.7](ev-electric-vehicles.md#ev7-shutdown-system))
 - Any driven wheels must not touch the ground
 - A driver must not be seated in the vehicle
 
@@ -388,14 +388,14 @@ Inspection Form.
 - Replacement of worn tires or brake pads.  Replacement tires and brake pads must be
 identical in material/composition/size to those presented and approved at Technical
 Inspection.
-- Changing of wheels and tires for weather conditions  D.6
+- Changing of wheels and tires for weather conditions  [D.6](d-dynamic-events.md#d6-tires-and-tire-changes)
 - Recharging Low Voltage Batteries
 - Recharging Tractive Battery Pack(s)
 ### IN.16.3 Repairs or Changes After Inspection Approval
 
 The Inspection Approval may be voided for any reason including, but not limited to:
-a. Damage to the vehicle  IN.15.1.3
-b. Changes beyond those permitted per IN.16.2 above
+a. Damage to the vehicle  [IN.15.1.3](#in1513-the-inspection-approval-is-contingent-on-the-vehicle-remaining-in-the-required-condition-throughout-the-competition)
+b. Changes beyond those permitted per [IN.16.2](#in162-after-inspection-approval) above
 ## IN.17 Reinspection
 
 ### IN.17.1 Requirement
@@ -415,4 +415,3 @@ b. Changes beyond those permitted per IN.16.2 above
 #### IN.17.3.1 With Voided Inspection Approval Successful completion of Reinspection will restore Inspection Approval  IN.15.1
 
 #### IN.17.3.2 During Dynamic Events a. Issues found during Reinspection will void Inspection Approval b. Penalties may be applied to the Dynamic Events the vehicle has competed in Applied penalties may include additional time added to event(s), loss of one or more fastest runs, up to Disqualification, subject to official discretion
-

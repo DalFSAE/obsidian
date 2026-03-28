@@ -35,13 +35,13 @@ Total       675 points
 ### D.2.2 Fueling and Charging
 
 (IC only) Officials must conduct all fueling activities in the designated location.
-(EV only) Charging must be done in the designated location  EV.11.5
+(EV only) Charging must be done in the designated location  [EV.11.5](ev-electric-vehicles.md#ev115-charging)
 ### D.2.3 Powertrain Operation
 
 In the paddock, (IC) Engines may be run or (EV) Tractive System may be Active if all three:
 a. (IC Only) The vehicle has passed Technical Inspection up to and including the Tilt Test OR
 a Technical Inspector gives permission
-(EV only) The vehicle shows the OK to Energize sticker  IN.10.4
+(EV only) The vehicle shows the OK to Energize sticker  [IN.10.4](in-technical-inspection.md#in104-active-inspection-ev-active-completion)
 b. The vehicle is supported on a stand
 
 c. The drive wheels are minimum 10 cm off the ground, OR the drive wheels are removed
@@ -79,7 +79,7 @@ competition will be excluded from the competition.
 ### D.3.6 Starting
 
 Auxiliary batteries must not be used once a vehicle has moved to the starting line of any
-event.  See IC.8.1
+event.  See [IC.8.1](ic-internal-combustion-engine-vehicles.md#ic81-starter)
 ### D.3.7 Practice Area
 
 #### D.3.7.1 A practice area for testing and tuning may be available
@@ -415,8 +415,8 @@ together to reduce the need for passing.
 
 ### EV.7.10
 
-b. Adjustments to fit the driver IN.16.2.2
-c. Tire changes per D.6.2
+b. Adjustments to fit the driver [IN.16.2.2](in-technical-inspection.md#in1622-changes-to-fit-the-vehicle-to-different-drivers-are-permitted-adjustment-of-the-driver-restraint-system-head-restraint-seat-and-pedal-assembly-substitution-of-the-head-restraint-or-seat-insert-adjustment-of-mirrors)
+c. Tire changes per [D.6.2](#d62-tire-changes-during-endurance)
 
 ### D.12.8 Driver Change Procedure
 
@@ -567,6 +567,5 @@ Efficiency Factor your - Efficiency Factor min
 #### D.14.3.3 Violation with potential or actual effect on safety or environment:  240 sec up to DNF or DQ
 
 #### D.14.3.4 Team may be DNF or DQ for: a. Multiple violations involving safety, environment, or performance advantage b. A single substantial violation
-
 
 

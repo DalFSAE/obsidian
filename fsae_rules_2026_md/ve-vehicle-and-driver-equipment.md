@@ -23,7 +23,7 @@ The SAE International Logo must be displayed on the front and/or the left and ri
 the vehicle in a prominent location.
 ### VE.1.4 Inspection Sticker
 
-The vehicle must have space for the Inspection Sticker(s) IN.15.2 that is:
+The vehicle must have space for the Inspection Sticker(s) [IN.15.2](in-technical-inspection.md#in152-inspection-sticker) that is:
 - A clear and unobstructed area, minimum 25 cm wide x 20 cm high
 - Located on the upper front surface of the nose along the vehicle centerline
 ### VE.1.5 Transponder / RFID Tag
@@ -109,5 +109,4 @@ The driver must wear:
 #### VE.3.3.6 Gloves Gloves made from Flame Resistant Material. Gloves of all leather construction or fire retardant gloves constructed using leather palms with no insulating Flame Resistant Material underneath are not acceptable.
 
 #### VE.3.3.7 Arm Restraints a. Arm restraints must be worn in a way that the driver can release them and exit the vehicle unassisted regardless of the vehicle’s position. b. Arm restraints must be commercially manufactured.  Arm restraints certified to SFI Spec 3.3 and labeled as such meet this requirement.
-
 

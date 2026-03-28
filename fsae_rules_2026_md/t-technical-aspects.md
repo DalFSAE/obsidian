@@ -109,10 +109,10 @@ c. 7 Point Harness – consists of two Lap Belts, two Shoulder Belts, two leg or
 Submarine Belts and a negative g or Z Belt.
 d. Upright Driving Position - with a seat back angled at 30° or less from the vertical as
 measured along the line joining the two 200 mm circles of the template of the 95th
-percentile male as defined in F.5.6.5 and positioned per F.5.6.6
+percentile male as defined in [F.5.6.5](f-chassis-and-structural.md#f565-driver-template-a-two-dimensional-template-used-to-represent-the-95th-percentile-male-is-made-to-these-dimensions-see-figure-below-a-circle-of-diameter-200-mm-will-represent-the-hips-and-buttocks-a-circle-of-diameter-200-mm-will-represent-the-shouldercervical-region-a-circle-of-diameter-300-mm-will-represent-the-head-with-helmet-a-straight-line-measuring-490-mm-will-connect-the-centers-of-the-two-200-mm-circles-a-straight-line-measuring-280-mm-will-connect-the-centers-of-the-upper-200-mm-circle-and-the-300-mm-head-circle) and positioned per [F.5.6.6](f-chassis-and-structural.md#f566-driver-template-position-the-driver-template-will-be-positioned-as-follows-the-seat-will-be-adjusted-to-the-rearmost-position-the-pedals-will-be-put-in-the-most-forward-position-the-bottom-200-mm-circle-will-be-put-on-the-seat-bottom-where-the-distance-between-the-center-of-this-circle-and-the-rearmost-face-of-the-pedals-is-no-less-than-915-mm-the-middle-200-mm-circle-representing-the-shoulders-will-be-positioned-on-the-seat-back-the-upper-300-mm-circle-will-be-positioned-no-more-than-25-mm-away-from-the-head-restraint-where-the-drivers-helmet-would-normally-be-located-while-driving)
 e. Reclined Driving Position - with a seat back angled at more than 30° from the vertical as
 measured along the line joining the two 200 mm circles of the template of the 95th
-percentile male as defined in F.5.6.5 and positioned per F.5.6.6
+percentile male as defined in [F.5.6.5](f-chassis-and-structural.md#f565-driver-template-a-two-dimensional-template-used-to-represent-the-95th-percentile-male-is-made-to-these-dimensions-see-figure-below-a-circle-of-diameter-200-mm-will-represent-the-hips-and-buttocks-a-circle-of-diameter-200-mm-will-represent-the-shouldercervical-region-a-circle-of-diameter-300-mm-will-represent-the-head-with-helmet-a-straight-line-measuring-490-mm-will-connect-the-centers-of-the-two-200-mm-circles-a-straight-line-measuring-280-mm-will-connect-the-centers-of-the-upper-200-mm-circle-and-the-300-mm-head-circle) and positioned per [F.5.6.6](f-chassis-and-structural.md#f566-driver-template-position-the-driver-template-will-be-positioned-as-follows-the-seat-will-be-adjusted-to-the-rearmost-position-the-pedals-will-be-put-in-the-most-forward-position-the-bottom-200-mm-circle-will-be-put-on-the-seat-bottom-where-the-distance-between-the-center-of-this-circle-and-the-rearmost-face-of-the-pedals-is-no-less-than-915-mm-the-middle-200-mm-circle-representing-the-shoulders-will-be-positioned-on-the-seat-back-the-upper-300-mm-circle-will-be-positioned-no-more-than-25-mm-away-from-the-head-restraint-where-the-drivers-helmet-would-normally-be-located-while-driving)
 f. Chest to Groin Line - the straight line that in side view follows the line of the Shoulder
 Belts from the chest to the release buckle.
 ### T.2.2 Harness Specification
@@ -344,8 +344,8 @@ helmet must be covered with a minimum thickness of 12 mm of padding which meets 
 
 ### T.4.1 Applicability
 
-This section T.4 applies only for:
-- IC vehicles using Electronic Throttle Control (ETC)   IC.4
+This section [T.4](#t4-electronic-throttle-components) applies only for:
+- IC vehicles using Electronic Throttle Control (ETC)   [IC.4](ic-internal-combustion-engine-vehicles.md#ic4-electronic-throttle-control)
 - EV vehicles
 ### T.4.2 Accelerator Pedal Position Sensor - APPS
 
@@ -487,7 +487,7 @@ Any system on the vehicle that uses a compressed gas as an actuating medium must
 
 ### T.6.2 High Pressure Hydraulic Pumps and Lines
 
-This section T.6.2 does not apply to Brake lines or hydraulic clutch lines
+This section [T.6.2](#t62-high-pressure-hydraulic-pumps-and-lines) does not apply to Brake lines or hydraulic clutch lines
 #### T.6.2.1 The driver and anyone standing outside the vehicle must be shielded from any hydraulic pumps and lines with line pressures of 2100 kPa or higher.
 
 #### T.6.2.2 The shields must be steel or aluminum with a minimum thickness of 1 mm.
@@ -504,7 +504,7 @@ This section T.6.2 does not apply to Brake lines or hydraulic clutch lines
 
 
 b. The Aerodynamic Devices do not oscillate or move excessively when the vehicle is
-moving.   Refer to IN.6.2
+moving.   Refer to [IN.6.2](in-technical-inspection.md#in62-aerodynamic-devices-stability-and-strength)
 #### T.7.1.4 All forward facing edges that could contact a pedestrian (wings, end plates, and undertrays) must have a minimum radius of 5 mm for all horizontal edges and 3 mm for vertical edges. This may be the radius of the edges themselves, or additional permanently attached pieces designed to meet this requirement.
 
 #### T.7.1.5 Other edges that a person may touch must not be sharp
@@ -529,7 +529,7 @@ moving.   Refer to IN.6.2
 
 ### T.7.4 Location
 
-Any part of any Aerodynamic Device or Bodywork must meet V.1.1 and V.1.4.1
+Any part of any Aerodynamic Device or Bodywork must meet [V.1.1](v-vehicle-requirements.md#v11-open-wheel) and [V.1.4.1](v-vehicle-requirements.md#v141-ground-clearance-must-be-sufficient-to-prevent-any-portion-of-the-vehicle-except-the-tires-from-touching-the-ground-during-dynamic-events)
 ### T.7.5 Length
 
 In plan view, any part of any Aerodynamic Device must be:
@@ -620,7 +620,7 @@ Adjustable tie rod ends must be constrained with a jam nut to prevent loosening
 
 ### T.9.3 Master Switches
 
-Each Master Switch ( IC.9.3 /  EV.7.9 ) must meet:
+Each Master Switch ( [IC.9.3](ic-internal-combustion-engine-vehicles.md#ic93-primary-master-switch) /  [EV.7.9](ev-electric-vehicles.md#ev79-master-switches) ) must meet:
 #### T.9.3.1 Location a. On the driver’s right hand side of the vehicle b. In proximity to the Main Hoop c. At the driver's shoulder height d. Able to be easily operated from outside the vehicle
 
 #### T.9.3.2 Characteristics a. Be of the rotary mechanical type b. Be rigidly mounted to the vehicle and must not be removed during maintenance c. Mounted where the rotary axis of the key is near horizontal and across the vehicle d. The ON position must be in the horizontal position and must be marked accordingly e. The OFF position must be clearly marked f. (EV Only) Operated with a red removable key that must only be removable in the electrically open position
@@ -633,5 +633,4 @@ Each Master Switch ( IC.9.3 /  EV.7.9 ) must meet:
 #### T.9.4.2 The Inertia Switch must be: a. A resettable automotive crash sensor b. Mechanically and rigidly attached to the vehicle c. Removable to test functionality
 
 #### T.9.4.3 Inertia Switch operation: a. Must trigger due to a longitudinal impact load which decelerates the vehicle at between 8 g and 11 g depending on the duration of the deceleration b. Must Open the Shutdown Circuit IC.9.2.2 / EV.7.2.2 if triggered c. Must latch until manually reset d. May be reset by the driver from inside the driver's cell
-
 
