@@ -58,7 +58,11 @@ Refer to Table PS-1 Submission Information
 
 #### PS.3.1.1 Each team is responsible for confirming that their documents have been properly uploaded or submitted and that the deadlines have been met
 
-#### PS.3.1.2 Prior to the Submission Deadline: a. Documents may be uploaded at any time b. Uploads may be replaced with new uploads without penalty
+#### PS.3.1.2 Prior to the Submission Deadline:
+
+
+a. Documents may be uploaded at any time
+b. Uploads may be replaced with new uploads without penalty
 
 #### PS.3.1.3 If a Submitted Document revision is requested by the Reviewer, a new Submission Deadline for the revised document may apply
 
@@ -74,15 +78,26 @@ Refer to Table PS-1 Submission Information
 
 ### PS.3.3 Removal of Team Entry
 
-#### PS.3.3.1 The organizer may remove the team entry when a: a. Grounds for Removal document is Not Submitted in 24 hours or less after the deadline. Removals will occur after each Document Submission deadline b. Team does not respond to Reviewer requests or organizer communications
+#### PS.3.3.1 The organizer may remove the team entry when a:
 
-#### PS.3.3.2 When a team entry will be removed: a. The team will be notified prior to cancelling registration b. No refund of entry fees will be given
+
+a. Grounds for Removal document is Not Submitted in 24 hours or less after the deadline. Removals will occur after each Document Submission deadline
+b. Team does not respond to Reviewer requests or organizer communications
+
+#### PS.3.3.2 When a team entry will be removed:
+
+
+a. The team will be notified prior to cancelling registration
+b. No refund of entry fees will be given
 
 ### PS.3.4 Specific Penalties
 
 #### PS.3.4.1 Electronic Throttle Control (ETC) (IC Only)
 
-a. There is no point penalty for ETC documents b. The team will not be permitted to run ETC on their vehicle and must use mechanical throttle operation when: • The ETC Notice of Intent is Not Submitted • The ETC Systems Form is Not Submitted, or is not accepted
+a. There is no point penalty for ETC documents
+b. The team will not be permitted to run ETC on their vehicle and must use mechanical throttle operation when:
+   - The ETC Notice of Intent is Not Submitted
+   - The ETC Systems Form is Not Submitted, or is not accepted
 
 #### PS.3.4.2 Fuel Type  IC.5.1 There is no point penalty.  Once the deadline has passed, the team gets the basic fuel type.
 
@@ -118,7 +133,7 @@ Presentation  (if required, see [S.2.4.1](s-static-events.md#s241-the-presentati
 Cost Report [S.3.4](s-static-events.md#s34-cost-report) see [S.3.4.2](s-static-events.md#s342-generate-and-submit-the-cost-report-using-the-event-website-see-ps---pre-competition-submissions) (1) Other
 Cost Addendum [S.3.7](s-static-events.md#s37-cost-addendum) see below see [S.3.7](s-static-events.md#s37-cost-addendum) none
 Design Briefing [S.4.3](s-static-events.md#s43-design-briefing) see below PDF Other
-Vehicle Drawings [S.4.4](s-static-events.md#s44-vehicle-drawings) see [S.4.4.1](s-static-events.md#s441-the-vehicle-drawings-must-meet-a-three-view-line-drawings-showing-the-vehicle-from-the-front-top-and-side-b-each-drawing-must-appear-on-a-separate-page-c-may-be-manually-or-computer-generated) PDF Other
+Vehicle Drawings [S.4.4](s-static-events.md#s44-vehicle-drawings) see [S.4.4.1](s-static-events.md#s441-the-vehicle-drawings-must-meet) PDF Other
 Design Spec Sheet [S.4.5](s-static-events.md#s45-design-spec-sheet) see below XLSX Other
 
 Format:  Use the template file or form available on the Event Website

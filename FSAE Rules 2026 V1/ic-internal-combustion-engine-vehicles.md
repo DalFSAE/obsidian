@@ -4,7 +4,11 @@
 
 ### IC.1.1 Engine Limitations
 
-#### IC.1.1.1 The engine(s) used to power the vehicle must: a. Be a piston engine(s) using a four stroke primary heat cycle b. Have a total combined displacement less than or equal to 710 cc per cycle.
+#### IC.1.1.1 The engine(s) used to power the vehicle must:
+
+
+a. Be a piston engine(s) using a four stroke primary heat cycle
+b. Have a total combined displacement less than or equal to 710 cc per cycle.
 
 #### IC.1.1.2 Hybrid powertrains, such as those using electric motors running off stored energy, are prohibited.
 
@@ -33,19 +37,30 @@ air boxes) must lie inside the Tire Surface Envelope [F.1.14](f-chassis-and-stru
 
 #### IC.2.3.2 Threaded fasteners used to secure and/or seal the intake manifold must have a Positive Locking Mechanism, see T.8.3.
 
-#### IC.2.3.3 Intake systems with significant mass or cantilever from the cylinder head must be supported to prevent stress to the intake system. a. Supports to the engine must be rigid b. Supports to the Chassis must incorporate some isolation for engine movement and chassis flex
+#### IC.2.3.3 Intake systems with significant mass or cantilever from the cylinder head must be supported to prevent stress to the intake system.
+
+
+a. Supports to the engine must be rigid
+b. Supports to the Chassis must incorporate some isolation for engine movement and chassis flex
 
 ### IC.2.4 Intake System Restrictor
 
 #### IC.2.4.1 All airflow to the engine(s) must pass through a single circular restrictor in the intake system.
 
-#### IC.2.4.2 The only permitted sequence of components is: a. For naturally aspirated engines, the sequence must be: throttle body, restrictor, and engine.
+#### IC.2.4.2 The only permitted sequence of components is:
+
+
+a. For naturally aspirated engines, the sequence must be: throttle body, restrictor, and engine.
 
 
 b. For turbocharged or supercharged engines, the sequence must be: restrictor,
 compressor, throttle body, engine.
 
-#### IC.2.4.3 The maximum restrictor diameters at any time during the competition are: a. Gasoline fueled vehicles   20.0 mm b. E85 fueled vehicles   19.0 mm
+#### IC.2.4.3 The maximum restrictor diameters at any time during the competition are:
+
+
+a. Gasoline fueled vehicles   20.0 mm
+b. E85 fueled vehicles   19.0 mm
 
 #### IC.2.4.4 The restrictor must be located to facilitate measurement during Technical Inspection
 
@@ -55,7 +70,13 @@ compressor, throttle body, engine.
 
 ### IC.2.5 Turbochargers & Superchargers
 
-#### IC.2.5.1 The intake air may be cooled with an intercooler (a charge air cooler). a. It must be located downstream of the throttle body b. Only ambient air may be used to remove heat from the intercooler system c. Air to air and water to air intercoolers are permitted d. The coolant of a water to air intercooler system must meet T.5.4.1
+#### IC.2.5.1 The intake air may be cooled with an intercooler (a charge air cooler).
+
+
+a. It must be located downstream of the throttle body
+b. Only ambient air may be used to remove heat from the intercooler system
+c. Air to air and water to air intercoolers are permitted
+d. The coolant of a water to air intercooler system must meet [T.5.4.1](t-technical-aspects.md#t541-water-cooled-engines-must-use-only-plain-water-with-no-additives-of-any-kind)
 
 #### IC.2.5.2 If pop-off valves, recirculation valves, or heat exchangers (intercoolers) are used, they must be positioned in the intake system as shown in IC.2.4.2.b
 
@@ -71,7 +92,11 @@ upstream of the intake system restrictor.
 
 ### IC.3.1 General
 
-#### IC.3.1.1 The vehicle must have a carburetor or throttle body. a. The carburetor or throttle body may be of any size or design. b. Boosted applications must not use carburetors.
+#### IC.3.1.1 The vehicle must have a carburetor or throttle body.
+
+
+a. The carburetor or throttle body may be of any size or design.
+b. Boosted applications must not use carburetors.
 
 
 
@@ -89,7 +114,13 @@ a. Mechanically by a cable or rod system  [IC.3.3](#ic33-throttle-actuation-mech
 b. By Electronic Throttle Control  [IC.4](#ic4-electronic-throttle-control)
 ### IC.3.3 Throttle Actuation – Mechanical
 
-#### IC.3.3.1 The throttle cable or rod must: a. Have smooth operation b. Have no possibility of binding or sticking c. Be minimum 50 mm from any exhaust system component and out of the exhaust stream d. Be protected from being bent or kinked by the driver’s foot when it is operated by the driver or when the driver enters or exits the vehicle
+#### IC.3.3.1 The throttle cable or rod must:
+
+
+a. Have smooth operation
+b. Have no possibility of binding or sticking
+c. Be minimum 50 mm from any exhaust system component and out of the exhaust stream
+d. Be protected from being bent or kinked by the driver’s foot when it is operated by the driver or when the driver enters or exits the vehicle
 
 #### IC.3.3.2 The throttle actuation system must use two or more return springs located at the throttle body. Throttle Position Sensors (TPS) are NOT acceptable as return springs
 
@@ -104,7 +135,12 @@ may change the engine throttle setting based on various inputs.
 
 #### IC.4.1.1 The electronic throttle must automatically close (return to idle) when power is removed.
 
-#### IC.4.1.2 The electronic throttle must use minimum two sources of energy capable of returning the throttle to the idle position. a. One of the sources may be the device (such as a DC motor) that normally operates the throttle b. The other device(s) must be a throttle return spring that can return the throttle to the idle position if loss of actuator power occurs. c. Springs in the TPS are not acceptable throttle return springs
+#### IC.4.1.2 The electronic throttle must use minimum two sources of energy capable of returning the throttle to the idle position.
+
+
+a. One of the sources may be the device (such as a DC motor) that normally operates the throttle
+b. The other device(s) must be a throttle return spring that can return the throttle to the idle position if loss of actuator power occurs.
+c. Springs in the TPS are not acceptable throttle return springs
 
 #### IC.4.1.3 The ETC system may blip the throttle during downshifts when proven that unintended acceleration can be prevented.  Document the functional analysis in the ETC Systems Form
 
@@ -137,13 +173,21 @@ may change the engine throttle setting based on various inputs.
 
 #### IC.4.4.5 If three sensors are used, then if one TPS failure, any two TPSs that agree within 10% throttle position may be used to define the throttle position target and the 3rd TPS may be ignored
 
-#### IC.4.4.6 Each TPS must be able to be checked during Technical Inspection by having one of: a. A separate detachable connector(s) for any TPS signal(s) to the main ECU without affecting any other connections b. An inline switchable breakout box available that may disconnect each TPS signal(s) to the main ECU without affecting any other connections
+#### IC.4.4.6 Each TPS must be able to be checked during Technical Inspection by having one of:
+
+
+a. A separate detachable connector(s) for any TPS signal(s) to the main ECU without affecting any other connections
+b. An inline switchable breakout box available that may disconnect each TPS signal(s) to the main ECU without affecting any other connections
 
 #### IC.4.4.7 The TPS signals must be sent directly to the throttle controller using an analogue signal or via a digital data transmission bus such as CAN or FlexRay. Any failure of the TPSs or TPS wiring must be detectable by the controller and must be treated like Implausibility.
 
 #### IC.4.4.8 When an analogue signal is used, the TPSs will be considered to have failed when they achieve an open circuit or short circuit condition which generates a signal outside of the normal operating range, for example <0.5 V or >4.5 V. The circuitry used to evaluate the sensor must use pull down or pull up resistors to make sure that open circuit signals result in a failure being detected.
 
-#### IC.4.4.9 When any kind of digital data transmission is used to transmit the TPS signal, a. The ETC Systems Form must contain a detailed description of all the potential failure modes that can occur, the strategy that is used to detect these failures and the tests that have been conducted to prove that the detection strategy works. b. The failures to be considered must include but are not limited to the failure of the TPS, TPS signals being out of range, corruption of the message and loss of messages and the associated time outs.
+#### IC.4.4.9 When any kind of digital data transmission is used to transmit the TPS signal,
+
+
+a. The ETC Systems Form must contain a detailed description of all the potential failure modes that can occur, the strategy that is used to detect these failures and the tests that have been conducted to prove that the detection strategy works.
+b. The failures to be considered must include but are not limited to the failure of the TPS, TPS signals being out of range, corruption of the message and loss of messages and the associated time outs.
 
 
 ### IC.4.5 Accelerator Pedal Position Sensor - APPS
@@ -154,9 +198,19 @@ Refer to [T.4.2](t-technical-aspects.md#t42-accelerator-pedal-position-sensor---
 Refer to [T.4.3](t-technical-aspects.md#t43-brake-system-encoder---bse) for specific requirements of the BSE
 ### IC.4.7 Throttle Plausibility Checks
 
-#### IC.4.7.1 Brakes and Throttle Position a. The power to the electronic throttle must be shut down if the mechanical brakes are operated and the TPS signals that the throttle is open by more than a permitted amount for more than one second. b. An interval of one second is permitted for the throttle to close (return to idle).  Failure to achieve this in the required interval must result in immediate shut down of fuel flow and the ignition system. c. The permitted relationship between BSE and TPS may be defined by the team using a table.  This functionality must be demonstrated at Technical Inspection.
+#### IC.4.7.1 Brakes and Throttle Position
 
-#### IC.4.7.2 Throttle Position vs Target a. The power to the electronic throttle must be immediately shut down, if throttle position differs by more than 10% from the expected target TPS position for more than one second. b. An interval of one second is permitted for the difference to reduce to less than 10%, failure to achieve this in the required interval must result in immediate shut down of fuel flow and the ignition system. c. An error in TPS position and the resultant system shutdown must be demonstrated at Technical Inspection. Teams must have a method to demonstrate that the actions in IC.4.7.2.b above are met. System states displayed using calibration software must be accompanied by a detailed explanation of the control system.
+
+a. The power to the electronic throttle must be shut down if the mechanical brakes are operated and the TPS signals that the throttle is open by more than a permitted amount for more than one second.
+b. An interval of one second is permitted for the throttle to close (return to idle).  Failure to achieve this in the required interval must result in immediate shut down of fuel flow and the ignition system.
+c. The permitted relationship between BSE and TPS may be defined by the team using a table.  This functionality must be demonstrated at Technical Inspection.
+
+#### IC.4.7.2 Throttle Position vs Target
+
+
+a. The power to the electronic throttle must be immediately shut down, if throttle position differs by more than 10% from the expected target TPS position for more than one second.
+b. An interval of one second is permitted for the difference to reduce to less than 10%, failure to achieve this in the required interval must result in immediate shut down of fuel flow and the ignition system.
+c. An error in TPS position and the resultant system shutdown must be demonstrated at Technical Inspection. Teams must have a method to demonstrate that the actions in [IC.4.7.2](#ic472-throttle-position-vs-target).b above are met. System states displayed using calibration software must be accompanied by a detailed explanation of the control system.
 
 #### IC.4.7.3 The electronic throttle and fuel injector/ignition system shutdown must stay active until the TPS signals indicate the throttle is at or below the unpowered default position for one second or longer.
 
@@ -168,7 +222,14 @@ Refer to [T.4.3](t-technical-aspects.md#t43-brake-system-encoder---bse) for spec
 
 #### IC.4.8.3 Signals from any sensors must be sent directly to the BSPD. Outputs from other modules may not be used in place of the raw sensor signals.
 
-#### IC.4.8.4 The BSPD must monitor for these conditions: a. The two of these for more than one second: • Demand for Hard Braking from BSE   IC.4.6 • Throttle more than 10% open from TPS  IC.4.4 b. Loss of signal from a braking sensor for more than 100 msec c. Loss of signal from a throttle sensor for more than 100 msec
+#### IC.4.8.4 The BSPD must monitor for these conditions:
+
+
+a. The two of these for more than one second:
+   - Demand for Hard Braking from BSE   [IC.4.6](#ic46-brake-system-encoder---bse)
+   - Throttle more than 10% open from TPS  [IC.4.4](#ic44-throttle-position-sensor---tps)
+b. Loss of signal from a braking sensor for more than 100 msec
+c. Loss of signal from a throttle sensor for more than 100 msec
 
 
 #### IC.4.8.5 When any of the above conditions exist, the BSPD must Open the Shutdown Circuit IC.9.2.2
@@ -179,7 +240,11 @@ Refer to [T.4.3](t-technical-aspects.md#t43-brake-system-encoder---bse) for spec
 
 #### IC.4.8.8 Removal of power from the BSPD Circuit must open the Shutdown Circuit  IC.9.2.2. The Shutdown Circuit may close when power to the BSPD circuit returns (IC.4.8.6 does not apply)
 
-#### IC.4.8.9 The BSPD signals and function must be able to be checked during Technical Inspection by having one of: a. A separate set of detachable connectors for any signals from the braking sensor(s), throttle sensor(s) and removal of power to only the BSPD device b. An inline switchable breakout box available that may disconnect the brake sensor(s), throttle sensor(s) individually and power to only the BSPD device
+#### IC.4.8.9 The BSPD signals and function must be able to be checked during Technical Inspection by having one of:
+
+
+a. A separate set of detachable connectors for any signals from the braking sensor(s), throttle sensor(s) and removal of power to only the BSPD device
+b. An inline switchable breakout box available that may disconnect the brake sensor(s), throttle sensor(s) individually and power to only the BSPD device
 
 ## IC.5 Fuel And Fuel System
 
@@ -193,7 +258,12 @@ Refer to [T.4.3](t-technical-aspects.md#t43-brake-system-encoder---bse) for spec
 
 ### IC.5.2 Fuel System
 
-#### IC.5.2.1 The Fuel System must meet these design criteria: a. The Fuel Tank is capable of being filled to capacity without manipulating the tank or the vehicle in any manner. b. During refueling on a level surface, the formation of air cavities or other effects that cause the fuel level observed at the sight tube to drop after movement or operation of the vehicle (other than due to consumption) are prevented. c. Spillage during refueling cannot contact the driver position, exhaust system, hot engine parts, or the ignition system.
+#### IC.5.2.1 The Fuel System must meet these design criteria:
+
+
+a. The Fuel Tank is capable of being filled to capacity without manipulating the tank or the vehicle in any manner.
+b. During refueling on a level surface, the formation of air cavities or other effects that cause the fuel level observed at the sight tube to drop after movement or operation of the vehicle (other than due to consumption) are prevented.
+c. Spillage during refueling cannot contact the driver position, exhaust system, hot engine parts, or the ignition system.
 
 #### IC.5.2.2 The Fuel System location must meet IC.1.2 and F.9
 
@@ -202,9 +272,17 @@ Refer to [T.4.3](t-technical-aspects.md#t43-brake-system-encoder---bse) for spec
 ### IC.5.3 Fuel Tank
 
 The part(s) of the fuel containment device that is in contact with the fuel.
-#### IC.5.3.1 Fuel Tanks made of a rigid material must: a. Be securely attached to the vehicle structure.  The mounting method must not let chassis flex to load the Fuel Tank. b. Not carry any structural loads; from Roll Hoops, suspension, engine or gearbox mounts
+#### IC.5.3.1 Fuel Tanks made of a rigid material must:
 
-#### IC.5.3.2 Any Fuel Tank that is made from a flexible material, for example a bladder fuel cell or a bag tank: a. Must be enclosed inside a rigid fuel tank container which is securely attached to the vehicle structure. b. The Fuel Tank container may be load carrying
+
+a. Be securely attached to the vehicle structure.  The mounting method must not let chassis flex to load the Fuel Tank.
+b. Not carry any structural loads; from Roll Hoops, suspension, engine or gearbox mounts
+
+#### IC.5.3.2 Any Fuel Tank that is made from a flexible material, for example a bladder fuel cell or a bag tank:
+
+
+a. Must be enclosed inside a rigid fuel tank container which is securely attached to the vehicle structure.
+b. The Fuel Tank container may be load carrying
 
 #### IC.5.3.3 Any size Fuel Tank may be used
 
@@ -215,11 +293,23 @@ The part(s) of the fuel containment device that is in contact with the fuel.
 
 ### IC.5.4 Fuel Filler Neck & Sight Tube
 
-#### IC.5.4.1 All Fuel Tanks must have a Fuel Filler Neck which must be: a. Minimum 35 mm inner diameter at any point between the Fuel Tank and the Fuel Filler cap
+#### IC.5.4.1 All Fuel Tanks must have a Fuel Filler Neck which must be:
 
-#### IC.5.4.2 The portion of the Fuel Filler Neck nearest to the Fuel Filler cap must be: a. Minimum 125 mm vertical height above the top level of the Fuel Tank b. Angled no more than 30° from the vertical
 
-#### IC.5.4.3 The Fuel Filler Neck must be accompanied by a clear fuel resistant sight tube for reading the fuel level which must be: a. Visible vertical height: 125 mm minimum b. Inside diameter:   6 mm minimum c. Above the top surface of the Fuel Tank
+a. Minimum 35 mm inner diameter at any point between the Fuel Tank and the Fuel Filler cap
+
+#### IC.5.4.2 The portion of the Fuel Filler Neck nearest to the Fuel Filler cap must be:
+
+
+a. Minimum 125 mm vertical height above the top level of the Fuel Tank
+b. Angled no more than 30° from the vertical
+
+#### IC.5.4.3 The Fuel Filler Neck must be accompanied by a clear fuel resistant sight tube for reading the fuel level which must be:
+
+
+a. Visible vertical height: 125 mm minimum
+b. Inside diameter:   6 mm minimum
+c. Above the top surface of the Fuel Tank
 
 #### IC.5.4.4 A clear Fuel Filler Neck tube may be used as a sight tube, subject to approval by a Rules Question or technical inspectors at the event.
 
@@ -268,7 +358,11 @@ A permanent, non movable fuel level line must be located between 12 mm and 25 mm
 
 #### IC.5.7.3 Plastic fuel lines between the fuel tank and the engine (supply and return) are prohibited.
 
-#### IC.5.7.4 Any rubber fuel line or hose used must meet the two: a. The components over which the hose is clamped must have annular bulb or barbed fittings to retain the hose b. Clamps specifically designed for fuel lines must be used. These clamps have three features: a full 360° wrap, a nut and bolt system for tightening, and rolled edges to prevent the clamp cutting into the hose
+#### IC.5.7.4 Any rubber fuel line or hose used must meet the two:
+
+
+a. The components over which the hose is clamped must have annular bulb or barbed fittings to retain the hose
+b. Clamps specifically designed for fuel lines must be used. These clamps have three features: a full 360° wrap, a nut and bolt system for tightening, and rolled edges to prevent the clamp cutting into the hose
 
 #### IC.5.7.5 Worm gear type hose clamps must not be used on any fuel line.
 
@@ -280,20 +374,39 @@ Low Pressure fuel injection systems are those functioning at a pressure below 10
 Port Fuel Injected (PFI) fuel systems are low pressure.
 #### IC.6.1.1 Any Low Pressure flexible fuel lines must be one of: • Metal braided hose with threaded fittings (crimped on or reusable) • Reinforced rubber hose with some form of abrasion resistant protection
 
-#### IC.6.1.2 Fuel rail and mounting requirements: a. Unmodified OEM Fuel Rails are acceptable, regardless of material. b. Non OEM fuel rails made from plastic, carbon fiber or rapid prototyping flammable materials are prohibited. c. The fuel rail must be securely attached to the manifold, engine block or cylinder head with brackets and mechanical fasteners. Hose clamps, plastic ties, or safety wires do not meet this requirement. d. Threaded fasteners used to secure the fuel rail are Critical Fasteners, see T.8.2
+#### IC.6.1.2 Fuel rail and mounting requirements:
+
+
+a. Unmodified OEM Fuel Rails are acceptable, regardless of material.
+b. Non OEM fuel rails made from plastic, carbon fiber or rapid prototyping flammable materials are prohibited.
+c. The fuel rail must be securely attached to the manifold, engine block or cylinder head with brackets and mechanical fasteners. Hose clamps, plastic ties, or safety wires do not meet this requirement.
+d. Threaded fasteners used to secure the fuel rail are Critical Fasteners, see [T.8.2](t-technical-aspects.md#t82-critical-fastener-requirements)
 
 
 ### IC.6.2 High Pressure Injection (HPI) / Direct Injection (DI)
 
 #### IC.6.2.1 Definitions
 
-a. High Pressure fuel systems - those functioning at 10 Bar pressure or above b. Direct Injection fuel systems - where the injection occurs directly into the combustion system Direct Injection systems often utilize a low pressure electric fuel pump and high pressure mechanical “boost” pump driven off the engine. c. High Pressure Fuel Lines - those between the boost pump and injectors d. Low Pressure Fuel Lines - from the electric supply pump to the boost pump
+a. High Pressure fuel systems - those functioning at 10 Bar pressure or above
+b. Direct Injection fuel systems - where the injection occurs directly into the combustion system Direct Injection systems often utilize a low pressure electric fuel pump and high pressure mechanical “boost” pump driven off the engine.
+c. High Pressure Fuel Lines - those between the boost pump and injectors
+d. Low Pressure Fuel Lines - from the electric supply pump to the boost pump
 
-#### IC.6.2.2 All High Pressure Fuel Lines must: a. Be stainless steel rigid line or Aeroquip FC807 smooth bore PTFE hose with stainless steel reinforcement and visible Nomex tracer yarn.  Equivalent products may be used with prior approval. b. Not incorporate elastomeric seals c. Be rigidly connected every 100 mm by mechanical fasteners to structural engine components such as cylinder heads or block
+#### IC.6.2.2 All High Pressure Fuel Lines must:
+
+
+a. Be stainless steel rigid line or Aeroquip FC807 smooth bore PTFE hose with stainless steel reinforcement and visible Nomex tracer yarn.  Equivalent products may be used with prior approval.
+b. Not incorporate elastomeric seals
+c. Be rigidly connected every 100 mm by mechanical fasteners to structural engine components such as cylinder heads or block
 
 #### IC.6.2.3 Any Low Pressure flexible Fuel Lines must be one of: • Metal braided hose with threaded fittings (crimped on or reusable) • Reinforced rubber hose with some form of abrasion resistant protection
 
-#### IC.6.2.4 Fuel rail mounting requirements: a. The fuel rail must be securely attached to the engine block or cylinder head with brackets and mechanical fasteners.  Hose clamps, plastic ties, or safety wires do not meet this requirement. b. The fastening method must be sufficient to hold the fuel rail in place with the maximum regulated pressure acting on the injector internals and neglecting any assistance from cylinder pressure acting on the injector tip. c. Threaded fasteners used to secure the fuel rail are  Critical Fasteners, see T.8.2
+#### IC.6.2.4 Fuel rail mounting requirements:
+
+
+a. The fuel rail must be securely attached to the engine block or cylinder head with brackets and mechanical fasteners.  Hose clamps, plastic ties, or safety wires do not meet this requirement.
+b. The fastening method must be sufficient to hold the fuel rail in place with the maximum regulated pressure acting on the injector internals and neglecting any assistance from cylinder pressure acting on the injector tip.
+c. Threaded fasteners used to secure the fuel rail are  Critical Fasteners, see [T.8.2](t-technical-aspects.md#t82-critical-fastener-requirements)
 
 #### IC.6.2.5 High Pressure Fuel Pump – must be rigidly mounted to structural engine components such as the cylinder head or engine block.
 
@@ -307,14 +420,19 @@ a. High Pressure fuel systems - those functioning at 10 Bar pressure or above b.
 
 #### T.1.6.3 :
 
-a. Flammable materials, including the fuel and fuel system, the oil and oil system b. Thermally sensitive components, including brake lines, composite materials, and batteries
+a. Flammable materials, including the fuel and fuel system, the oil and oil system
+b. Thermally sensitive components, including brake lines, composite materials, and batteries
 
 
 ### IC.7.2 Exhaust Outlet
 
 #### IC.7.2.1 The exhaust must be routed to prevent the driver from fumes at any speed considering the draft of the vehicle
 
-#### IC.7.2.2 The Exhaust Outlet(s) must be: a. No more than 45 cm aft of the centerline of the rear axle b. No more than 60 cm above the ground.
+#### IC.7.2.2 The Exhaust Outlet(s) must be:
+
+
+a. No more than 45 cm aft of the centerline of the rear axle
+b. No more than 60 cm above the ground.
 
 #### IC.7.2.3 Any exhaust components (headers, mufflers, etc.) that protrude from the side of the body in front of the Main Hoop must be shielded to prevent contact by persons approaching the vehicle or a driver exiting the vehicle
 
@@ -356,7 +474,11 @@ Refer to [T.9.2](t-technical-aspects.md#t92-low-voltage-batteries) for specific 
 
 ### IC.9.1 Shutdown Circuit
 
-#### IC.9.1.1 The Shutdown Circuit consists of these components: a. Primary Master Switch  IC.9.3 b. Cockpit Main Switch  IC.9.4
+#### IC.9.1.1 The Shutdown Circuit consists of these components:
+
+
+a. Primary Master Switch  [IC.9.3](#ic93-primary-master-switch)
+b. Cockpit Main Switch  [IC.9.4](#ic94-cockpit-main-switch)
 
 
 c. (ETC Only) Brake System Plausibility Device (BSPD)  [IC.4.8](#ic48-brake-system-plausibility-device---bspd)
@@ -370,23 +492,41 @@ e. Inertia Switch (if used)  [T.9.4](t-technical-aspects.md#t94-inertia-switch)
 
 #### IC.9.2.1 The Shutdown Circuit must Open upon operation of, or detection from any of the components listed in IC.9.1.1
 
-#### IC.9.2.2 When the Shutdown Circuit Opens, it must: a. Stop the engine b. Disconnect power to the: • Fuel Pump(s) • Ignition • (ETC only) Electronic Throttle  IC.4.1.1
+#### IC.9.2.2 When the Shutdown Circuit Opens, it must:
+
+
+a. Stop the engine
+b. Disconnect power to the:
+   - Fuel Pump(s)
+   - Ignition
+   - (ETC only) Electronic Throttle  [IC.4.1.1](#ic411-the-electronic-throttle-must-automatically-close-return-to-idle-when-power-is-removed)
 
 ### IC.9.3 Primary Master Switch
 
 #### IC.9.3.1 Configuration and Location - The Primary Master Switch must meet T.9.3
 
-#### IC.9.3.2 Function - the Primary Master Switch must: a. Disconnect power to ALL electrical circuits, including the battery, alternator, lights, fuel pump(s), ignition and electrical controls. All battery current must flow through this switch b. Be direct acting, not act through a relay or logic.
+#### IC.9.3.2 Function - the Primary Master Switch must:
+
+
+a. Disconnect power to ALL electrical circuits, including the battery, alternator, lights, fuel pump(s), ignition and electrical controls. All battery current must flow through this switch
+b. Be direct acting, not act through a relay or logic.
 
 ### IC.9.4 Cockpit Main Switch
 
 #### IC.9.4.1 Configuration -
 
-The Cockpit Main Switch must: a. Be a push-pull or push-rotate emergency stop switch (pushing the button is the OFF position) b. Have a diameter of 24 mm minimum
+The Cockpit Main Switch must:
+
+a. Be a push-pull or push-rotate emergency stop switch (pushing the button is the OFF position)
+b. Have a diameter of 24 mm minimum
 
 #### IC.9.4.2 Location –
 
-The Cockpit Main Switch must be: a. In easy reach of the driver when in a normal driving position wearing Harness b. Adjacent to the Steering Wheel c. Unobstructed by the Steering Wheel or any other part of the vehicle
+The Cockpit Main Switch must be:
+
+a. In easy reach of the driver when in a normal driving position wearing Harness
+b. Adjacent to the Steering Wheel
+c. Unobstructed by the Steering Wheel or any other part of the vehicle
 
 #### IC.9.4.3 Function - the Cockpit Main Switch may act through a relay
 

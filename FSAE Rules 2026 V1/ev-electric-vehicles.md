@@ -76,7 +76,13 @@ Penalties for the ESF are added as given in section [PS](ps-pre-competition-subm
 
 ### EV.3.4 Violations
 
-#### EV.3.4.1 A Violation occurs when one or two of these exist: a. Use of more than the specified maximum power  EV.3.3.1 b. Exceed the maximum voltage  EV.3.3.2 for one or the two conditions: • Continuously for 100 ms or more • After a moving average over 500 ms is applied
+#### EV.3.4.1 A Violation occurs when one or two of these exist:
+
+
+a. Use of more than the specified maximum power  [EV.3.3.1](#ev331-the-maximum-power-measured-by-the-energy-meter-must-not-exceed-80-kw)
+b. Exceed the maximum voltage  [EV.3.3.2](#ev332-the-maximum-permitted-voltage-that-may-occur-between-any-two-points-must-not-exceed-600-v-dc) for one or the two conditions:
+   - Continuously for 100 ms or more
+   - After a moving average over 500 ms is applied
 
 #### EV.3.4.2 Missing Energy Meter data may be treated as a Violation, subject to official discretion
 
@@ -84,7 +90,11 @@ Penalties for the ESF are added as given in section [PS](ps-pre-competition-subm
 
 ### EV.3.5 Penalties
 
-#### EV.3.5.1 Violations during the Acceleration, Skidpad, Autocross Events: a. Each run with one or more Violations will Disqualify (DQ) the best run of the team b. Multiple runs with Violations will DQ multiple runs, ex two runs with Violations DQ the two best runs
+#### EV.3.5.1 Violations during the Acceleration, Skidpad, Autocross Events:
+
+
+a. Each run with one or more Violations will Disqualify (DQ) the best run of the team
+b. Multiple runs with Violations will DQ multiple runs, ex two runs with Violations DQ the two best runs
 
 #### EV.3.5.2 Violations during the Endurance event: • Each Violation: 60 second penalty  D.14.2.1
 
@@ -101,7 +111,12 @@ Penalties for the ESF are added as given in section [PS](ps-pre-competition-subm
 
 #### EV.4.1.2 Motors must meet T.5.3
 
-#### EV.4.1.3 If Motors are mounted to the suspension uprights, their cables and wiring must: a. Include an Interlock EV.7.8 This Interlock(s) must Open the Shutdown Circuit EV.7.2.2 before failure of the Tractive System wiring when the wiring is damaged or the Wheel/Motor assembly is damaged or knocked off the vehicle b. Stay in the Primary Structure Envelope F.1.11 between the Front Hoop and the Main Hoop c. Reduce the length of the parts of wiring and other connections that do not meet F.11.1.3 to the extent possible  (no dangling cables, loops, coils, etc)
+#### EV.4.1.3 If Motors are mounted to the suspension uprights, their cables and wiring must:
+
+
+a. Include an Interlock [EV.7.8](#ev78-interlocks) This Interlock(s) must Open the Shutdown Circuit [EV.7.2.2](#ev722-when-the-shutdown-circuit-opens) before failure of the Tractive System wiring when the wiring is damaged or the Wheel/Motor assembly is damaged or knocked off the vehicle
+b. Stay in the Primary Structure Envelope [F.1.11](f-chassis-and-structural.md#f111-defined-by-the-main-hoop-braces-and-the-parts-of-the-main-hoop-tubes-above-other) between the Front Hoop and the Main Hoop
+c. Reduce the length of the parts of wiring and other connections that do not meet [F.11.1.3](f-chassis-and-structural.md#f1113-tractive-system-ev11-components-including-motors-cables-and-wiring-other-than-those-in) to the extent possible  (no dangling cables, loops, coils, etc)
 
 ### EV.4.2 Motor Controller
 
@@ -109,9 +124,19 @@ The Tractive System Motor(s) must be connected to the Tractive Battery through a
 Controller.  No direct connections between Motor(s) and Tractive Battery.
 ### EV.4.3 Tractive Battery Container
 
-#### EV.4.3.1 Tractive Battery Container(s) must: a. Meet F.10 b. Be removable from the vehicle while still remaining rules compliant c. Be completely closed at all times (when mounted to the vehicle and when removed from the vehicle) without the need to install extra protective covers
+#### EV.4.3.1 Tractive Battery Container(s) must:
 
-#### EV.4.3.2 The Tractive Battery Container(s) may contain Holes or Openings a. Only the wiring harness, ventilation, cooling and fasteners may pass through the holes b. Holes and Openings in the Tractive Battery Container must meet F.10.4 c. External holes must meet EV.6.1
+
+a. Meet [F.10](f-chassis-and-structural.md#f10-tractive-battery-container-ev-only)
+b. Be removable from the vehicle while still remaining rules compliant
+c. Be completely closed at all times (when mounted to the vehicle and when removed from the vehicle) without the need to install extra protective covers
+
+#### EV.4.3.2 The Tractive Battery Container(s) may contain Holes or Openings
+
+
+a. Only the wiring harness, ventilation, cooling and fasteners may pass through the holes
+b. Holes and Openings in the Tractive Battery Container must meet [F.10.4](f-chassis-and-structural.md#f104-holes-and-openings)
+c. External holes must meet [EV.6.1](#ev61-covers)
 
 #### EV.4.3.3 Any Tractive Battery Container that may vent an explosive gas must have a ventilation system or pressure relief valve to release the vented gas
 
@@ -119,12 +144,24 @@ Controller.  No direct connections between Motor(s) and Tractive Battery.
 
 #### EV.4.3.5 Pressure relief valves must not have line of sight to the driver, with the Firewall installed or removed
 
-#### EV.4.3.6 Each Tractive Battery Container must be labelled with the: a. School Name and Vehicle Number b. Symbol specified in ISO 7010-W012  (triangle with black lightning bolt on yellow background) with: • Triangle side length of 100 mm minimum • Visibility from all angles, including when the lid is removed c. Text “Always Energized” d. Text “High Voltage” if the voltage meets T.9.1.1
+#### EV.4.3.6 Each Tractive Battery Container must be labelled with the:
+
+
+a. School Name and Vehicle Number
+b. Symbol specified in ISO 7010-W012  (triangle with black lightning bolt on yellow background) with:
+   - Triangle side length of 100 mm minimum
+   - Visibility from all angles, including when the lid is removed
+c. Text “Always Energized”
+d. Text “High Voltage” if the voltage meets [T.9.1.1](t-technical-aspects.md#t911-high-voltage-hv)
 
 
 ### EV.4.4 Grounded Low Voltage System
 
-#### EV.4.4.1 The GLV System must be: a. A Low Voltage system that is Grounded to the Chassis b. Able to operate with the Tractive Battery Pack removed from the vehicle
+#### EV.4.4.1 The GLV System must be:
+
+
+a. A Low Voltage system that is Grounded to the Chassis
+b. Able to operate with the Tractive Battery Pack removed from the vehicle
 
 #### EV.4.4.2 The GLV System must include a Master Switch, see EV.7.9.1
 
@@ -142,14 +179,22 @@ Refer to [T.4.3](t-technical-aspects.md#t43-brake-system-encoder---bse) for spec
 
 #### EV.4.7.1 Must monitor for the two conditions: • The mechanical brakes are engaged  EV.4.6,  T.3.2.4 • The APPS signals more than 25% Pedal Travel  EV.4.5
 
-#### EV.4.7.2 If the two conditions in EV.4.7.1 occur at the same time: a. Power to the Motor(s) must be immediately and completely shut down b. The Motor shut down must stay active until the APPS signals less than 5% Pedal Travel, with or without brake operation The team must be able to demonstrate these actions at Technical Inspection
+#### EV.4.7.2 If the two conditions in EV.4.7.1 occur at the same time:
+
+
+a. Power to the Motor(s) must be immediately and completely shut down
+b. The Motor shut down must stay active until the APPS signals less than 5% Pedal Travel, with or without brake operation The team must be able to demonstrate these actions at Technical Inspection
 
 ### EV.4.8 Tractive System Part Positioning
 
 All parts belonging to the Tractive System must meet [F.11](f-chassis-and-structural.md#f11-tractive-system-ev-only)
 ### EV.4.9 Housings and Enclosures
 
-#### EV.4.9.1 Each housing or enclosure containing parts of the Tractive System other than Motor housings, must be labelled with the: a. Symbol specified in ISO 7010-W012  (triangle with black lightning bolt on yellow background) b. Text “High Voltage” if the voltage meets T.9.1.1
+#### EV.4.9.1 Each housing or enclosure containing parts of the Tractive System other than Motor housings, must be labelled with the:
+
+
+a. Symbol specified in ISO 7010-W012  (triangle with black lightning bolt on yellow background)
+b. Text “High Voltage” if the voltage meets [T.9.1.1](t-technical-aspects.md#t911-high-voltage-hv)
 
 #### EV.4.9.2 If the material of the housing containing parts of the Tractive System is electrically conductive, it must have a low resistance connection to GLV System Ground, see EV.6.7
 
@@ -160,7 +205,14 @@ All parts belonging to the Tractive System must meet [F.11](f-chassis-and-struct
 
 #### EV.4.10.2 The Hand Cart must be used when the Tractive Battery Pack(s) are transported on the competition site  EV.11.4.2   EV.11.5.1
 
-#### EV.4.10.3 The Hand Cart must: a. Be able to carry the load of the Tractive Battery Pack(s) without tipping over b. Contain a minimum of two wheels c. Have a brake that must be: • Released only using a dead man type switch (where the brake is always on until released by pushing and holding a handle) or by manually lifting part of the cart off the ground • Able to stop the Hand Cart with a fully loaded Tractive Battery Pack
+#### EV.4.10.3 The Hand Cart must:
+
+
+a. Be able to carry the load of the Tractive Battery Pack(s) without tipping over
+b. Contain a minimum of two wheels
+c. Have a brake that must be:
+   - Released only using a dead man type switch (where the brake is always on until released by pushing and holding a handle) or by manually lifting part of the cart off the ground
+   - Able to stop the Hand Cart with a fully loaded Tractive Battery Pack
 
 #### EV.4.10.4 Tractive Battery Pack(s) must be securely attached to the Hand Cart
 
@@ -179,7 +231,12 @@ All parts belonging to the Tractive System must meet [F.11](f-chassis-and-struct
 
 #### EV.5.2.1 All Tractive System components must be rated for the maximum Tractive System voltage
 
-#### EV.5.2.2 If the Tractive Battery Container is made from an electrically conductive material: a. The poles of the Modules(s) and/or Cells must be isolated from the inner wall of the Tractive Battery Container with an insulating material that is rated for the maximum Tractive System voltage b. All conductive surfaces on the outside of the Tractive Battery Container must have a low resistance connection to the GLV System Ground, see EV.6.7 c. Any conductive penetrations, such as mounting hardware, must be protected against puncturing the insulating barrier
+#### EV.5.2.2 If the Tractive Battery Container is made from an electrically conductive material:
+
+
+a. The poles of the Modules(s) and/or Cells must be isolated from the inner wall of the Tractive Battery Container with an insulating material that is rated for the maximum Tractive System voltage
+b. All conductive surfaces on the outside of the Tractive Battery Container must have a low resistance connection to the GLV System Ground, see [EV.6.7](#ev67-grounding)
+c. Any conductive penetrations, such as mounting hardware, must be protected against puncturing the insulating barrier
 
 
 
@@ -189,7 +246,11 @@ All parts belonging to the Tractive System must meet [F.11](f-chassis-and-struct
 
 
 
-#### EV.5.2.3 Each Module must be electrically insulated with suitable Nonflammable Material (F.1.18) (not air) for the two: a. Between the Modules in the Tractive Battery Container b. On top of the Module The intent is to prevent arc flashes caused by inter Module or intra Module contact or by parts/tools accidentally falling into the Container during maintenance for example
+#### EV.5.2.3 Each Module must be electrically insulated with suitable Nonflammable Material (F.1.18) (not air) for the two:
+
+
+a. Between the Modules in the Tractive Battery Container
+b. On top of the Module The intent is to prevent arc flashes caused by inter Module or intra Module contact or by parts/tools accidentally falling into the Container during maintenance for example
 
 #### EV.5.2.4 Soldering electrical connections in the high current path is prohibited Soldering wires to cells for the voltage monitoring input of the BMS is permitted, these wires are not part of the high current path
 
@@ -197,9 +258,21 @@ All parts belonging to the Tractive System must meet [F.11](f-chassis-and-struct
 
 ### EV.5.3 Maintenance Plugs
 
-#### EV.5.3.1 Maintenance Plugs must let electrical separation of the Modules meet the two: a. The separated Modules meet voltage and energy limits of EV.5.1.1 b. The separation must affect the two poles of the Module
+#### EV.5.3.1 Maintenance Plugs must let electrical separation of the Modules meet the two:
 
-#### EV.5.3.2 Maintenance Plugs must: a. Require the physical removal or separation of a component.  Contactors or switches are not acceptable Maintenance Plugs b. Have access after opening the Tractive Battery Container and not necessary to move or remove any other components c. Not be physically possible to make electrical connection in any configuration other than the design intended configuration d. Not require tools to install or remove e. Include a positive locking feature which prevents the plug from unintentionally becoming loose f. Be nonconductive on surfaces that do not provide any electrical connection
+
+a. The separated Modules meet voltage and energy limits of [EV.5.1.1](#ev511)
+b. The separation must affect the two poles of the Module
+
+#### EV.5.3.2 Maintenance Plugs must:
+
+
+a. Require the physical removal or separation of a component.  Contactors or switches are not acceptable Maintenance Plugs
+b. Have access after opening the Tractive Battery Container and not necessary to move or remove any other components
+c. Not be physically possible to make electrical connection in any configuration other than the design intended configuration
+d. Not require tools to install or remove
+e. Include a positive locking feature which prevents the plug from unintentionally becoming loose
+f. Be nonconductive on surfaces that do not provide any electrical connection
 
 #### EV.5.3.3 When the Tractive Battery Containers are opened or Modules are removed, the Modules must be separated by using the Maintenance Plugs.  See EV.11.4.1
 
@@ -207,7 +280,11 @@ All parts belonging to the Tractive System must meet [F.11](f-chassis-and-struct
 
 #### EV.5.4.1 All Tractive Battery Packs must contain minimum one fuse (EV.6.6) and two or more Isolation Relays (IR)
 
-#### EV.5.4.2 The Isolation Relays must: a. Be a Normally Open type b. Open the two poles of the Tractive Battery Pack
+#### EV.5.4.2 The Isolation Relays must:
+
+
+a. Be a Normally Open type
+b. Open the two poles of the Tractive Battery Pack
 
 #### EV.5.4.3 When the Isolation Relays are open, High Voltage T.9.1.1 must not be external of the Tractive Battery Container
 
@@ -219,8 +296,17 @@ All parts belonging to the Tractive System must meet [F.11](f-chassis-and-struct
 ### EV.5.5 Manual Service Disconnect - MSD
 
 A Manual Service Disconnect (MSD) must be included to quickly disconnect one or the two
-poles of the Tractive Battery Pack  [EV.11.3.2](#ev1132-the-msd-ev55-must-be-disconnected-when-vehicles-are-a-moved-around-the-competition-site-b-participating-in-static-events)
-#### EV.5.5.1 The Manual Service Disconnect (MSD) must be: a. A directly accessible element, fuse or connector that will visually show disconnected b. More than 350 mm from the ground c. Easily visible when standing behind the vehicle d. Operable in 10 seconds or less by an untrained person e. Operable without removing any bodywork or obstruction or using tools f. Directly operated.  Remote operation through a long handle, rope or wire is not acceptable. g. Clearly marked with "MSD"
+poles of the Tractive Battery Pack  [EV.11.3.2](#ev1132-the-msd-ev55-must-be-disconnected-when-vehicles-are)
+#### EV.5.5.1 The Manual Service Disconnect (MSD) must be:
+
+
+a. A directly accessible element, fuse or connector that will visually show disconnected
+b. More than 350 mm from the ground
+c. Easily visible when standing behind the vehicle
+d. Operable in 10 seconds or less by an untrained person
+e. Operable without removing any bodywork or obstruction or using tools
+f. Directly operated.  Remote operation through a long handle, rope or wire is not acceptable.
+g. Clearly marked with "MSD"
 
 #### EV.5.5.2 The Energy Meter must not be used as the Manual Service Disconnect (MSD)
 
@@ -230,11 +316,21 @@ poles of the Tractive Battery Pack  [EV.11.3.2](#ev1132-the-msd-ev55-must-be-dis
 
 ### EV.5.6 Precharge and Discharge Circuits
 
-#### EV.5.6.1 The Tractive Battery Pack must contain a Precharge Circuit.  The Precharge Circuit must: a. Be able to charge the Intermediate Circuit to minimum 90% of the Tractive System voltage before closing the second IR b. Be supplied from the Shutdown Circuit  EV.7.1
+#### EV.5.6.1 The Tractive Battery Pack must contain a Precharge Circuit.  The Precharge Circuit must:
+
+
+a. Be able to charge the Intermediate Circuit to minimum 90% of the Tractive System voltage before closing the second IR
+b. Be supplied from the Shutdown Circuit  [EV.7.1](#ev71-shutdown-circuit)
 
 #### EV.5.6.2 The Intermediate Circuit must precharge before closing the second IR a. The end of precharge must be controlled by feedback by monitoring the voltage in the Intermediate Circuit
 
-#### EV.5.6.3 The Tractive System must contain a Discharge Circuit. The Discharge Circuit must be: a. Wired in a way that it is always active when the Shutdown Circuit is open b. Able to discharge the Intermediate Circuit capacitors if the MSD has been opened c. Not be fused d. Designed to handle the maximum Tractive System voltage for minimum 15 seconds
+#### EV.5.6.3 The Tractive System must contain a Discharge Circuit. The Discharge Circuit must be:
+
+
+a. Wired in a way that it is always active when the Shutdown Circuit is open
+b. Able to discharge the Intermediate Circuit capacitors if the MSD has been opened
+c. Not be fused
+d. Designed to handle the maximum Tractive System voltage for minimum 15 seconds
 
 #### EV.5.6.4 Positive Temperature Coefficient (PTC) devices must not be used to limit current for the Precharge Circuit or Discharge Circuit
 
@@ -251,17 +347,40 @@ present at the vehicle side of the IRs
 #### EV.5.7.3 The control signal which closes the IRs must not control the Voltage Indicator
 
 
-#### EV.5.7.4 The Voltage Indicator must: a. Be located where it is clearly visible when connecting/disconnecting the Tractive Battery Pack connections b. Be labeled “High Voltage Present”
+#### EV.5.7.4 The Voltage Indicator must:
+
+
+a. Be located where it is clearly visible when connecting/disconnecting the Tractive Battery Pack connections
+b. Be labeled “High Voltage Present”
 
 ### EV.5.8 Tractive System Measuring Points - TSMP
 
-#### EV.5.8.1 Two Tractive System Measuring Points (TSMP) must be installed in the vehicle which are: a. Connected to the positive and negative motor controller/inverter supply lines b. Next to the Master Switches EV.7.9 c. Protected by a nonconductive housing that can be opened without tools d. Protected from being touched with bare hands / fingers once the housing is opened
+#### EV.5.8.1 Two Tractive System Measuring Points (TSMP) must be installed in the vehicle which are:
 
-#### EV.5.8.2 Two TSMPs must be installed in the Charger EV.8.2 which are: a. Connected to the positive and negative Charger output lines b. Available during charging of any Tractive Battery Pack(s)
 
-#### EV.5.8.3 The TSMPs must be: a. 4 mm shrouded banana jacks rated to an appropriate voltage level b. Color:  Red c. Marked “HV+” and “HV-“
+a. Connected to the positive and negative motor controller/inverter supply lines
+b. Next to the Master Switches [EV.7.9](#ev79-master-switches)
+c. Protected by a nonconductive housing that can be opened without tools
+d. Protected from being touched with bare hands / fingers once the housing is opened
 
-#### EV.5.8.4 Each TSMP must be secured with a current limiting resistor a. The resistor must be sized for the voltage: Maximum TS Voltage (Vmax)  Resistor Value Vmax <= 200 V DC   5 kOhm 200 V DC < Vmax <= 400 V DC  10 kOhm 400 V DC < Vmax <= 600 V DC  15 kOhm b. Resistor continuous power rating must be more than the power dissipated across the TSMPs if they are shorted together c. Direct measurement of the value of the resistor must be possible during Electrical Technical Inspection
+#### EV.5.8.2 Two TSMPs must be installed in the Charger EV.8.2 which are:
+
+
+a. Connected to the positive and negative Charger output lines
+b. Available during charging of any Tractive Battery Pack(s)
+
+#### EV.5.8.3 The TSMPs must be: a. 4 mm shrouded banana jacks rated to an appropriate voltage level
+
+
+b. Color:  Red
+c. Marked “HV+” and “HV-“
+
+#### EV.5.8.4 Each TSMP must be secured with a current limiting resistor
+
+
+a. The resistor must be sized for the voltage: Maximum TS Voltage (Vmax)  Resistor Value Vmax <= 200 V DC   5 kOhm 200 V DC < Vmax <= 400 V DC  10 kOhm 400 V DC < Vmax <= 600 V DC  15 kOhm
+b. Resistor continuous power rating must be more than the power dissipated across the TSMPs if they are shorted together
+c. Direct measurement of the value of the resistor must be possible during Electrical Technical Inspection
 
 #### EV.5.8.5 Any TSMP must not contain additional Overcurrent Protection
 
@@ -270,27 +389,69 @@ present at the vehicle side of the IRs
 Tractive System connectors outside of a housing must contain an Interlock [EV.7.8](#ev78-interlocks)
 ### EV.5.10 Ready to Move Light
 
-#### EV.5.10.1 The vehicle must have two Ready to Move Lights: a. One pointed forward b. One pointed aft Refer to the Rules FAQ on the Event Website for additional information
+#### EV.5.10.1 The vehicle must have two Ready to Move Lights:
 
-#### EV.5.10.2 Each Ready to Move Light must be: a. A Marker Light that complies with DOT FMVSS 108 b. Color:  Amber
+
+a. One pointed forward
+b. One pointed aft Refer to the Rules FAQ on the Event Website for additional information
+
+#### EV.5.10.2 Each Ready to Move Light must be:
+
+
+a. A Marker Light that complies with DOT FMVSS 108
+b. Color:  Amber
 
 
 c. Luminous area: minimum 1800 mm2
-#### EV.5.10.3 Mounting location of each Ready to Move Light must: a. Be near the Main Hoop near the highest point of the vehicle b. Be inside the Rollover Protection Envelope  F.1.13 c. Be no lower than 150 mm from the highest point of the Main Hoop d. Not let the driver’s helmet touch it e. Be visible from 1300 mm vertically from ground level, inside a 2000 mm horizontal radius from the light Visibility is checked with Bodywork and Aerodynamic Devices in place
+#### EV.5.10.3 Mounting location of each Ready to Move Light must:
 
-#### EV.5.10.4 The Ready to Move Light must: a. Be powered by the GLV system b. Be directly controlled by the voltage present in the Tractive System using hard wired electronics.  EV.6.5.4  Software control is not permitted. c. Flash with a frequency between 2 Hz and 5 Hz with 50% duty cycle when the voltage outside the Tractive Battery Container(s) exceeds T.9.1.1 d. Not do any other functions
+
+a. Be near the Main Hoop near the highest point of the vehicle
+b. Be inside the Rollover Protection Envelope  [F.1.13](f-chassis-and-structural.md#f113-rollover-protection-envelope)
+c. Be no lower than 150 mm from the highest point of the Main Hoop
+d. Not let the driver’s helmet touch it
+e. Be visible from 1300 mm vertically from ground level, inside a 2000 mm horizontal radius from the light Visibility is checked with Bodywork and Aerodynamic Devices in place
+
+#### EV.5.10.4 The Ready to Move Light must:
+
+
+a. Be powered by the GLV system
+b. Be directly controlled by the voltage present in the Tractive System using hard wired electronics.  [EV.6.5.4](#ev654-glv-systems-other-than-the-irs-ev54-parts-of-the-precharge-and-discharge-circuits-ev56-hv-dcdc-converters-the-bms-ev73-the-imd-ev76-parts-of-the-ready-to-move-light)  Software control is not permitted.
+c. Flash with a frequency between 2 Hz and 5 Hz with 50% duty cycle when the voltage outside the Tractive Battery Container(s) exceeds [T.9.1.1](t-technical-aspects.md#t911-high-voltage-hv)
+d. Not do any other functions
 
 ### EV.5.11 Tractive System Status Indicator
 
 #### EV.5.11.1 The vehicle must have a Tractive System Status Indicator Refer to the Rules FAQ on the Event Website for additional information
 
-#### EV.5.11.2 The Tractive System Status Indicator must have two different lights: a. One Green light b. One Red light
+#### EV.5.11.2 The Tractive System Status Indicator must have two different lights:
 
-#### EV.5.11.3 Each of the Tractive System Status Indicator Lights: a. Must have a minimum luminous area of 130 mm2 b. Must be visible in direct sunlight c. May have one or more of the same elements
 
-#### EV.5.11.4 Mounting location of the Tractive System Status Indicator must be: a. Near the Main Hoop at the highest point of the vehicle b. Above the Ready to Move Light c. In the Rollover Protection Envelope  F.1.13 d. No lower than 150 mm from the highest point of the Main Hoop e. Not able to let the driver’s helmet touch it f. Easily visible from the front of the vehicle
+a. One Green light
+b. One Red light
 
-#### EV.5.11.5 The Tractive System Status Indicator must show when the GLV System is energized: Condition  Green Light Red Light a. No Faults  Always ON OFF b. Fault in one or the two: BMS EV.7.3.5 or IMD EV.7.6.5  OFF Flash 2 Hz to 5 Hz, 50% duty cycle
+#### EV.5.11.3 Each of the Tractive System Status Indicator Lights:
+
+
+a. Must have a minimum luminous area of 130 mm2
+b. Must be visible in direct sunlight
+c. May have one or more of the same elements
+
+#### EV.5.11.4 Mounting location of the Tractive System Status Indicator must be:
+
+
+a. Near the Main Hoop at the highest point of the vehicle
+b. Above the Ready to Move Light
+c. In the Rollover Protection Envelope  [F.1.13](f-chassis-and-structural.md#f113-rollover-protection-envelope)
+d. No lower than 150 mm from the highest point of the Main Hoop
+e. Not able to let the driver’s helmet touch it
+f. Easily visible from the front of the vehicle
+
+#### EV.5.11.5 The Tractive System Status Indicator must show when the GLV System is energized: Condition  Green Light Red Light
+
+
+a. No Faults  Always ON OFF
+b. Fault in one or the two: BMS [EV.7.3.5](#ev735-if-the-bms-detects-one-or-more-of-the-conditions-of-ev734-above-the-bms-must) or IMD [EV.7.6.5](#ev765-if-the-imd-detects-one-or-more-of-the-conditions-of-ev764-above-the-imd-must)  OFF Flash 2 Hz to 5 Hz, 50% duty cycle
 
 
 
@@ -306,7 +467,11 @@ c. Luminous area: minimum 1800 mm2
 
 ### EV.6.2 Insulation
 
-#### EV.6.2.1 Insulation material must: a. Be appropriate for the expected surrounding temperatures b. Have a minimum temperature rating of 90°C
+#### EV.6.2.1 Insulation material must:
+
+
+a. Be appropriate for the expected surrounding temperatures
+b. Have a minimum temperature rating of 90°C
 
 #### EV.6.2.2 Insulating tape or paint may be part of the insulation, but must not be the only insulation
 
@@ -314,18 +479,40 @@ c. Luminous area: minimum 1800 mm2
 
 #### EV.6.3.1 All wires and terminals and other conductors used in the Tractive System must be sized for the continuous current they will conduct
 
-#### EV.6.3.2 All Tractive System wiring must: a. Be marked with wire gauge, temperature rating and insulation voltage rating A serial number or a norm printed on the wire is sufficient if this serial number or norm is clearly bound to the wire characteristics for example by a data sheet. b. Have temperature rating more than or equal to 90°C
+#### EV.6.3.2 All Tractive System wiring must:
 
-#### EV.6.3.3 Tractive System wiring must be: a. Done to professional standards with sufficient strain relief b. Protected from loosening due to vibration c. Protected against damage by rotating and / or moving parts d. Located out of the way of possible snagging or damage
 
-#### EV.6.3.4 Any Tractive System wiring that runs outside of electrical enclosures: a. Must meet one of the two: • Enclosed in separate orange nonconductive conduit • Use an orange shielded cable b. The conduit or shielded cable must be securely anchored at each end to let it withstand a force of 200 N without straining the cable end crimp c. Any shielded cable must have the shield grounded
+a. Be marked with wire gauge, temperature rating and insulation voltage rating A serial number or a norm printed on the wire is sufficient if this serial number or norm is clearly bound to the wire characteristics for example by a data sheet.
+b. Have temperature rating more than or equal to 90°C
+
+#### EV.6.3.3 Tractive System wiring must be:
+
+
+a. Done to professional standards with sufficient strain relief
+b. Protected from loosening due to vibration
+c. Protected against damage by rotating and / or moving parts
+d. Located out of the way of possible snagging or damage
+
+#### EV.6.3.4 Any Tractive System wiring that runs outside of electrical enclosures:
+
+
+a. Must meet one of the two:
+   - Enclosed in separate orange nonconductive conduit
+   - Use an orange shielded cable
+b. The conduit or shielded cable must be securely anchored at each end to let it withstand a force of 200 N without straining the cable end crimp
+c. Any shielded cable must have the shield grounded
 
 #### EV.6.3.5 Wiring that is not part of the Tractive System must not use orange wiring or conduit
 
 
 ### EV.6.4 Connections
 
-#### EV.6.4.1 All Tractive System connections must: a. Be designed to use intentional current paths through conductors designed for electrical current b. Not rely on steel bolts to be the primary conductor c. Not include compressible material such as plastic in the stack-up
+#### EV.6.4.1 All Tractive System connections must:
+
+
+a. Be designed to use intentional current paths through conductors designed for electrical current
+b. Not rely on steel bolts to be the primary conductor
+c. Not include compressible material such as plastic in the stack-up
 
 #### EV.6.4.2 If external, uninsulated heat sinks are used, they must be properly grounded to the GLV System Ground, see EV.6.7
 
@@ -335,7 +522,10 @@ c. Luminous area: minimum 1800 mm2
 
 ### EV.6.5 Voltage Separation
 
-#### EV.6.5.1 Separation of Tractive System and GLV System: a. The entire Tractive System and GLV System must be completely galvanically separated
+#### EV.6.5.1 Separation of Tractive System and GLV System:
+
+
+a. The entire Tractive System and GLV System must be completely galvanically separated
 
 #### IN.10.2.2 b. The border between Tractive System and GLV System is the galvanic isolation between the two systems. Some components, such as the Motor Controller, may be part of both systems.
 
@@ -348,12 +538,20 @@ c. Luminous area: minimum 1800 mm2
 ### EV.5.10 the Energy Meter EV.3.1 and cooling fans must not be inside the Tractive Battery
 
 Container
-#### EV.6.5.5 Where Tractive System and GLV are included inside the same enclosure, they must meet one of the two: a. Be separated by insulating barriers (in addition to the insulation on the wire) made of moisture resistant, UL recognized or equivalent insulating materials rated for 90° C or higher (such as Nomex based electrical insulation) b. Maintain spacing through air, or over a surface (similar to those defined in UL1741) of: U < 100 V DC    10 mm 100 V DC < U < 200 V DC  20 mm U > 200 V DC    30 mm
+#### EV.6.5.5 Where Tractive System and GLV are included inside the same enclosure, they must meet one of the two:
+
+
+a. Be separated by insulating barriers (in addition to the insulation on the wire) made of moisture resistant, UL recognized or equivalent insulating materials rated for 90° C or higher (such as Nomex based electrical insulation)
+b. Maintain spacing through air, or over a surface (similar to those defined in UL1741) of: U < 100 V DC    10 mm 100 V DC < U < 200 V DC  20 mm U > 200 V DC    30 mm
 
 #### EV.6.5.6 Spacing must be clearly defined. Components and cables capable of movement must be positively restrained to maintain spacing.
 
 
-#### EV.6.5.7 If Tractive System and GLV are on the same circuit board: a. They must be on separate, clearly defined and clearly marked areas of the board b. Required spacing related to the spacing between traces / board areas are as follows: Voltage   Over Surface  Thru Air (cut in board)  Under Conformal Coating 0-50 V DC 1.6 mm   1.6 mm   1 mm 50-150 V DC 6.4 mm   3.2 mm    2 mm 150-300 V DC 9.5 mm   6.4 mm    3 mm 300-600 V DC 12.7 mm   9.5 mm    4 mm
+#### EV.6.5.7 If Tractive System and GLV are on the same circuit board:
+
+
+a. They must be on separate, clearly defined and clearly marked areas of the board
+b. Required spacing related to the spacing between traces / board areas are as follows: Voltage   Over Surface  Thru Air (cut in board)  Under Conformal Coating 0-50 V DC 1.6 mm   1.6 mm   1 mm 50-150 V DC 6.4 mm   3.2 mm    2 mm 150-300 V DC 9.5 mm   6.4 mm    3 mm 300-600 V DC 12.7 mm   9.5 mm    4 mm
 
 #### EV.6.5.8 Teams must be prepared to show spacing on team built equipment For inaccessible circuitry, spare boards or appropriate photographs must be available for inspection
 
@@ -363,11 +561,20 @@ Container
 
 #### EV.6.6.1 All electrical systems (Low Voltage and High Voltage) must have appropriate Overcurrent Protection/Fusing.
 
-#### EV.6.6.2 Unless otherwise permitted in the Rules, all Overcurrent Protection devices must: a. Be rated for the highest voltage in the systems they protect Overcurrent Protection devices used for DC must be rated for DC and must carry a DC rating equal to or more than the system voltage b. Have a continuous current rating less than or equal to the continuous current rating of any electrical component that it protects c. Have an interrupt current rating higher than the theoretical short circuit current of the system that it protects
+#### EV.6.6.2 Unless otherwise permitted in the Rules, all Overcurrent Protection devices must:
+
+
+a. Be rated for the highest voltage in the systems they protect Overcurrent Protection devices used for DC must be rated for DC and must carry a DC rating equal to or more than the system voltage
+b. Have a continuous current rating less than or equal to the continuous current rating of any electrical component that it protects
+c. Have an interrupt current rating higher than the theoretical short circuit current of the system that it protects
 
 #### EV.6.6.3 Each parallel element of multiple parallel battery cells, capacitors, strings of battery cells, strings of capacitors, or conductors must have individual Overcurrent Protection.
 
-#### EV.6.6.4 Any conductors (wires, busbars, etc) conducting the entire pack current must meet one of: a. Be appropriately sized for the total current that the individual Overcurrent Protection devices could transmit b. Contain additional Overcurrent Protection to protect the conductors
+#### EV.6.6.4 Any conductors (wires, busbars, etc) conducting the entire pack current must meet one of:
+
+
+a. Be appropriately sized for the total current that the individual Overcurrent Protection devices could transmit
+b. Contain additional Overcurrent Protection to protect the conductors
 
 #### EV.6.6.5 Battery packs with Low Voltage or non voltage rated fusible links for cell connections may be used when all three conditions are met: • An Overcurrent Protection device rated at less than or equal to one third the sum of the parallel fusible links and complying with EV.6.6.2.b above is connected in series. • The BMS can detect an open fusible link and will Open the Shutdown Circuit EV.7.2.2 if a fault is detected. • Fusible link current rating is specified in manufacturer’s data or suitable test data is provided.
 
@@ -381,9 +588,17 @@ c. On the positive conductor in the Grounded Low Voltage System
 
 ### EV.6.7 Grounding
 
-#### EV.6.7.1 Grounding is required for: a. Parts of the vehicle which are 100 mm or less from any Tractive System component that are not separated from the Tractive System component by a Firewall T.1.8.4 b. Any Firewall T.1.8.4 The part itself must meet the grounding requirement if conductive tape is applied
+#### EV.6.7.1 Grounding is required for:
 
-#### EV.6.7.2 Grounded parts of the vehicle must have a resistance to GLV System Ground less than the values specified below. a. Electrically conductive parts  300 mOhms (measured with a current of 1 A) Examples: parts made of steel, (anodized) aluminum, any other metal parts b. Parts which may become electrically conductive   5 Ohm Example:  carbon fiber parts Carbon fiber parts may need special measures such as using copper mesh or similar to keep the ground resistance below 5 Ohms.
+
+a. Parts of the vehicle which are 100 mm or less from any Tractive System component that are not separated from the Tractive System component by a Firewall [T.1.8.4](t-technical-aspects.md#t184-ev-only-the-firewall-or-the-part-of-the-firewall-on-the-tractive-system-side-must-be)
+b. Any Firewall [T.1.8.4](t-technical-aspects.md#t184-ev-only-the-firewall-or-the-part-of-the-firewall-on-the-tractive-system-side-must-be) The part itself must meet the grounding requirement if conductive tape is applied
+
+#### EV.6.7.2 Grounded parts of the vehicle must have a resistance to GLV System Ground less than the values specified below.
+
+
+a. Electrically conductive parts  300 mOhms (measured with a current of 1 A) Examples: parts made of steel, (anodized) aluminum, any other metal parts
+b. Parts which may become electrically conductive   5 Ohm Example:  carbon fiber parts Carbon fiber parts may need special measures such as using copper mesh or similar to keep the ground resistance below 5 Ohms.
 
 #### EV.6.7.3 Electrical conductivity of any part may be tested by checking any point which is likely to be conductive. Where no convenient conductive point is available, an area of coating may be removed.
 
@@ -391,7 +606,17 @@ c. On the positive conductor in the Grounded Low Voltage System
 
 ### EV.7.1 Shutdown Circuit
 
-#### EV.7.1.1 The Shutdown Circuit consists of these components, connected in series: a. Battery Management System (BMS)  EV.7.3 b. Insulation Monitoring Device (IMD)  EV.7.6 c. Brake System Plausibility Device (BSPD)  EV.7.7 d. Interlocks (as required)  EV.7.8 e. Master Switches (GLVMS, TSMS)  EV.7.9 f. Shutdown Buttons  EV.7.10 g. Brake Over Travel Switch (BOTS)  T.3.3 h. Inertia Switch  T.9.4
+#### EV.7.1.1 The Shutdown Circuit consists of these components, connected in series:
+
+
+a. Battery Management System (BMS)  [EV.7.3](#ev73-battery-management-system---bms)
+b. Insulation Monitoring Device (IMD)  [EV.7.6](#ev76-insulation-monitoring-device---imd)
+c. Brake System Plausibility Device (BSPD)  [EV.7.7](#ev77-brake-system-plausibility-device---bspd)
+d. Interlocks (as required)  [EV.7.8](#ev78-interlocks)
+e. Master Switches (GLVMS, TSMS)  [EV.7.9](#ev79-master-switches)
+f. Shutdown Buttons  [EV.7.10](#ev710-shutdown-buttons)
+g. Brake Over Travel Switch (BOTS)  [T.3.3](t-technical-aspects.md#t33-brake-over-travel-switch---bots)
+h. Inertia Switch  [T.9.4](t-technical-aspects.md#t94-inertia-switch)
 
 #### EV.7.1.2 The Shutdown Circuit must directly carry the current driving the Isolation Relays (IRs) and the Precharge Circuit Relay.
 
@@ -407,26 +632,62 @@ c. On the positive conductor in the Grounded Low Voltage System
 
 ### EV.7.2 Shutdown Circuit Operation
 
-#### EV.7.2.1 The Shutdown Circuit must Open when any of these exist: a. Operation of, or detection from any of the components listed in EV.7.1.1 b. Any shutdown of the GLV System
+#### EV.7.2.1 The Shutdown Circuit must Open when any of these exist:
 
-#### EV.7.2.2 When the Shutdown Circuit Opens: a. The Tractive System must Shutdown b. All Tractive Battery current flow must stop immediately  EV.5.4.3 c. The voltage in the Tractive System must be Low Voltage T.9.1.2 in five seconds or less d. The Motor(s) must spin free.  Torque must not be applied to the Motor(s)
 
-#### EV.7.2.3 When the BMS, IMD or BSPD Open the Shutdown Circuit: a. The Tractive System must stay disabled until manually reset b. The Tractive System must be reset only by manual action of a person directly at the vehicle c. The driver must not be able to reactivate the Tractive System from inside the vehicle d. Operation of the Shutdown Buttons or TSMS must not let the Shutdown Circuit Close Chassis Master Switch Brake System Plausibility Device Ba ery Management System TSMP HV+ Trac ve System le right Shutdown Bu ons GLV System GLV System Trac ve System Fuse(s) IR Trac ve Ba ery Container Trac ve System cockpit IR Precharge Precharge Control GLV Ba ery Interlock(s) G D GLVMP HV TSMP Iner a Switch Brake System Plausibility Device Insula on Monitoring Device Brake Over Travel Switch MSD Interlock LV TS le right GLV System Master Switch GLV System GLV Fuse Trac ve System Trac ve System
+a. Operation of, or detection from any of the components listed in [EV.7.1.1](#ev711-the-shutdown-circuit-consists-of-these-components-connected-in-series)
+b. Any shutdown of the GLV System
+
+#### EV.7.2.2 When the Shutdown Circuit Opens:
+
+
+a. The Tractive System must Shutdown
+b. All Tractive Battery current flow must stop immediately  [EV.5.4.3](#ev543-when-the-isolation-relays-are-open-high-voltage-t911-must-not-be-external-of-the-tractive-battery-container)
+c. The voltage in the Tractive System must be Low Voltage [T.9.1.2](t-technical-aspects.md#t912-low-voltage---lv) in five seconds or less
+d. The Motor(s) must spin free.  Torque must not be applied to the Motor(s)
+
+#### EV.7.2.3 When the BMS, IMD or BSPD Open the Shutdown Circuit:
+
+
+a. The Tractive System must stay disabled until manually reset
+b. The Tractive System must be reset only by manual action of a person directly at the vehicle
+c. The driver must not be able to reactivate the Tractive System from inside the vehicle
+d. Operation of the Shutdown Buttons or TSMS must not let the Shutdown Circuit Close Chassis Master Switch Brake System Plausibility Device Ba ery Management System TSMP HV+ Trac ve System le right Shutdown Bu ons GLV System GLV System Trac ve System Fuse(s) IR Trac ve Ba ery Container Trac ve System cockpit IR Precharge Precharge Control GLV Ba ery Interlock(s) G D GLVMP HV TSMP Iner a Switch Brake System Plausibility Device Insula on Monitoring Device Brake Over Travel Switch MSD Interlock LV TS le right GLV System Master Switch GLV System GLV Fuse Trac ve System Trac ve System
 
 
 ### EV.7.3 Battery Management System - BMS
 
-#### EV.7.3.1 A Battery Management System must monitor the Tractive Battery Voltage EV.7.4 and Temperature EV.7.5 when the: a. Tractive System is Active  EV.11.5 b. Tractive Battery is connected to a Charger  EV.8.3
+#### EV.7.3.1 A Battery Management System must monitor the Tractive Battery Voltage EV.7.4 and Temperature EV.7.5 when the:
+
+
+a. Tractive System is Active  [EV.11.5](#ev115-charging)
+b. Tractive Battery is connected to a Charger  [EV.8.3](#ev83-charging-shutdown-circuit)
 
 #### EV.7.3.2 The BMS must have galvanic isolation at each Module to Module boundary, as approved in the ESF
 
 #### EV.7.3.3 Cell balancing is not permitted when the Shutdown Circuit is Open ( EV.7.2, EV.8.4 )
 
-#### EV.7.3.4 The BMS must monitor for: a. Voltage values outside the permitted range  EV.7.4.2 b. Voltage sense Overcurrent Protection device(s) blown or tripped c. Temperature values outside the permitted range  EV.7.5.2 d. Missing or interrupted voltage or temperature measurements e. A fault in the BMS
+#### EV.7.3.4 The BMS must monitor for:
 
-#### EV.7.3.5 If the BMS detects one or more of the conditions of EV.7.3.4 above, the BMS must: a. Open the Shutdown Circuit  EV.7.2.2 b. Turn on the BMS Indicator Light and the Tractive System Status Indicator EV.5.11.5 The two lights must stay on until the BMS is manually reset EV.7.2.3
 
-#### EV.7.3.6 The BMS Indicator Light must be: a. Color:  Red b. Clearly visible to the seated driver in bright sunlight c. Clearly marked with the lettering “BMS”
+a. Voltage values outside the permitted range  [EV.7.4.2](#ev742-cell-voltage-levels-must-stay-inside-the-permitted-minimum-and-maximum-cell-voltage-levels-stated-in-the-cell-data-sheet-measurement-accuracy-must-be-considered)
+b. Voltage sense Overcurrent Protection device(s) blown or tripped
+c. Temperature values outside the permitted range  [EV.7.5.2](#ev752-temperatures-considering-measurement-accuracy-must-stay-below-the-lower-of-the-two-the-maximum-cell-temperature-limit-stated-in-the-cell-data-sheet-60c)
+d. Missing or interrupted voltage or temperature measurements
+e. A fault in the BMS
+
+#### EV.7.3.5 If the BMS detects one or more of the conditions of EV.7.3.4 above, the BMS must:
+
+
+a. Open the Shutdown Circuit  [EV.7.2.2](#ev722-when-the-shutdown-circuit-opens)
+b. Turn on the BMS Indicator Light and the Tractive System Status Indicator [EV.5.11.5](#ev5115-the-tractive-system-status-indicator-must-show-when-the-glv-system-is-energized-condition-green-light-red-light) The two lights must stay on until the BMS is manually reset [EV.7.2.3](#ev723-when-the-bms-imd-or-bspd-open-the-shutdown-circuit)
+
+#### EV.7.3.6 The BMS Indicator Light must be:
+
+
+a. Color:  Red
+b. Clearly visible to the seated driver in bright sunlight
+c. Clearly marked with the lettering “BMS”
 
 ### EV.7.4 Tractive Battery Voltage
 
@@ -434,7 +695,11 @@ c. On the positive conductor in the Grounded Low Voltage System
 
 #### EV.7.4.2 Cell Voltage levels must stay inside the permitted minimum and maximum cell voltage levels stated in the cell data sheet.  Measurement accuracy must be considered.
 
-#### EV.7.4.3 All voltage sense wires to the BMS must have Overcurrent Protection that must meet the two: a. The Overcurrent Protection must occur in the conductor, wire or PCB trace which is directly connected to the cell tab. b. The voltage rating of the Overcurrent Protection must be equal to or higher than the maximum Module voltage
+#### EV.7.4.3 All voltage sense wires to the BMS must have Overcurrent Protection that must meet the two:
+
+
+a. The Overcurrent Protection must occur in the conductor, wire or PCB trace which is directly connected to the cell tab.
+b. The voltage rating of the Overcurrent Protection must be equal to or higher than the maximum Module voltage
 
 ### EV.7.5 Tractive Battery Temperature
 
@@ -447,7 +712,11 @@ c. On the positive conductor in the Grounded Low Voltage System
 
 #### EV.7.5.4 The temperature sensor used must be in direct contact with one of: • The negative terminal itself • The negative terminal busbar less than 10 mm away from the spot weld or clamping source on the negative cell terminal
 
-#### EV.7.5.5 For lithium based cells, a. The temperature of a minimum of 20% of the cells must be monitored by the BMS b. The monitored cells must be equally distributed inside the Tractive Battery Container(s) The temperature of each cell should be monitored
+#### EV.7.5.5 For lithium based cells,
+
+
+a. The temperature of a minimum of 20% of the cells must be monitored by the BMS
+b. The monitored cells must be equally distributed inside the Tractive Battery Container(s) The temperature of each cell should be monitored
 
 #### EV.7.5.6 Multiple cells may be monitored with one temperature sensor, if EV.7.5 is met for all cells sensed by the sensor.
 
@@ -461,11 +730,24 @@ c. On the positive conductor in the Grounded Low Voltage System
 
 #### EV.7.6.3 The response value of the IMD must be set to 500 Ohm / Volt or higher, related to the maximum Tractive System operation voltage.
 
-#### EV.7.6.4 The IMD must monitor the Tractive System for: a. An isolation failure b. A failure in the IMD operation This must be done without the influence of any programmable logic.
+#### EV.7.6.4 The IMD must monitor the Tractive System for:
 
-#### EV.7.6.5 If the IMD detects one or more of the conditions of EV.7.6.4 above the IMD must: a. Open the Shutdown Circuit  EV.7.2.2 b. Turn on the IMD Indicator Light and the Tractive System Status Indicator EV.5.11.5 The two lights must stay on until the IMD is manually reset EV.7.2.3
 
-#### EV.7.6.6 The IMD Indicator Light must be: a. Color:  Red b. Clearly visible to the seated driver in bright sunlight c. Clearly marked with the lettering “IMD”
+a. An isolation failure
+b. A failure in the IMD operation This must be done without the influence of any programmable logic.
+
+#### EV.7.6.5 If the IMD detects one or more of the conditions of EV.7.6.4 above the IMD must:
+
+
+a. Open the Shutdown Circuit  [EV.7.2.2](#ev722-when-the-shutdown-circuit-opens)
+b. Turn on the IMD Indicator Light and the Tractive System Status Indicator [EV.5.11.5](#ev5115-the-tractive-system-status-indicator-must-show-when-the-glv-system-is-energized-condition-green-light-red-light) The two lights must stay on until the IMD is manually reset [EV.7.2.3](#ev723-when-the-bms-imd-or-bspd-open-the-shutdown-circuit)
+
+#### EV.7.6.6 The IMD Indicator Light must be:
+
+
+a. Color:  Red
+b. Clearly visible to the seated driver in bright sunlight
+c. Clearly marked with the lettering “IMD”
 
 ### EV.7.7 Brake System Plausibility Device - BSPD
 
@@ -480,7 +762,11 @@ delivered to the Motor(s) at the nominal battery voltage
 The BSPD may delay opening the shutdown circuit up to 0.5 sec to prevent false trips
 #### EV.7.7.3 The BSPD must Open the Shutdown Circuit EV.7.2.2 when there is an open or short circuit in any sensor input
 
-#### EV.7.7.4 The team must have a test to demonstrate BSPD operation at Electrical Technical Inspection. a. Power must not be sent to the Motor(s) of the vehicle during the test b. The test must prove the function of the complete BSPD in the vehicle, including the current sensor The suggested test would introduce a current by a separate wire from an external power supply simulating the Tractive System current while pressing the brake pedal
+#### EV.7.7.4 The team must have a test to demonstrate BSPD operation at Electrical Technical Inspection.
+
+
+a. Power must not be sent to the Motor(s) of the vehicle during the test
+b. The test must prove the function of the complete BSPD in the vehicle, including the current sensor The suggested test would introduce a current by a separate wire from an external power supply simulating the Tractive System current while pressing the brake pedal
 
 ### EV.7.8 Interlocks
 
@@ -488,28 +774,68 @@ The BSPD may delay opening the shutdown circuit up to 0.5 sec to prevent false t
 
 #### EV.7.8.2 Additional Interlocks may be included in the Tractive System or components
 
-#### EV.7.8.3 The Interlock is a wire or connection that must: a. Open the Shutdown Circuit EV.7.2.2 if the Interlock connection is broken or interrupted b. Not be in the low (ground) connection to the IR coils of the Shutdown Circuit
+#### EV.7.8.3 The Interlock is a wire or connection that must:
 
-#### EV.7.8.4 Interlock circuits or connections do not require physical separation (EV.6.5) from Tractive System wiring or components when the Interlock circuit is: a. In the same wiring harness as Tractive System wiring b. Part of a Tractive System Connector  EV.5.9 c. Inside the Tractive Battery Container or Tractive System Enclosure less than 75 mm from the connection to a Tractive System connector
+
+a. Open the Shutdown Circuit [EV.7.2.2](#ev722-when-the-shutdown-circuit-opens) if the Interlock connection is broken or interrupted
+b. Not be in the low (ground) connection to the IR coils of the Shutdown Circuit
+
+#### EV.7.8.4 Interlock circuits or connections do not require physical separation (EV.6.5) from Tractive System wiring or components when the Interlock circuit is:
+
+
+a. In the same wiring harness as Tractive System wiring
+b. Part of a Tractive System Connector  [EV.5.9](#ev59-connectors)
+c. Inside the Tractive Battery Container or Tractive System Enclosure less than 75 mm from the connection to a Tractive System connector
 
 ### EV.7.9 Master Switches
 
-#### EV.7.9.1 Each vehicle must have two Master Switches that must: a. Meet T.9.3 for Configuration and Location b. Be direct acting, not act through a relay or logic
+#### EV.7.9.1 Each vehicle must have two Master Switches that must:
 
-#### EV.7.9.2 The Grounded Low Voltage Master Switch (GLVMS) must: a. Completely stop all power to the GLV System  EV.4.4 b. Be in the center of a completely red circular area of > 50 mm in diameter c. Be labeled “LV”
 
-#### EV.7.9.3 The Tractive System Master Switch (TSMS) must: a. Open the Shutdown Circuit in the OFF position  EV.7.2.2 b. Be the last switch before the IRs except for Precharge circuitry and Interlocks. c. Be in the center of a completely orange circular area of > 50 mm in diameter d. Be labeled “TS” and the symbol specified in ISO 7010-W012  (triangle with black lightning bolt on yellow background). e. Be fitted with a "lockout/tagout" capability in the OFF position  EV.11.3.1
+a. Meet [T.9.3](t-technical-aspects.md#t93-master-switches) for Configuration and Location
+b. Be direct acting, not act through a relay or logic
+
+#### EV.7.9.2 The Grounded Low Voltage Master Switch (GLVMS) must:
+
+
+a. Completely stop all power to the GLV System  [EV.4.4](#ev44-grounded-low-voltage-system)
+b. Be in the center of a completely red circular area of > 50 mm in diameter
+c. Be labeled “LV”
+
+#### EV.7.9.3 The Tractive System Master Switch (TSMS) must:
+
+
+a. Open the Shutdown Circuit in the OFF position  [EV.7.2.2](#ev722-when-the-shutdown-circuit-opens)
+b. Be the last switch before the IRs except for Precharge circuitry and Interlocks.
+c. Be in the center of a completely orange circular area of > 50 mm in diameter
+d. Be labeled “TS” and the symbol specified in ISO 7010-W012  (triangle with black lightning bolt on yellow background).
+e. Be fitted with a "lockout/tagout" capability in the OFF position  [EV.11.3.1](#ev1131-the-tsms-ev793-must-be-locked-in-the-off-position-when-any-work-is-done-on-the-vehicle)
 
 
 ### EV.7.10 Shutdown Buttons
 
 #### EV.7.10.1 Three Shutdown Buttons must be installed on the vehicle
 
-#### EV.7.10.2 Each Shutdown Button must: a. Be a push-pull or push-rotate emergency stop switch b. Open the Shutdown Circuit EV.7.2.2 when operated to the OFF position c. Hold when operated to the OFF position d. Let the Shutdown Circuit Close when operated to the ON position
+#### EV.7.10.2 Each Shutdown Button must:
 
-#### EV.7.10.3 One Shutdown Button must be on each side of the vehicle which: a. Is located aft of the Main Hoop near the junction of the Main Hoop and Main Hoop Bracing F.5.9 b. Has a diameter of 40 mm minimum c. Must not be easily removable or mounted onto removable body work
 
-#### EV.7.10.4 One Shutdown Button must be mounted in the cockpit which: a. Is located in easy reach of the belted in driver, adjacent to the steering wheel, and unobstructed by the steering wheel or any other part of the vehicle b. Has diameter of 24 mm minimum
+a. Be a push-pull or push-rotate emergency stop switch
+b. Open the Shutdown Circuit [EV.7.2.2](#ev722-when-the-shutdown-circuit-opens) when operated to the OFF position
+c. Hold when operated to the OFF position
+d. Let the Shutdown Circuit Close when operated to the ON position
+
+#### EV.7.10.3 One Shutdown Button must be on each side of the vehicle which:
+
+
+a. Is located aft of the Main Hoop near the junction of the Main Hoop and Main Hoop Bracing [F.5.9](f-chassis-and-structural.md#f59-main-hoop-braces)
+b. Has a diameter of 40 mm minimum
+c. Must not be easily removable or mounted onto removable body work
+
+#### EV.7.10.4 One Shutdown Button must be mounted in the cockpit which:
+
+
+a. Is located in easy reach of the belted in driver, adjacent to the steering wheel, and unobstructed by the steering wheel or any other part of the vehicle
+b. Has diameter of 24 mm minimum
 
 #### EV.7.10.5 The international electrical symbol  (a red spark on a white edged blue triangle) must be near each Shutdown Button.
 
@@ -535,22 +861,48 @@ The BSPD may delay opening the shutdown circuit up to 0.5 sec to prevent false t
 
 #### EV.8.2.6 The Charger must have two TSMPs installed, see EV.5.8.2
 
-#### EV.8.2.7 The Charger must include a Charger Shutdown Button which must: a. Be a push-pull or push-rotate emergency stop switch b. Have a minimum diameter of 25 mm c. Open the Charging Shutdown Circuit EV.8.4.2 when operated to the OFF position d. Hold when operated to the OFF position e. Be labelled with the international electrical symbol  (a red spark on a white edged blue triangle)
+#### EV.8.2.7 The Charger must include a Charger Shutdown Button which must:
+
+
+a. Be a push-pull or push-rotate emergency stop switch
+b. Have a minimum diameter of 25 mm
+c. Open the Charging Shutdown Circuit [EV.8.4.2](#ev842-when-the-charging-shutdown-circuit-opens) when operated to the OFF position
+d. Hold when operated to the OFF position
+e. Be labelled with the international electrical symbol  (a red spark on a white edged blue triangle)
 
 
 
 
 ### EV.8.3 Charging Shutdown Circuit
 
-#### EV.8.3.1 The Charging Shutdown Circuit consists of: a. Charger Shutdown Button  EV.8.2.7 b. Battery Management System (BMS)  EV.7.3 c. Insulation Monitoring Device (IMD)  EV.7.6
+#### EV.8.3.1 The Charging Shutdown Circuit consists of:
 
-#### EV.8.3.2 The BMS and IMD parts of the Charging Shutdown Circuit must: a. Be designed as Normally Open contacts b. Have completely independent circuits to Open the Charging Shutdown Circuit. Design of the respective circuits must make sure that a failure cannot result in electrical power being fed back into the Charging Shutdown Circuit.
+
+a. Charger Shutdown Button  [EV.8.2.7](#ev827-the-charger-must-include-a-charger-shutdown-button-which-must)
+b. Battery Management System (BMS)  [EV.7.3](#ev73-battery-management-system---bms)
+c. Insulation Monitoring Device (IMD)  [EV.7.6](#ev76-insulation-monitoring-device---imd)
+
+#### EV.8.3.2 The BMS and IMD parts of the Charging Shutdown Circuit must:
+
+
+a. Be designed as Normally Open contacts
+b. Have completely independent circuits to Open the Charging Shutdown Circuit. Design of the respective circuits must make sure that a failure cannot result in electrical power being fed back into the Charging Shutdown Circuit.
 
 ### EV.8.4 Charging Shutdown Circuit Operation
 
-#### EV.8.4.1 When Charging, the BMS and IMD must: a. Monitor the Tractive Battery b. Open the Charging Shutdown Circuit if a fault is detected
+#### EV.8.4.1 When Charging, the BMS and IMD must:
 
-#### EV.8.4.2 When the Charging Shutdown Circuit Opens: a. All current flow to the Tractive Battery must stop immediately b. The voltage in the Tractive System must be Low Voltage T.9.1.2 in five seconds or less c. The Charger must be turned off d. The Charger must stay disabled until manually reset
+
+a. Monitor the Tractive Battery
+b. Open the Charging Shutdown Circuit if a fault is detected
+
+#### EV.8.4.2 When the Charging Shutdown Circuit Opens:
+
+
+a. All current flow to the Tractive Battery must stop immediately
+b. The voltage in the Tractive System must be Low Voltage [T.9.1.2](t-technical-aspects.md#t912-low-voltage---lv) in five seconds or less
+c. The Charger must be turned off
+d. The Charger must stay disabled until manually reset
 
 ## EV.9 Vehicle Operations
 
@@ -588,7 +940,12 @@ The Shutdown Circuit may be Closed when or after the GLV System is energized
 
 #### EV.9.7.1 The vehicle must make a characteristic sound when it is Ready to Drive
 
-#### EV.9.7.2 The Ready to Drive Sound must be: a. Sounded continuously for minimum 1 second and maximum 3 seconds b. A minimum sound level of 80 dBA, fast weighting  IN.10.3 c. Easily recognizable.  No animal voices, song parts or sounds that could be interpreted as offensive will be accepted
+#### EV.9.7.2 The Ready to Drive Sound must be:
+
+
+a. Sounded continuously for minimum 1 second and maximum 3 seconds
+b. A minimum sound level of 80 dBA, fast weighting  [IN.10.3](in-technical-inspection.md#in103-ready-to-drive-sound)
+c. Easily recognizable.  No animal voices, song parts or sounds that could be interpreted as offensive will be accepted
 
 #### EV.9.7.3 The vehicle must not make other sounds similar to the Ready to Drive Sound.
 
@@ -598,7 +955,11 @@ The Shutdown Circuit may be Closed when or after the GLV System is energized
 
 #### EV.10.1.1 The Tractive Battery Pack must be onsite at the time the team registers to be eligible for Tractive Battery Pack Inspection and Dynamic Events
 
-#### EV.10.1.2 Teams who register without the Tractive Battery Pack: a. Must not bring their Tractive Battery Pack onsite for the duration of the competition b. May participate in Technical Inspection and Static Events
+#### EV.10.1.2 Teams who register without the Tractive Battery Pack:
+
+
+a. Must not bring their Tractive Battery Pack onsite for the duration of the competition
+b. May participate in Technical Inspection and Static Events
 
 ### EV.10.2 Tractive Battery Pack Removal
 
@@ -610,12 +971,21 @@ The Shutdown Circuit may be Closed when or after the GLV System is energized
 
 ### EV.11.1 Personnel
 
-#### EV.11.1.1 The Electrical System Officer (ESO):  AD.5.2 a. Is the only person on the team that may declare the vehicle electrically safe to allow work on any system b. Must accompany the vehicle when operated or moved at the competition site c. Must be immediately available by phone at all times during the event
+#### EV.11.1.1 The Electrical System Officer (ESO):  AD.5.2
+
+
+a. Is the only person on the team that may declare the vehicle electrically safe to allow work on any system
+b. Must accompany the vehicle when operated or moved at the competition site
+c. Must be immediately available by phone at all times during the event
 
 
 ### EV.11.2 Maintenance
 
-#### EV.11.2.1 All participating team members must wear safety glasses with side shields at any time when: a. Parts of the Tractive System are exposed while energized b. Work is done on the Tractive Battery Pack
+#### EV.11.2.1 All participating team members must wear safety glasses with side shields at any time when:
+
+
+a. Parts of the Tractive System are exposed while energized
+b. Work is done on the Tractive Battery Pack
 
 #### EV.11.2.2 Appropriate insulated tools must be used when working on the Tractive Battery Pack or Tractive System
 
@@ -623,15 +993,32 @@ The Shutdown Circuit may be Closed when or after the GLV System is energized
 
 #### EV.11.3.1 The TSMS EV.7.9.3 must be locked in the OFF position when any work is done on the vehicle.
 
-#### EV.11.3.2 The MSD EV.5.5 must be disconnected when vehicles are: a. Moved around the competition site b. Participating in Static Events
+#### EV.11.3.2 The MSD EV.5.5 must be disconnected when vehicles are:
+
+
+a. Moved around the competition site
+b. Participating in Static Events
 
 ### EV.11.4 Tractive System
 
-#### EV.11.4.1 These work activities at competition are permitted only in the designated area and during Electrical Technical Inspection IN.5   See EV.5.3.3 a. Opening Tractive Battery Containers b. Any work on Tractive Battery(s), Cells, or Modules c. Energized electrical work
+#### EV.11.4.1 These work activities at competition are permitted only in the designated area and during Electrical Technical Inspection IN.5   See EV.5.3.3
 
-#### EV.11.4.2 Cells and/or Modules must be moved at the competition site inside one of the two: a. Completely closed Tractive Battery Container EV.4.3  See EV.4.10.2 b. Module/Cell Transport Container EV.11.4.3
 
-#### EV.11.4.3 The Module/Cell Transport Container(s) must be: a. Electrically insulated b. Protected from shock hazards and arc flash
+a. Opening Tractive Battery Containers
+b. Any work on Tractive Battery(s), Cells, or Modules
+c. Energized electrical work
+
+#### EV.11.4.2 Cells and/or Modules must be moved at the competition site inside one of the two:
+
+
+a. Completely closed Tractive Battery Container [EV.4.3](#ev43-tractive-battery-container)  See [EV.4.10.2](#ev4102-the-hand-cart-must-be-used-when-the-tractive-battery-packs-are-transported-on-the-competition-site-ev1142-ev1151)
+b. Module/Cell Transport Container [EV.11.4.3](#ev1143-the-modulecell-transport-containers-must-be)
+
+#### EV.11.4.3 The Module/Cell Transport Container(s) must be:
+
+
+a. Electrically insulated
+b. Protected from shock hazards and arc flash
 
 #### EV.11.4.4 Modules/Cells inside the Transport Container must agree with the voltage and energy limits of
 

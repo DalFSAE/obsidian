@@ -213,7 +213,8 @@ Rules Questions may also be used to request approval, as specified in these rule
 
 #### GR.7.2.3 Submission Addresses
 
-a. Teams entering Formula SAE competitions: Follow the link and instructions published on the Event Website to "Submit a Rules Question" b. Teams entering other competitions please visit those respective competition websites for further instructions
+a. Teams entering Formula SAE competitions: Follow the link and instructions published on the Event Website to "Submit a Rules Question"
+b. Teams entering other competitions please visit those respective competition websites for further instructions
 
 ### GR.7.3 Question Publication
 

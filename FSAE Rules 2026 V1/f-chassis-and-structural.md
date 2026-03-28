@@ -94,7 +94,11 @@ Metal or a Non Metallic material which meets UL94-V0, FAR25 or approved equivale
 
 #### F.2.1.1 The SES is a supplement to the Formula SAE Rules and may provide guidance or further details in addition to those of the Formula SAE Rules
 
-#### F.2.1.2 The SES provides the means to: a. Document the Primary Structure and show compliance with the Formula SAE Rules b. Determine Equivalence to Formula SAE Rules using an accepted basis
+#### F.2.1.2 The SES provides the means to:
+
+
+a. Document the Primary Structure and show compliance with the Formula SAE Rules
+b. Determine Equivalence to Formula SAE Rules using an accepted basis
 
 ### F.2.2 Structural Documentation
 
@@ -172,19 +176,36 @@ d. Size D 18015 mm4 126 mm2 35.0 mm 1.2 mm 1.375” x 0.049”
 35 x 1.2 mm
 
 
-#### F.3.4.2 Properties for ANY steel material for calculations submitted in an SES must be: a. Non Welded Properties for continuous material calculations: Young’s Modulus (E) = 200 GPa (29,000 ksi) Yield Strength (Sy) = 305 MPa (44.2 ksi) Ultimate Strength (Su) = 365 MPa (52.9 ksi) b. Welded Properties for discontinuous material such as joint calculations: Yield Strength (Sy) = 180 MPa (26 ksi) Ultimate Strength (Su) = 300 MPa (43.5 ksi)
+#### F.3.4.2 Properties for ANY steel material for calculations submitted in an SES must be:
 
-#### F.3.4.3 If welded tubing reinforcements are required (such as inserts for bolt holes or material to support suspension cutouts): a. Equivalence of the Welded tube and reinforcement must be shown to the original Non Welded tube in the SES b. Welded inserts must use a wall thickness greater than the original Non Welded tube c. Welded Inserts must use an outer diameter less than the original Non Welded tube diameter or square side
+
+a. Non Welded Properties for continuous material calculations: Young’s Modulus (E) = 200 GPa (29,000 ksi) Yield Strength (Sy) = 305 MPa (44.2 ksi) Ultimate Strength (Su) = 365 MPa (52.9 ksi)
+b. Welded Properties for discontinuous material such as joint calculations: Yield Strength (Sy) = 180 MPa (26 ksi) Ultimate Strength (Su) = 300 MPa (43.5 ksi)
+
+#### F.3.4.3 If welded tubing reinforcements are required (such as inserts for bolt holes or material to support suspension cutouts):
+
+
+a. Equivalence of the Welded tube and reinforcement must be shown to the original Non Welded tube in the SES
+b. Welded inserts must use a wall thickness greater than the original Non Welded tube
+c. Welded Inserts must use an outer diameter less than the original Non Welded tube diameter or square side
 
 ### F.3.5 Aluminum Tubing
 
 #### F.3.5.1 Alumimum Tubing may be used for applications shown as permitted in F.3.2.1
 
-#### F.3.5.2 If any Aluminum Tubing is used, the SES must contain: a. Documentation of material type, (purchase receipt, shipping document or letter of donation) and the material properties. b. Calculations that show equivalent to or better than the minimum requirements for steel tubing in the application as listed in F.3.4.1 for yield and ultimate strengths matching the Non Welded Steel properties from F.3.4.2.a above in bending, buckling and tension, for buckling modulus and for energy dissipation c. Details of the manufacturing technique and process
+#### F.3.5.2 If any Aluminum Tubing is used, the SES must contain:
+
+
+a. Documentation of material type, (purchase receipt, shipping document or letter of donation) and the material properties.
+b. Calculations that show equivalent to or better than the minimum requirements for steel tubing in the application as listed in [F.3.4.1](#f341-minimum-requirements-for-steel-tubing-a-tube-must-have-all-four-minimum-requirements-for-each-size-specified-tube-minimum-area-moment-of-inertia-minimum-cross-sectional-area-minimum-outside-diameter-or-square-width-minimum-wall-thickness-example-sizes-of-round-tube) for yield and ultimate strengths matching the Non Welded Steel properties from [F.3.4.2](#f342-properties-for-any-steel-material-for-calculations-submitted-in-an-ses-must-be).a above in bending, buckling and tension, for buckling modulus and for energy dissipation
+c. Details of the manufacturing technique and process
 
 #### F.3.5.3 Properties
 
-a. Minimum Wall Thickness for Aluminum Tubing: Non Welded 2.0 mm Welded 3.0 mm b. Non Welded properties for aluminum alloy 6061-T6 for calculations in an SES must be: Young’s Modulus (E) 69 GPa (10,000 ksi) Yield Strength (Sy) 240 MPa (34.8 ksi) Ultimate Strength (Su) 290 MPa (42.1 ksi) c. Welded properties for aluminum alloy 6061-T6 for calculations in an SES must be: Yield Strength (Sy) 115 MPa (16.7 ksi) Ultimate Strength (Su) 175 MPa (25.4 ksi) d. If welding is used on a regulated aluminum structure, the equivalent yield strength must be considered in the “as welded” condition for the alloy used unless the team provides detailed proof that the frame or component has been properly solution heat treated, artificially aged, and not subject to heating during team manufacturing.
+a. Minimum Wall Thickness for Aluminum Tubing: Non Welded 2.0 mm Welded 3.0 mm
+b. Non Welded properties for aluminum alloy 6061-T6 for calculations in an SES must be: Young’s Modulus (E) 69 GPa (10,000 ksi) Yield Strength (Sy) 240 MPa (34.8 ksi) Ultimate Strength (Su) 290 MPa (42.1 ksi)
+c. Welded properties for aluminum alloy 6061-T6 for calculations in an SES must be: Yield Strength (Sy) 115 MPa (16.7 ksi) Ultimate Strength (Su) 175 MPa (25.4 ksi)
+d. If welding is used on a regulated aluminum structure, the equivalent yield strength must be considered in the “as welded” condition for the alloy used unless the team provides detailed proof that the frame or component has been properly solution heat treated, artificially aged, and not subject to heating during team manufacturing.
 
 
 e. If aluminum was solution heat treated and age hardened to increase its strength after
@@ -208,9 +229,21 @@ If any composite or other material is used, the SES must contain:
 
 #### F.4.2.1 Testing Requirements
 
-a. Any tested samples must be engraved with the full date of construction and sample name b. The same set of test results must not be used for different monocoques in different years c. A new Comparison Test [F.4.2.3](#f423-comparison-test-teams-must-make-an-equivalent-test-that-will-determine-any-compliance-in-the-test-rig-and-establish-an-absorbed-energy-value-of-the-baseline-tubes-a-the-comparison-test-must-use-two-side-impact-steel-tubes-f321e-b-the-steel-tubes-must-be-tested-to-a-minimum-displacement-of-190-mm-c-the-calculation-of-absorbed-energy-must-use-the-integral-of-force-times-displacement-from-the-initiation-of-load-to-a-displacement-of-190-mm) must be done before the laminate tests [F.4.2.2](#f422-primary-structure-laminate-testing-teams-must-build-new-representative-test-panels-for-each-ply-schedule-used-in-the-regulated-regions-of-the-new-chassis-as-a-flat-panel-and-do-a-3-point-bending-test-on-these-panels-refer-to-f424-a-test-panels-must-measure-one-of-the-two-options-138-mm-x-500-mm-or-275-mm-x-500-mm-have-equal-surface-area-for-the-top-and-bottom-skin-have-bare-edges-without-skin-material-b-the-ses-must-include-data-from-the-3-point-bending-tests-pictures-of-the-test-samples-a-picture-of-the-test-sample-and-test-setup-showing-a-measurement-documenting-the-supported-span-distance-used-in-the-ses) The intent is for the test panel to use the same material batch, material age, material storage, and student layup quality as the monocoque, and to make sure the calibration of the test machine is accurate
+a. Any tested samples must be engraved with the full date of construction and sample name
+b. The same set of test results must not be used for different monocoques in different years
+c. A new Comparison Test [F.4.2.3](#f423-comparison-test-teams-must-make-an-equivalent-test-that-will-determine-any-compliance-in-the-test-rig-and-establish-an-absorbed-energy-value-of-the-baseline-tubes) must be done before the laminate tests [F.4.2.2](#f422-primary-structure-laminate-testing-teams-must-build-new-representative-test-panels-for-each-ply-schedule-used-in-the-regulated-regions-of-the-new-chassis-as-a-flat-panel-and-do-a-3-point-bending-test-on-these-panels-refer-to-f424) The intent is for the test panel to use the same material batch, material age, material storage, and student layup quality as the monocoque, and to make sure the calibration of the test machine is accurate
 
-#### F.4.2.2 Primary Structure Laminate Testing Teams must build new representative test panels for each ply schedule used in the regulated regions of the new chassis as a flat panel and do a 3 point bending test on these panels.  Refer to F.4.2.4 a. Test panels must: • Measure one of the two options:  138 mm x 500 mm  OR  275 mm x 500 mm • Have equal surface area for the top and bottom skin • Have bare edges, without skin material b. The SES must include: • Data from the 3 point bending tests • Pictures of the test samples • A picture of the test sample and test setup showing a measurement documenting the supported span distance used in the SES
+#### F.4.2.2 Primary Structure Laminate Testing Teams must build new representative test panels for each ply schedule used in the regulated regions of the new chassis as a flat panel and do a 3 point bending test on these panels.  Refer to F.4.2.4
+
+
+a. Test panels must:
+   - Measure one of the two options:  138 mm x 500 mm  OR  275 mm x 500 mm
+   - Have equal surface area for the top and bottom skin
+   - Have bare edges, without skin material
+b. The SES must include:
+   - Data from the 3 point bending tests
+   - Pictures of the test samples
+   - A picture of the test sample and test setup showing a measurement documenting the supported span distance used in the SES
 
 
 c. Test panel results must be used to derive stiffness, yield strength, ultimate strength and
@@ -222,16 +255,32 @@ associated with each skin layup
 e. Calculation of derived properties must use the part of test data where deflection is 50
 mm or less
 f. Calculation of absorbed energy must use the integral of force times displacement
-#### F.4.2.3 Comparison Test Teams must make an equivalent test that will determine any compliance in the test rig and establish an absorbed energy value of the baseline tubes. a. The comparison test must use two Side Impact steel tubes (F.3.2.1.e) b. The steel tubes must be tested to a minimum displacement of 19.0 mm c. The calculation of absorbed energy must use the integral of force times displacement from the initiation of load to a displacement of 19.0 mm
+#### F.4.2.3 Comparison Test Teams must make an equivalent test that will determine any compliance in the test rig and establish an absorbed energy value of the baseline tubes.
+
+
+a. The comparison test must use two Side Impact steel tubes ([F.3.2.1](#f321-h).e)
+b. The steel tubes must be tested to a minimum displacement of 19.0 mm
+c. The calculation of absorbed energy must use the integral of force times displacement from the initiation of load to a displacement of 19.0 mm
 
 #### F.4.2.4 Test Conduct
 
-a. The Laminate test [F.4.2.2](#f422-primary-structure-laminate-testing-teams-must-build-new-representative-test-panels-for-each-ply-schedule-used-in-the-regulated-regions-of-the-new-chassis-as-a-flat-panel-and-do-a-3-point-bending-test-on-these-panels-refer-to-f424-a-test-panels-must-measure-one-of-the-two-options-138-mm-x-500-mm-or-275-mm-x-500-mm-have-equal-surface-area-for-the-top-and-bottom-skin-have-bare-edges-without-skin-material-b-the-ses-must-include-data-from-the-3-point-bending-tests-pictures-of-the-test-samples-a-picture-of-the-test-sample-and-test-setup-showing-a-measurement-documenting-the-supported-span-distance-used-in-the-ses) and the Comparison test [F.4.2.3](#f423-comparison-test-teams-must-make-an-equivalent-test-that-will-determine-any-compliance-in-the-test-rig-and-establish-an-absorbed-energy-value-of-the-baseline-tubes-a-the-comparison-test-must-use-two-side-impact-steel-tubes-f321e-b-the-steel-tubes-must-be-tested-to-a-minimum-displacement-of-190-mm-c-the-calculation-of-absorbed-energy-must-use-the-integral-of-force-times-displacement-from-the-initiation-of-load-to-a-displacement-of-190-mm) must use the same fixture b. The load applicator used to test any panel/tubes as required in this section [F.4.2](#f42-laminate-and-material-testing) must be: • Metallic • Radius 50 mm c. Test sample supports must: • Have a center to center span distance of 400 mm • Be round where the supports touch the sample d. The load applicator must overhang the test piece to prevent edge loading e. Any other material must not be put between the load applicator and the items on test
+a. The Laminate test [F.4.2.2](#f422-primary-structure-laminate-testing-teams-must-build-new-representative-test-panels-for-each-ply-schedule-used-in-the-regulated-regions-of-the-new-chassis-as-a-flat-panel-and-do-a-3-point-bending-test-on-these-panels-refer-to-f424) and the Comparison test [F.4.2.3](#f423-comparison-test-teams-must-make-an-equivalent-test-that-will-determine-any-compliance-in-the-test-rig-and-establish-an-absorbed-energy-value-of-the-baseline-tubes) must use the same fixture
+b. The load applicator used to test any panel/tubes as required in this section [F.4.2](#f42-laminate-and-material-testing) must be:
+   - Metallic
+   - Radius 50 mm
+c. Test sample supports must:
+   - Have a center to center span distance of 400 mm
+   - Be round where the supports touch the sample
+d. The load applicator must overhang the test piece to prevent edge loading
+e. Any other material must not be put between the load applicator and the items on test
 
 
 #### F.4.2.5 Perimeter Shear Test
 
-a. The Perimeter Shear Test must be completed by measuring the force required to push or pull a 25 mm diameter flat punch through a flat laminate sample. b. The sample must: • Measure 100 mm x 100 mm minimum • Have core and skin thicknesses identical to those used in the actual application
+a. The Perimeter Shear Test must be completed by measuring the force required to push or pull a 25 mm diameter flat punch through a flat laminate sample.
+b. The sample must:
+   - Measure 100 mm x 100 mm minimum
+   - Have core and skin thicknesses identical to those used in the actual application
 
 
 
@@ -248,7 +297,17 @@ strength; this may be less than the minimum force required by [F.7.3.3](#f733-th
 h. The maximum force recorded must meet the requirements of [F.7.3.3](#f733-the-perimeter-shear-strength-of-the-monocoque-laminate-in-the-front-bulkhead-support-structure-must-be-4-kn-or-more-for-a-section-with-a-diameter-of-25-mm-this-must-be-proven-by-a-physical-test-completed-per-f425-and-the-results-included-in-the-ses) / [F.7.5.5](#f755-the-perimeter-shear-strength-of-the-monocoque-laminate-must-be-75-kn-or-more-for-a-section-with-a-diameter-of-25-mm-this-must-be-proven-by-physical-test-completed-per-f425-and-the-results-included-in-the-ses)
 #### F.4.2.6 Lap Joint Test
 
-The Lap Joint Test measures the force required to pull apart a joint of two laminate samples that are bonded together a. A joint design with two perpendicular bond areas may show equivalence using the shear performance of the smaller of the two areas b. A joint design with a single bond area must have two separate pull tests with different orientations of the adhesive joint: • Parallel to the pull direction, with the adhesive joint in pure shear • T peel normal to the pull direction, with the adhesive joint in peel c. The samples used must: • Have skin thicknesses identical to those used in the actual monocoque • Be manufactured using the same materials and processes The intent is to perform a test of the actual bond overlap, and fail the skin before the bond d. The force and displacement data and photos of the test setup must be included in the SES. e. The shear strength * normal area of the bond must be more than the UTS * cross sectional area of the skin
+The Lap Joint Test measures the force required to pull apart a joint of two laminate samples that are bonded together
+
+a. A joint design with two perpendicular bond areas may show equivalence using the shear performance of the smaller of the two areas
+b. A joint design with a single bond area must have two separate pull tests with different orientations of the adhesive joint:
+   - Parallel to the pull direction, with the adhesive joint in pure shear
+   - T peel normal to the pull direction, with the adhesive joint in peel
+c. The samples used must:
+   - Have skin thicknesses identical to those used in the actual monocoque
+   - Be manufactured using the same materials and processes The intent is to perform a test of the actual bond overlap, and fail the skin before the bond
+d. The force and displacement data and photos of the test setup must be included in the SES.
+e. The shear strength * normal area of the bond must be more than the UTS * cross sectional area of the skin
 
 ### F.4.3 Use of Laminates
 
@@ -276,7 +335,12 @@ This section applies to all Chassis, regardless of material or construction
 
 #### F.5.1.1 The Primary Structure must be constructed from one or a combination of: • Steel Tubing and Material  F.3.2   F.3.4 • Alternative Tubing Materials F.3.2 F.3.5 • Composite Material  F.4
 
-#### F.5.1.2 Any chassis design that combines the Tube Frame, Monocoque, tubing and/or composite types must: a. Meet all relevant requirements F.5.1.1 b. Show Equivalence F.2.3, as applicable c. Any connections must meet F.5.4, F.5.5, F.7.8 as applicable, or Equivalent
+#### F.5.1.2 Any chassis design that combines the Tube Frame, Monocoque, tubing and/or composite types must:
+
+
+a. Meet all relevant requirements [F.5.1.1](#f511-the-primary-structure-must-be-constructed-from-one-or-a-combination-of-steel-tubing-and-material-f32-f34-alternative-tubing-materials-f32-f35-composite-material-f4)
+b. Show Equivalence [F.2.3](#f23-equivalence), as applicable
+c. Any connections must meet [F.5.4](#f54-fasteners-in-primary-structure), [F.5.5](#f55-bonding-in-regulated-structure), [F.7.8](#f78-attachments) as applicable, or Equivalent
 
 ### F.5.2 Bent Tubes or Multiple Tubes
 
@@ -284,7 +348,14 @@ This section applies to all Chassis, regardless of material or construction
 
 #### F.5.2.2 Bends must be smooth and continuous with no evidence of crimping or wall failure.
 
-#### F.5.2.3 If a bent tube (or member consisting of multiple tubes that are not in a line) is used anywhere in the Primary Structure other than the Roll Hoops (see F.5.6.3 for Roll Hoop requirements), an additional tube must be attached to support it. a. The support tube attachment point must be at the position along the bent tube where it deviates farthest from a straight line connecting the two ends b. The support tube must terminate at a node of the chassis c. The support tube for any bent tube (other than the Upper Side Impact Member or Shoulder Harness Mounting Bar) must be: • The same diameter and thickness as the bent tube • Angled no more than 30° from the plane of the bent tube
+#### F.5.2.3 If a bent tube (or member consisting of multiple tubes that are not in a line) is used anywhere in the Primary Structure other than the Roll Hoops (see F.5.6.3 for Roll Hoop requirements), an additional tube must be attached to support it.
+
+
+a. The support tube attachment point must be at the position along the bent tube where it deviates farthest from a straight line connecting the two ends
+b. The support tube must terminate at a node of the chassis
+c. The support tube for any bent tube (other than the Upper Side Impact Member or Shoulder Harness Mounting Bar) must be:
+   - The same diameter and thickness as the bent tube
+   - Angled no more than 30° from the plane of the bent tube
 
 #### F.5.2.4 If multiple tubes are used in place of a bend, the ends should be mitered together for a continuous load path.  No open tube ends are allowed in regulated load paths.
 
@@ -319,9 +390,18 @@ This section applies to all Chassis, regardless of material or construction
 
 #### F.5.6.2 The Main Hoop and Front Hoop must be Triangulated into the Primary Structure with Structural Tubing
 
-#### F.5.6.3 Any front or side view Roll Hoop bend below the respective Roll Hoop Braces must be one of the two: a. Triangulated at a side view node b. Less than 25 mm from an Attachment point  F.7.8
+#### F.5.6.3 Any front or side view Roll Hoop bend below the respective Roll Hoop Braces must be one of the two:
 
-#### F.5.6.4 Roll Hoop and Driver Position When seated normally and restrained by the Driver Restraint System, the helmet of a 95th percentile male (see V.2.1.1) and all of the team’s drivers must: a. Be a minimum of 50 mm from the straight line drawn from the top of the Main Hoop to the top of the Front Hoop. b. Be a minimum of 50 mm from the straight line drawn from the top of the Main Hoop to the lower end of the Main Hoop Bracing if the bracing extends rearwards. c. Be no further rearwards than the rear surface of the Main Hoop if the Main Hoop Bracing extends forwards.
+
+a. Triangulated at a side view node
+b. Less than 25 mm from an Attachment point  [F.7.8](#f78-attachments)
+
+#### F.5.6.4 Roll Hoop and Driver Position When seated normally and restrained by the Driver Restraint System, the helmet of a 95th percentile male (see V.2.1.1) and all of the team’s drivers must:
+
+
+a. Be a minimum of 50 mm from the straight line drawn from the top of the Main Hoop to the top of the Front Hoop.
+b. Be a minimum of 50 mm from the straight line drawn from the top of the Main Hoop to the lower end of the Main Hoop Bracing if the bracing extends rearwards.
+c. Be no further rearwards than the rear surface of the Main Hoop if the Main Hoop Bracing extends forwards.
 
 
 
@@ -329,11 +409,21 @@ This section applies to all Chassis, regardless of material or construction
 
 #### F.5.6.5 Driver Template
 
-A two dimensional template used to represent the 95th percentile male is made to these dimensions (see figure below): • A circle of diameter 200 mm will represent the hips and buttocks. • A circle of diameter 200 mm will represent the shoulder/cervical region. • A circle of diameter 300 mm will represent the head (with helmet). • A straight line measuring 490 mm will connect the centers of the two 200 mm circles. • A straight line measuring 280 mm will connect the centers of the upper 200 mm circle and the 300 mm head circle.
+A two dimensional template used to represent the 95th percentile male is made to these dimensions (see figure below):
+- A circle of diameter 200 mm will represent the hips and buttocks.
+- A circle of diameter 200 mm will represent the shoulder/cervical region.
+- A circle of diameter 300 mm will represent the head (with helmet).
+- A straight line measuring 490 mm will connect the centers of the two 200 mm circles.
+- A straight line measuring 280 mm will connect the centers of the upper 200 mm circle and the 300 mm head circle.
 
 #### F.5.6.6 Driver Template Position
 
-The Driver Template will be positioned as follows: • The seat will be adjusted to the rearmost position • The pedals will be put in the most forward position • The bottom 200 mm circle will be put on the seat bottom where the distance between the center of this circle and the rearmost face of the pedals is no less than 915 mm • The middle 200 mm circle, representing the shoulders, will be positioned on the seat back • The upper 300 mm circle will be positioned no more than 25 mm away from the head restraint (where the driver’s helmet would normally be located while driving)
+The Driver Template will be positioned as follows:
+- The seat will be adjusted to the rearmost position
+- The pedals will be put in the most forward position
+- The bottom 200 mm circle will be put on the seat bottom where the distance between the center of this circle and the rearmost face of the pedals is no less than 915 mm
+- The middle 200 mm circle, representing the shoulders, will be positioned on the seat back
+- The upper 300 mm circle will be positioned no more than 25 mm away from the head restraint (where the driver’s helmet would normally be located while driving)
 
 
 ### F.5.7 Front Hoop
@@ -366,7 +456,13 @@ straight ahead position.
 
 #### F.5.8.2 The Main Hoop must extend from the lowest Frame Member / bottom of Monocoque on one side of the Frame, up, over and down to the lowest Frame Member / bottom of Monocoque on the other side of the Frame
 
-#### F.5.8.3 In the side view of the vehicle, a. The part of the Main Hoop that lies above its attachment point to the upper Side Impact Tube must be less than 10° from vertical b. The part of the Main Hoop below the Upper Side Impact Member attachment: • May be forward at any angle • Must not be rearward more than 10° from vertical
+#### F.5.8.3 In the side view of the vehicle,
+
+
+a. The part of the Main Hoop that lies above its attachment point to the upper Side Impact Tube must be less than 10° from vertical
+b. The part of the Main Hoop below the Upper Side Impact Member attachment:
+   - May be forward at any angle
+   - Must not be rearward more than 10° from vertical
 
 #### F.5.8.4 In the front view of the vehicle, the vertical members of the Main Hoop must be minimum 380 mm apart (inside dimension) at the location where the Main Hoop is attached to the bottom tubes of the Major Structure of the Chassis
 
@@ -386,16 +482,24 @@ straight ahead position.
 
 
 
-#### F.5.9.7 The Main Hoop Braces must be: a. Securely integrated into the Frame b. Capable of transmitting all loads from the Main Hoop into the Major Structure of the Chassis without failing
+#### F.5.9.7 The Main Hoop Braces must be:
+
+
+a. Securely integrated into the Frame
+b. Capable of transmitting all loads from the Main Hoop into the Major Structure of the Chassis without failing
 
 ### F.5.10 Head Restraint Protection
 
-An additional frame member may be added to meet [T.2.8.3](t-technical-aspects.md#t283-all-material-and-structure-of-the-head-restraint-must-be-inside-one-or-the-two-of-a-rollover-protection-envelope-f113-b-head-restraint-protection-if-used-f510).b
-#### F.5.10.1 If used, the Head Restraint Protection frame member must: a. Attach to the nodes where the Main Hoop Braces F.5.9.2 connect to the Main Hoop b. Be constructed of a single piece of uncut, continuous, closed section steel tubing meeting
+An additional frame member may be added to meet [T.2.8.3](t-technical-aspects.md#t283-all-material-and-structure-of-the-head-restraint-must-be-inside-one-or-the-two-of).b
+#### F.5.10.1 If used, the Head Restraint Protection frame member must:
+
+
+a. Attach to the nodes where the Main Hoop Braces [F.5.9.2](#f592-the-main-hoop-must-be-supported-by-two-braces-extending-in-the-forward-or-rearward-direction-one-on-each-of-the-left-and-right-sides-of-the-main-hoop) connect to the Main Hoop
+b. Be constructed of a single piece of uncut, continuous, closed section steel tubing meeting
 
 #### F.3.2.1 .h
 
-c. Meet [F.5.2.1](#f521-the-minimum-radius-of-any-bend-measured-at-the-tube-centerline-must-be-three-or-more-times-the-tube-outside-diameter-3-x-od) and [F.5.2.2](#f522-bends-must-be-smooth-and-continuous-with-no-evidence-of-crimping-or-wall-failure), as applicable (does not need to meet [F.5.2.3](#f523-if-a-bent-tube-or-member-consisting-of-multiple-tubes-that-are-not-in-a-line-is-used-anywhere-in-the-primary-structure-other-than-the-roll-hoops-see-f563-for-roll-hoop-requirements-an-additional-tube-must-be-attached-to-support-it-a-the-support-tube-attachment-point-must-be-at-the-position-along-the-bent-tube-where-it-deviates-farthest-from-a-straight-line-connecting-the-two-ends-b-the-support-tube-must-terminate-at-a-node-of-the-chassis-c-the-support-tube-for-any-bent-tube-other-than-the-upper-side-impact-member-or-shoulder-harness-mounting-bar-must-be-the-same-diameter-and-thickness-as-the-bent-tube-angled-no-more-than-30-from-the-plane-of-the-bent-tube))
+c. Meet [F.5.2.1](#f521-the-minimum-radius-of-any-bend-measured-at-the-tube-centerline-must-be-three-or-more-times-the-tube-outside-diameter-3-x-od) and [F.5.2.2](#f522-bends-must-be-smooth-and-continuous-with-no-evidence-of-crimping-or-wall-failure), as applicable (does not need to meet [F.5.2.3](#f523-if-a-bent-tube-or-member-consisting-of-multiple-tubes-that-are-not-in-a-line-is-used-anywhere-in-the-primary-structure-other-than-the-roll-hoops-see-f563-for-roll-hoop-requirements-an-additional-tube-must-be-attached-to-support-it))
 
 #### F.5.10.2 The Head Restraint or mounting T.2.8 must not attach to the Head Restraint Protection
 
@@ -406,9 +510,17 @@ c. Meet [F.5.2.1](#f521-the-minimum-radius-of-any-bend-measured-at-the-tube-cent
 ### F.1.11 defined by the Main Hoop Braces and the parts of the Main Hoop tubes above other
 
 tube nodes or composite attachments
-#### F.5.11.2 External Items may be mounted on the outside of the Main Hoop or Main Hoop Brace tubes if the mount is one of the two: a. With tabs located at the Main Hoop to Main Hoop Brace node and is rotationally free about an axis b. Above additional bracing meeting F.3.2.1.o, with calculations that show the mount will fail below the permitted load as calculated by the SES
+#### F.5.11.2 External Items may be mounted on the outside of the Main Hoop or Main Hoop Brace tubes if the mount is one of the two:
 
-#### F.5.11.3 If mounted between the tubes of the Main Hoop and Main Hoop Braces, these items may attach to the Main Hoop or Main Hoop Brace tubes and do not need to meet F.5.11.2 above: a. Crushable lightweight bodywork, intake manifolds, Head Restraint, Manual Service Disconnect, Master Switches or Shutdown Buttons b. Lightweight mounts for items inside the Main Hoop Braces
+
+a. With tabs located at the Main Hoop to Main Hoop Brace node and is rotationally free about an axis
+b. Above additional bracing meeting [F.3.2.1](#f321-h).o, with calculations that show the mount will fail below the permitted load as calculated by the SES
+
+#### F.5.11.3 If mounted between the tubes of the Main Hoop and Main Hoop Braces, these items may attach to the Main Hoop or Main Hoop Brace tubes and do not need to meet F.5.11.2 above:
+
+
+a. Crushable lightweight bodywork, intake manifolds, Head Restraint, Manual Service Disconnect, Master Switches or Shutdown Buttons
+b. Lightweight mounts for items inside the Main Hoop Braces
 
 #### F.5.11.4 Mounts for engine, motor, suspension or Tractive Battery Pack must not attach to the span of the Main Hoop Braces or Main Hoop above other tube nodes or composite attachments
 
@@ -419,7 +531,10 @@ tube nodes or composite attachments
 
 ### F.5.12 Mechanically Attached Roll Hoop Bracing
 
-#### F.5.12.1 When Roll Hoop Bracing is mechanically attached: a. The threaded fasteners used to secure non permanent joints are Critical Fasteners, see
+#### F.5.12.1 When Roll Hoop Bracing is mechanically attached:
+
+
+a. The threaded fasteners used to secure non permanent joints are Critical Fasteners, see
 
 ### T.8.2 .  Additional requirements apply in F.5.12.5 and F.5.12.7
 
@@ -429,14 +544,23 @@ be a close fit with the pin or bolt
 #### F.5.12.2 Any non permanent joint at the end(s) must be a Double Lug Joint or a Sleeved Butt Joint Figure – Double Lug Joint
 
 
-#### F.5.12.3 For Double Lug Joints, each lug must: a. Be minimum 4.5 mm (0.177 in) thickness steel b. Measure 25 mm minimum perpendicular to the axis of the bracing c. Be as short as practical along the axis of the bracing.
+#### F.5.12.3 For Double Lug Joints, each lug must:
+
+
+a. Be minimum 4.5 mm (0.177 in) thickness steel
+b. Measure 25 mm minimum perpendicular to the axis of the bracing
+c. Be as short as practical along the axis of the bracing.
 
 #### F.5.12.4 All Double Lug Joints, whether fitted parallel or perpendicular to the axis of the tube, must include a capping arrangement
 
 #### F.5.12.5 In a Double Lug Joint the pin or bolt must be 10 mm Metric Grade 9.8 or 3/8 in SAE Grade 8 minimum diameter and grade.  See F.5.12.1 above Figure – Sleeved Butt Joint
 
 
-#### F.5.12.6 For Sleeved Butt Joints, the sleeve must: a. Have a minimum length of 75 mm; 37.5 mm to each side of the joint b. Be external to the base tubes, with a close fit around the base tubes.
+#### F.5.12.6 For Sleeved Butt Joints, the sleeve must:
+
+
+a. Have a minimum length of 75 mm; 37.5 mm to each side of the joint
+b. Be external to the base tubes, with a close fit around the base tubes.
 
 
 c. Have a wall thickness of 2.0 mm or more
@@ -502,7 +626,11 @@ d. The diagonal brace must properly Triangulate the upper and lower support memb
 
 #### F.6.3.2 The Front Hoop must be supported by two Braces extending in the forward direction, one on each of the left and right sides of the Front Hoop.
 
-#### F.6.3.3 The Front Hoop Braces must extend to one of the two: a. The Front Bulkhead b. A triangulated structural node
+#### F.6.3.3 The Front Hoop Braces must extend to one of the two:
+
+
+a. The Front Bulkhead
+b. A triangulated structural node
 
 #### F.6.3.4 The Front Hoop Braces must be attached as near as possible to the top of the Front Hoop but not more than 50 mm below the top-most surface of the Front Hoop.  See figure after F.5.9.6 above
 
@@ -520,17 +648,35 @@ d. The diagonal brace must properly Triangulate the upper and lower support memb
 
 
 
-#### F.6.4.4 The Upper Side Impact Member must: a. Connect the Main Hoop and the Front Hoop. b. Have its top edge entirely in a zone that is parallel to the ground between 290 mm and 345 mm above the lowest point of the bottom of the Lower Side Impact Member
+#### F.6.4.4 The Upper Side Impact Member must:
+
+
+a. Connect the Main Hoop and the Front Hoop.
+b. Have its top edge entirely in a zone that is parallel to the ground between 290 mm and 345 mm above the lowest point of the bottom of the Lower Side Impact Member
 
 #### F.6.4.5 The Lower Side Impact Structure member must connect the bottom of the Main Hoop and the bottom of the Front Hoop.
 
-#### F.6.4.6 The Diagonal Side Impact Member must: a. Connect the Upper Side Impact Member and Lower Side Impact Member forward of the Main Hoop and rearward of the Front Hoop b. Completely Triangulate the bays created by the Upper and Lower Side Impact Members.
+#### F.6.4.6 The Diagonal Side Impact Member must:
+
+
+a. Connect the Upper Side Impact Member and Lower Side Impact Member forward of the Main Hoop and rearward of the Front Hoop
+b. Completely Triangulate the bays created by the Upper and Lower Side Impact Members.
 
 ### F.6.5 Shoulder Harness Mounting
 
-#### F.6.5.1 The Shoulder Harness Mounting Bar must: a. Be a single piece of uncut, continuous, closed section steel tubing that meets F.3.2.1.k b. Attach to the Main Hoop on the left and right sides of the chassis
+#### F.6.5.1 The Shoulder Harness Mounting Bar must:
 
-#### F.6.5.2 Bent Shoulder Harness Mounting Bars must: a. Meet F.5.2.1 and F.5.2.2 b. Have bracing members attached at the bend(s) and to the Main Hoop. • Material for this Shoulder Harness Mounting Bar Bracing must meet F.3.2.1.l • The included angle in side view between the Shoulder Harness Bar and the braces must be no less than 30°.
+
+a. Be a single piece of uncut, continuous, closed section steel tubing that meets [F.3.2.1](#f321-h).k
+b. Attach to the Main Hoop on the left and right sides of the chassis
+
+#### F.6.5.2 Bent Shoulder Harness Mounting Bars must:
+
+
+a. Meet [F.5.2.1](#f521-the-minimum-radius-of-any-bend-measured-at-the-tube-centerline-must-be-three-or-more-times-the-tube-outside-diameter-3-x-od) and [F.5.2.2](#f522-bends-must-be-smooth-and-continuous-with-no-evidence-of-crimping-or-wall-failure)
+b. Have bracing members attached at the bend(s) and to the Main Hoop.
+   - Material for this Shoulder Harness Mounting Bar Bracing must meet [F.3.2.1](#f321-h).l
+   - The included angle in side view between the Shoulder Harness Bar and the braces must be no less than 30°.
 
 #### F.6.5.3 The Shoulder Harness Mounting Bar must be loaded only by the Shoulder Harness The Head Restraint, Firewall, driver’s seat and light bodywork may attach to the mounting bar
 
@@ -570,7 +716,11 @@ d. Examples of acceptable configurations of members may be found in the SES
 
 #### F.7.1.4 An inspection hole approximately 4mm in diameter must be drilled through a low stress location of each monocoque section regulated by the Structural Equivalency Spreadsheet This inspection hole is not required in the Vertical Side Impact Structure  F.7.5.3.b
 
-#### F.7.1.5 Composite monocoques must: a. Meet the materials requirements in F.4 Composite and Other Materials b. Use data from the laminate testing results as the basis for any strength or stiffness calculations
+#### F.7.1.5 Composite monocoques must:
+
+
+a. Meet the materials requirements in [F.4](#f4-composite-and-other-materials) Composite and Other Materials
+b. Use data from the laminate testing results as the basis for any strength or stiffness calculations
 
 #### F.7.1.6 Composite monocoques made in two or more pieces must use scarf joints with structural adhesive for the length of the seam
 
@@ -595,11 +745,20 @@ d. Examples of acceptable configurations of members may be found in the SES
 
 ### F.7.4 Front Hoop Attachment
 
-#### F.7.4.1 The Front Hoop must be mechanically attached to the monocoque a. Front Hoop Mounting Plates must be the minimum thickness of the Front Hoop F.3.2.1.c b. The Front Hoop tube must be mechanically connected to the Mounting Plate with Mounting Plates parallel to the two sides of the tube, with gussets from the Front Hoop tube along the two sides of the mounting plate
+#### F.7.4.1 The Front Hoop must be mechanically attached to the monocoque
+
+
+a. Front Hoop Mounting Plates must be the minimum thickness of the Front Hoop [F.3.2.1](#f321-h).c
+b. The Front Hoop tube must be mechanically connected to the Mounting Plate with Mounting Plates parallel to the two sides of the tube, with gussets from the Front Hoop tube along the two sides of the mounting plate
 
 #### F.7.4.2 Front Hoop attachment to a monocoque must obey F.5.7.2 or F.7.8 within 25 mm of any bends and nodes that are not at the top center of the Front Hoop
 
-#### F.7.4.3 The Front Hoop may be fully laminated into the monocoque if: a. The Front Hoop has core fit tightly around its entire circumference.  Expanding foam is not permitted b. Equivalence to six or more mounts compliant with F.7.8 must show in the SES c. A small gap in the laminate (approximately 25 mm) exists for inspection of the Front Hoop  F.5.7.7
+#### F.7.4.3 The Front Hoop may be fully laminated into the monocoque if:
+
+
+a. The Front Hoop has core fit tightly around its entire circumference.  Expanding foam is not permitted
+b. Equivalence to six or more mounts compliant with [F.7.8](#f78-attachments) must show in the SES
+c. A small gap in the laminate (approximately 25 mm) exists for inspection of the Front Hoop  [F.5.7.7](#f577-a-front-hoop-that-is-not-steel-must-have-a-4-mm-hole-drilled-in-a-location-to-access-during-technical-inspection)
 
 #### F.7.4.4 Adhesive must not be the sole method of attaching the Front Hoop to the monocoque
 
@@ -610,7 +769,11 @@ d. Examples of acceptable configurations of members may be found in the SES
 
 #### F.7.5.2 The Side Impact Zone must have Equivalence to the three (3) Steel Tubes (F.3.2.1.e) that it replaces
 
-#### F.7.5.3 The portion of the Side Impact Zone that is vertically between the bottom surface of the floor and 345 mm above the lowest point of the bottom surface of the floor (see figure above) must have: a. Equivalence to minimum two (2) Steel Tubes (F.3.2.1.e) per F.4.3 b. No openings in Side View between the Front Hoop and Main Hoop
+#### F.7.5.3 The portion of the Side Impact Zone that is vertically between the bottom surface of the floor and 345 mm above the lowest point of the bottom surface of the floor (see figure above) must have:
+
+
+a. Equivalence to minimum two (2) Steel Tubes ([F.3.2.1](#f321-h).e) per [F.4.3](#f43-use-of-laminates)
+b. No openings in Side View between the Front Hoop and Main Hoop
 
 #### F.7.5.4 Horizontal floor Equivalence must be calculated per F.4.3
 
@@ -633,7 +796,11 @@ d. Examples of acceptable configurations of members may be found in the SES
 
 ### F.7.6 Main Hoop Attachment
 
-#### F.7.6.1 The Main Hoop must be mechanically attached to the monocoque a. Main Hoop mounting plates must be 2.0 mm minimum thickness steel b. The Main Hoop tube must be mechanically connected to the mounting plate with 2.0 mm minimum thickness steel plates parallel to the two sides of the tube, with gussets from the Main Hoop tube along the two sides of the mounting plate
+#### F.7.6.1 The Main Hoop must be mechanically attached to the monocoque
+
+
+a. Main Hoop mounting plates must be 2.0 mm minimum thickness steel
+b. The Main Hoop tube must be mechanically connected to the mounting plate with 2.0 mm minimum thickness steel plates parallel to the two sides of the tube, with gussets from the Main Hoop tube along the two sides of the mounting plate
 
 #### F.7.6.2 Main Hoop attachment to a monocoque must obey F.7.8 within 25 mm of any bends and nodes that are below the top of the monocoque
 
@@ -642,9 +809,19 @@ d. Examples of acceptable configurations of members may be found in the SES
 Attachment of tubular Front or Main Hoop Bracing to the monocoque must obey [F.7.8](#f78-attachments).
 ### F.7.8 Attachments
 
-#### F.7.8.1 Each attachment point between the monocoque or composite panels and the other Primary Structure must be able to carry a minimum load of 30 kN in any direction. a. When a Roll Hoop attaches in three locations on each side, the attachments must be located at the bottom, top, and a location near the midpoint b. When a Roll Hoop attaches at only the bottom and a point between the top and the midpoint on each side, each of the four attachments must show load strength of 45 kN in all directions
+#### F.7.8.1 Each attachment point between the monocoque or composite panels and the other Primary Structure must be able to carry a minimum load of 30 kN in any direction.
 
-#### F.7.8.2 If a tube frame ( F.6, F.11.2 ) meets the monocoque at the Attachments, the connection must a. Be 25 mm or less from a node b. Obey one of the two: • Parallel brackets attached to the two sides of the Main Hoop and the two sides of the Side Impact Structure • Two mostly perpendicular brackets attached to the Main Hoop and the side and back of the monocoque
+
+a. When a Roll Hoop attaches in three locations on each side, the attachments must be located at the bottom, top, and a location near the midpoint
+b. When a Roll Hoop attaches at only the bottom and a point between the top and the midpoint on each side, each of the four attachments must show load strength of 45 kN in all directions
+
+#### F.7.8.2 If a tube frame ( F.6, F.11.2 ) meets the monocoque at the Attachments, the connection must
+
+
+a. Be 25 mm or less from a node
+b. Obey one of the two:
+   - Parallel brackets attached to the two sides of the Main Hoop and the two sides of the Side Impact Structure
+   - Two mostly perpendicular brackets attached to the Main Hoop and the side and back of the monocoque
 
 #### F.7.8.3 The laminate, brackets, backing plates and inserts must have sufficient stiffness, shear area, bearing area, weld area and strength to carry the load specified in F.7.8.1 in any direction. Data obtained from the laminate perimeter shear strength test (F.4.2.5) must prove sufficient shear area is provided.
 
@@ -656,7 +833,11 @@ Attachment of tubular Front or Main Hoop Bracing to the monocoque must obey [F.7
 
 
 
-#### F.7.8.7 Each Roll Hoop or Battery Pack to Chassis attachment point must contain one of the two: a. A solid insert that is fully enclosed by the inner and outer skin b. Local elimination of any gap between inner and outer skin, with or without repeating skin layups
+#### F.7.8.7 Each Roll Hoop or Battery Pack to Chassis attachment point must contain one of the two:
+
+
+a. A solid insert that is fully enclosed by the inner and outer skin
+b. Local elimination of any gap between inner and outer skin, with or without repeating skin layups
 
 #### F.7.8.8 Load paths between attachments and the monocoque Side Impact Structure F.7.5 must use continuous laminates F.4.3 with core
 
@@ -664,11 +845,19 @@ Attachment of tubular Front or Main Hoop Bracing to the monocoque must obey [F.7
 
 #### F.7.9.1 Required Loads
 
-a. Each attachment point for the Shoulder Belts must support a minimum load of 15 kN before failure with a required load of 30 kN distributed across the two belt attachments b. Each attachment point for the Lap Belts must support a minimum load of 15 kN before failure. c. Each attachment point for the Anti-Submarine Belts must support a minimum load of 15 kN before failure. d. If the Lap Belt and Anti-Submarine Belt mounting points are less than 125 mm apart, or are attached to the same attachment point, then each mounting point must support a minimum load of 30 kN before failure.
+a. Each attachment point for the Shoulder Belts must support a minimum load of 15 kN before failure with a required load of 30 kN distributed across the two belt attachments
+b. Each attachment point for the Lap Belts must support a minimum load of 15 kN before failure.
+c. Each attachment point for the Anti-Submarine Belts must support a minimum load of 15 kN before failure.
+d. If the Lap Belt and Anti-Submarine Belt mounting points are less than 125 mm apart, or are attached to the same attachment point, then each mounting point must support a minimum load of 30 kN before failure.
 
 #### F.7.9.2 Load Testing
 
-The strength of Lap Belt, Shoulder Belt, and Anti-Submarine Belt attachments must be proven by physical tests where the required load is applied to a representative attachment point where the proposed layup and attachment bracket are used. a. Edges of the test fixture supporting the sample must be a minimum of 125 mm from the load application point (load vector intersecting a plane) b. Test Load application of the Lap Belt and Anti Submarine Belts must be normal (90 degrees) to the plane of the test sample c. Shoulder Belt Test Load application must meet: Installed Shoulder Belt Angle: Test Load Application Angle must be: should be: Between 90° and 45° Between 90° and the installed Shoulder Belt Angle 90° Between 45° and 0° Between 90° and 45° 90° The angles are measured from the plane of the Test Sample (90° is normal to the Test Sample and 0° is parallel to the Test Sample) d. The Shoulder Harness test sample must not be any larger than the section of the monocoque as built
+The strength of Lap Belt, Shoulder Belt, and Anti-Submarine Belt attachments must be proven by physical tests where the required load is applied to a representative attachment point where the proposed layup and attachment bracket are used.
+
+a. Edges of the test fixture supporting the sample must be a minimum of 125 mm from the load application point (load vector intersecting a plane)
+b. Test Load application of the Lap Belt and Anti Submarine Belts must be normal (90 degrees) to the plane of the test sample
+c. Shoulder Belt Test Load application must meet: Installed Shoulder Belt Angle: Test Load Application Angle must be: should be: Between 90° and 45° Between 90° and the installed Shoulder Belt Angle 90° Between 45° and 0° Between 90° and 45° 90° The angles are measured from the plane of the Test Sample (90° is normal to the Test Sample and 0° is parallel to the Test Sample)
+d. The Shoulder Harness test sample must not be any larger than the section of the monocoque as built
 
 
 
@@ -693,9 +882,23 @@ configuration to what is built in the vehicle as possible
 
 #### F.8.2.1 The Anti Intrusion Plate must be one of the three: a. 1.5 mm minimum thickness solid steel b. 4.0 mm minimum thickness solid aluminum plate c. Composite material per F.8.3
 
-#### F.8.2.2 The outside profile requirement of the Anti Intrusion Plate depends on the method of attachment to the Front Bulkhead: a. Welded joints: the profile must align with or be more than the centerline of the Front Bulkhead tubes on all sides b. Bolted joints, bonding, laminating: the profile must align with or be more than the outside dimensions of the Front Bulkhead around the entire periphery
+#### F.8.2.2 The outside profile requirement of the Anti Intrusion Plate depends on the method of attachment to the Front Bulkhead:
 
-#### F.8.2.3 Attachment of the Anti Intrusion Plate directly to the Front Bulkhead must be documented in the team’s SES submission. The accepted methods of attachment are: a. Welding • All weld lengths must be 25 mm or longer • If interrupted, the weld/space ratio must be 1:1 or higher b. Bolted joints • Using no less than eight 8 mm or 5/16” minimum diameter Critical Fasteners, T.8.2. • The distance between any two bolt centers must be 50 mm minimum. • Each bolt attachment must have pullout and bending capabilities of 15 kN • Bolt tearout capability must meet one of the two: - Each bolt attachment has tearout capability of 15 kN - The total tearout strength of the mounting (not individual bolts) must be more than the attachment strength of the Impact Attenuator in F.8.5.3.b
+
+a. Welded joints: the profile must align with or be more than the centerline of the Front Bulkhead tubes on all sides
+b. Bolted joints, bonding, laminating: the profile must align with or be more than the outside dimensions of the Front Bulkhead around the entire periphery
+
+#### F.8.2.3 Attachment of the Anti Intrusion Plate directly to the Front Bulkhead must be documented in the team’s SES submission. The accepted methods of attachment are:
+
+
+a. Welding
+   - All weld lengths must be 25 mm or longer
+   - If interrupted, the weld/space ratio must be 1:1 or higher
+b. Bolted joints
+   - Using no less than eight 8 mm or 5/16” minimum diameter Critical Fasteners, [T.8.2](t-technical-aspects.md#t82-critical-fastener-requirements).
+   - The distance between any two bolt centers must be 50 mm minimum.
+   - Each bolt attachment must have pullout and bending capabilities of 15 kN
+   - Bolt tearout capability must meet one of the two: - Each bolt attachment has tearout capability of 15 kN - The total tearout strength of the mounting (not individual bolts) must be more than the attachment strength of the Impact Attenuator in [F.8.5.3](#f853-if-the-impact-attenuator-is-attached-by-bonding).b
 
 
 c. Bonding
@@ -710,17 +913,35 @@ higher than 120 kN
 
 #### F.8.3.1 Composite Anti Intrusion Plates:
 
-a. Must not fail in a frontal impact b. Must withstand a minimum static load of 120 kN distributed over the 200 mm x 100 mm minimum Impact Attenuator area
+a. Must not fail in a frontal impact
+b. Must withstand a minimum static load of 120 kN distributed over the 200 mm x 100 mm minimum Impact Attenuator area
 
-#### F.8.3.2 Strength of the Composite Anti Intrusion Plate must be verified by one of the two methods: a. Physical testing of the AIP attached to a structurally representative section of the intended chassis • The test fixture must have equivalent strength and stiffness to a baseline front bulkhead or must be the same as the first 50 mm of the Chassis • Test data is valid for only one Competition Year b. Laminate material testing under F.4.2.2 and F.4.2.5 and calculations of 3 point bending and perimeter shear
+#### F.8.3.2 Strength of the Composite Anti Intrusion Plate must be verified by one of the two methods:
+
+
+a. Physical testing of the AIP attached to a structurally representative section of the intended chassis
+   - The test fixture must have equivalent strength and stiffness to a baseline front bulkhead or must be the same as the first 50 mm of the Chassis
+   - Test data is valid for only one Competition Year
+b. Laminate material testing under [F.4.2.2](#f422-primary-structure-laminate-testing-teams-must-build-new-representative-test-panels-for-each-ply-schedule-used-in-the-regulated-regions-of-the-new-chassis-as-a-flat-panel-and-do-a-3-point-bending-test-on-these-panels-refer-to-f424) and [F.4.2.5](#f425-perimeter-shear-test) and calculations of 3 point bending and perimeter shear
 
 ### F.8.4 Impact Attenuator - IA
 
 #### F.8.4.1 Teams must do one of: • Use an approved Standard Impact Attenuator from the Event Website • Build and test a Custom Impact Attenuator of their own design F.8.8
 
-#### F.8.4.2 The Custom Impact Attenuator must meet these: a. Length 200 mm or more, with its length oriented along the fore/aft axis of the Chassis. b. Minimum height 100 mm (perpendicular to the ground) and minimum width 200 mm (parallel to the ground) for a minimum distance of 200 mm forward of the Front Bulkhead. c. Segmented foam attenuators must have all segments bonded together to prevent sliding or parallelogramming. d. Honeycomb attenuators made of multiple segments must have a continuous panel between each segment.
+#### F.8.4.2 The Custom Impact Attenuator must meet these:
 
-#### F.8.4.3 If the outside profile of the Front Bulkhead is more than 400 mm x 350 mm, or the team uses the Standard Honeycomb Impact Attenuator, and then one of the two must be met: a. The Front Bulkhead must include an additional support that is a diagonal or X-brace that meets F.3.2.1.b or Equivalent (integral or attached) for Monocoque bulkheads  F.2.3.1 • The structure must go across the entire Front Bulkhead opening on the diagonal • Attachment points at each end must carry a minimum load of 30 kN in any direction
+
+a. Length 200 mm or more, with its length oriented along the fore/aft axis of the Chassis.
+b. Minimum height 100 mm (perpendicular to the ground) and minimum width 200 mm (parallel to the ground) for a minimum distance of 200 mm forward of the Front Bulkhead.
+c. Segmented foam attenuators must have all segments bonded together to prevent sliding or parallelogramming.
+d. Honeycomb attenuators made of multiple segments must have a continuous panel between each segment.
+
+#### F.8.4.3 If the outside profile of the Front Bulkhead is more than 400 mm x 350 mm, or the team uses the Standard Honeycomb Impact Attenuator, and then one of the two must be met:
+
+
+a. The Front Bulkhead must include an additional support that is a diagonal or X-brace that meets [F.3.2.1](#f321-h).b or Equivalent (integral or attached) for Monocoque bulkheads  [F.2.3.1](#f231-equivalency-in-the-structural-context-is-determined-and-documented-with-the-methods-in-the-ses)
+   - The structure must go across the entire Front Bulkhead opening on the diagonal
+   - Attachment points at each end must carry a minimum load of 30 kN in any direction
 
 
 b. Physical testing per [F.8.8.6](#f886-impact-attenuator-test-setup) and [F.8.8.7](#f887-test-conduct) must be done to prove that the Anti Intrusion
@@ -729,31 +950,68 @@ Plate does not permanently deflect more than 25 mm.
 
 #### F.8.5.1 The attachment of the Impact Attenuator to the Anti Intrusion Plate or Front Bulkhead must be documented in the SES submission
 
-#### F.8.5.2 The Impact Attenuator must attach with an approved method: Impact Attenuator Type Construction Attachment Method(s): a. Standard or Custom Foam, Honeycomb Bonding b. Custom other Bonding, Welding, Bolting
+#### F.8.5.2 The Impact Attenuator must attach with an approved method: Impact Attenuator Type Construction Attachment Method(s):
 
 
-#### F.8.5.3 If the Impact Attenuator is attached by bonding: a. Bonding must meet F.5.5 b. The shear strength of the bond must be higher than: • 95 kN for foam Impact Attenuators • 38.5 kN for honeycomb Impact Attenuators • The maximum compressive force for custom Impact Attenuators c. The entire surface of a foam Impact Attenuator must be bonded d. Only the pre-crushed area of a honeycomb Impact Attenuator may be used for bond equivalence
+a. Standard or Custom Foam, Honeycomb Bonding
+b. Custom other Bonding, Welding, Bolting
 
-#### F.8.5.4 If the Impact Attenuator is attached by welding: a. Welds may be continuous or interrupted b. If interrupted, the weld/space ratio must be 1:1 or higher c. All weld lengths must be more than 25 mm
 
-#### F.8.5.5 If the Impact Attenuator is attached by bolting: a. Must have no less than eight 8 mm or 5/16” minimum diameter Critical Fasteners, T.8.2 b. The distance between any two bolt centers must be 50 mm minimum c. Each bolt attachment must have pullout, tearout and bending capabilities of 15 kN d. Must be bolted directly to the Primary Structure
+#### F.8.5.3 If the Impact Attenuator is attached by bonding:
+
+
+a. Bonding must meet [F.5.5](#f55-bonding-in-regulated-structure)
+b. The shear strength of the bond must be higher than:
+   - 95 kN for foam Impact Attenuators
+   - 38.5 kN for honeycomb Impact Attenuators
+   - The maximum compressive force for custom Impact Attenuators
+c. The entire surface of a foam Impact Attenuator must be bonded
+d. Only the pre-crushed area of a honeycomb Impact Attenuator may be used for bond equivalence
+
+#### F.8.5.4 If the Impact Attenuator is attached by welding:
+
+
+a. Welds may be continuous or interrupted
+b. If interrupted, the weld/space ratio must be 1:1 or higher
+c. All weld lengths must be more than 25 mm
+
+#### F.8.5.5 If the Impact Attenuator is attached by bolting:
+
+
+a. Must have no less than eight 8 mm or 5/16” minimum diameter Critical Fasteners, [T.8.2](t-technical-aspects.md#t82-critical-fastener-requirements)
+b. The distance between any two bolt centers must be 50 mm minimum
+c. Each bolt attachment must have pullout, tearout and bending capabilities of 15 kN
+d. Must be bolted directly to the Primary Structure
 
 #### F.8.5.6 Impact Attenuator Position
 
-a. All Impact Attenuators must mount with the bottom leading edge 175 mm or less above the lowest point on the bottom of the Lower Side Impact Structure b. A Custom Impact Attenuator must mount with an area of 200 mm or more long and 200 mm or more wide that intersects a plane parallel to the ground that is 175 mm or less above the lowest point on the bottom of the Lower Side Impact Structure
+a. All Impact Attenuators must mount with the bottom leading edge 175 mm or less above the lowest point on the bottom of the Lower Side Impact Structure
+b. A Custom Impact Attenuator must mount with an area of 200 mm or more long and 200 mm or more wide that intersects a plane parallel to the ground that is 175 mm or less above the lowest point on the bottom of the Lower Side Impact Structure
 
 #### F.8.5.7 Impact Attenuator Orientation
 
-a. The Impact Attenuator must be centered laterally on the Front Bulkhead b. Standard Honeycomb must be mounted 200mm width x 100mm height c. Standard Foam may be mounted laterally or vertically
+a. The Impact Attenuator must be centered laterally on the Front Bulkhead
+b. Standard Honeycomb must be mounted 200mm width x 100mm height
+c. Standard Foam may be mounted laterally or vertically
 
 
 ### F.8.6 Front Impact Objects
 
 #### F.8.6.1 The only items permitted forward of the Anti Intrusion Plate in front view are the Impact Attenuator, fastener heads, and light bodywork / nosecones Fasteners should be oriented with the nuts rearwards
 
-#### F.8.6.2 Front Wing and Bodywork Attachment a. The front wing and front wing mounts must be able to move completely aft of the Anti Intrusion Plate and not touch the front bulkhead during a frontal impact b. The attachment points for the front wing and bodywork mounts should be aft of the Anti Intrusion Plate c. Tabs for wing and bodywork attachment must not extend more than 25 mm forward of the Anti Intrusion Plate
+#### F.8.6.2 Front Wing and Bodywork Attachment
 
-#### F.8.6.3 Pedal assembly at full travel and adjustment must have a minimum 25 mm clearance to the: a. Rear face of the Anti Intrusion Plate b. All Front Bulkhead structure F.6.1, F.7.2, F.8.4.3 c. All Non Crushable Items inside the Primary Structure Non Crushable Items include, but are not limited to batteries, master cylinders, hydraulic reservoirs
+
+a. The front wing and front wing mounts must be able to move completely aft of the Anti Intrusion Plate and not touch the front bulkhead during a frontal impact
+b. The attachment points for the front wing and bodywork mounts should be aft of the Anti Intrusion Plate
+c. Tabs for wing and bodywork attachment must not extend more than 25 mm forward of the Anti Intrusion Plate
+
+#### F.8.6.3 Pedal assembly at full travel and adjustment must have a minimum 25 mm clearance to the:
+
+
+a. Rear face of the Anti Intrusion Plate
+b. All Front Bulkhead structure [F.6.1](#f61-front-bulkhead), [F.7.2](#f72-front-bulkhead), [F.8.4.3](#f843-if-the-outside-profile-of-the-front-bulkhead-is-more-than-400-mm-x-350-mm-or-the-team-uses-the-standard-honeycomb-impact-attenuator-and-then-one-of-the-two-must-be-met)
+c. All Non Crushable Items inside the Primary Structure Non Crushable Items include, but are not limited to batteries, master cylinders, hydraulic reservoirs
 
 ### F.8.7 Front Impact Verification
 
@@ -765,11 +1023,16 @@ a. The Impact Attenuator must be centered laterally on the Front Bulkhead b. Sta
 
 #### F.8.7.3 Use the Test Method F.8.7.4 or the Calculation Method F.8.7.5 to prove the force requirement
 
-#### F.8.7.4 Test Method Get the peak force from physical testing of the Impact Attenuator and any Non Crushable Object(s) as one of the two: a. Tested together with the Impact Attenuator b. Tested with the Impact Attenuator not attached, and add the peak load from F.8.7.2
+#### F.8.7.4 Test Method Get the peak force from physical testing of the Impact Attenuator and any Non Crushable Object(s) as one of the two:
+
+
+a. Tested together with the Impact Attenuator
+b. Tested with the Impact Attenuator not attached, and add the peak load from [F.8.7.2](#f872-the-peak-load-for-the-type-of-impact-attenuator-standard-foam-impact-attenuator-95-kn-standard-honeycomb-impact-attenuator-60-kn-tested-impact-attenuator-peak-as-measured)
 
 #### F.8.7.5 Calculation Method
 
-a. Calculate a failure load for the mounting of the Non Crushable Object(s) from fastener shear, tearout, and/or link buckling b. Add the peak attenuator load from [F.8.7.2](#f872-the-peak-load-for-the-type-of-impact-attenuator-standard-foam-impact-attenuator-95-kn-standard-honeycomb-impact-attenuator-60-kn-tested-impact-attenuator-peak-as-measured)
+a. Calculate a failure load for the mounting of the Non Crushable Object(s) from fastener shear, tearout, and/or link buckling
+b. Add the peak attenuator load from [F.8.7.2](#f872-the-peak-load-for-the-type-of-impact-attenuator-standard-foam-impact-attenuator-95-kn-standard-honeycomb-impact-attenuator-60-kn-tested-impact-attenuator-peak-as-measured)
 
 ### F.8.8 Impact Attenuator Data - IAD
 
@@ -778,17 +1041,37 @@ a. Calculate a failure load for the mounting of the Non Crushable Object(s) from
 
 #### F.8.8.2 Impact Attenuator Functional Requirements
 
-These are not test requirements a. Decelerates the vehicle at a rate not exceeding 20 g average and 40 g peak b. Energy absorbed must be more than 7350 J When: • Total mass of Vehicle is 300 kg • Impact velocity is 7.0 m/s
+These are not test requirements
 
-#### F.8.8.3 When using the Standard Impact Attenuator, the SES must meet these: a. Test data will not be submitted b. All other requirements of this section must be included. c. Photos of the actual attenuator must be included d. Evidence that the Standard IA meets the design criteria provided in the Standard Impact Attenuator specification must be included with the SES.  This may be a receipt or packing slip from the supplier.
+a. Decelerates the vehicle at a rate not exceeding 20 g average and 40 g peak
+b. Energy absorbed must be more than 7350 J When:
+   - Total mass of Vehicle is 300 kg
+   - Impact velocity is 7.0 m/s
 
-#### F.8.8.4 The Impact Attenuator Data Report when NOT using the Standard Impact Attenuator must include: a. Test data that proves that the Impact Attenuator Assembly meets the Functional Requirements  F.8.8.2 b. Calculations showing how the reported absorbed energy and decelerations have been derived. c. A schematic of the test method. d. Photos of the attenuator, annotated with the height of the attenuator before and after testing.
+#### F.8.8.3 When using the Standard Impact Attenuator, the SES must meet these:
+
+
+a. Test data will not be submitted
+b. All other requirements of this section must be included.
+c. Photos of the actual attenuator must be included
+d. Evidence that the Standard IA meets the design criteria provided in the Standard Impact Attenuator specification must be included with the SES.  This may be a receipt or packing slip from the supplier.
+
+#### F.8.8.4 The Impact Attenuator Data Report when NOT using the Standard Impact Attenuator must include:
+
+
+a. Test data that proves that the Impact Attenuator Assembly meets the Functional Requirements  [F.8.8.2](#f882-impact-attenuator-functional-requirements)
+b. Calculations showing how the reported absorbed energy and decelerations have been derived.
+c. A schematic of the test method.
+d. Photos of the attenuator, annotated with the height of the attenuator before and after testing.
 
 #### F.8.8.5 The Impact Attenuator Test is valid for only one Competition Year
 
 #### F.8.8.6 Impact Attenuator Test Setup
 
-a. During any test, the Impact Attenuator must be attached to the Anti Intrusion Plate using the intended vehicle attachment method. b. The Impact Attenuator Assembly must be attached to a structurally representative section of the intended chassis. The test fixture must have equivalent strength and stiffness to a baseline front bulkhead. A solid block of material in the shape of the front bulkhead is not “structurally representative”. c. There must be 50 mm minimum clearance rearwards of the Anti Intrusion Plate to the test fixture. d. No part of the Anti Intrusion Plate may permanently deflect more than 25 mm beyond the position of the Anti Intrusion Plate before the test. The 25 mm spacing represents the front bulkhead support and insures that the plate does not intrude excessively into the cockpit.
+a. During any test, the Impact Attenuator must be attached to the Anti Intrusion Plate using the intended vehicle attachment method.
+b. The Impact Attenuator Assembly must be attached to a structurally representative section of the intended chassis. The test fixture must have equivalent strength and stiffness to a baseline front bulkhead. A solid block of material in the shape of the front bulkhead is not “structurally representative”.
+c. There must be 50 mm minimum clearance rearwards of the Anti Intrusion Plate to the test fixture.
+d. No part of the Anti Intrusion Plate may permanently deflect more than 25 mm beyond the position of the Anti Intrusion Plate before the test. The 25 mm spacing represents the front bulkhead support and insures that the plate does not intrude excessively into the cockpit.
 
 #### F.8.8.7 Test Conduct
 
@@ -804,7 +1087,8 @@ c. Quasi-Static Testing may be done by teams using their University’s faciliti
 but teams are advised to exercise due care
 #### F.8.8.8 Test Analysis
 
-a. When using acceleration data from the dynamic test, the average deceleration must be calculated based on the raw unfiltered data. b. If peaks above the 40 g limit are present in the data, a Channel Filter Class (CFC) 60 (100Hz) filter per SAE Recommended Practice J211 “Instrumentation for Impact Test”, or a 100 Hz, 3rd order, low pass Butterworth (-3dB at 100 Hz) filter may be applied.
+a. When using acceleration data from the dynamic test, the average deceleration must be calculated based on the raw unfiltered data.
+b. If peaks above the 40 g limit are present in the data, a Channel Filter Class (CFC) 60 (100Hz) filter per SAE Recommended Practice J211 “Instrumentation for Impact Test”, or a 100 Hz, 3rd order, low pass Butterworth (-3dB at 100 Hz) filter may be applied.
 
 ## F.9 Fuel System (IC Only)
 
@@ -812,7 +1096,11 @@ Fuel System Location and Protection are subject to approval during SES review an
 Inspection.
 ### F.9.1 Location
 
-#### F.9.1.1 These components must be inside the Primary Structure (F.1.10): a. Any part of the Fuel System that is below the Upper Side Impact Structure b. Parts of the Fuel Tank other than the Fuel Filler Neck and Sight Tube above the Upper Side Impact Structure  IC.1.2
+#### F.9.1.1 These components must be inside the Primary Structure (F.1.10):
+
+
+a. Any part of the Fuel System that is below the Upper Side Impact Structure
+b. Parts of the Fuel Tank other than the Fuel Filler Neck and Sight Tube above the Upper Side Impact Structure  [IC.1.2](ic-internal-combustion-engine-vehicles.md#ic12-air-intake-and-fuel-system-location)
 
 #### F.9.1.2 In side view, any portion of the Fuel System must not project below the lower surface of the chassis
 
@@ -823,7 +1111,11 @@ All Fuel Tanks must be shielded from side or rear impact
 
 ### F.10.1 General Requirements
 
-#### F.10.1.1 All Tractive Battery Containers must be: a. Designed to withstand forces from deceleration in all directions b. Made from a Nonflammable Material ( F.1.18 )
+#### F.10.1.1 All Tractive Battery Containers must be:
+
+
+a. Designed to withstand forces from deceleration in all directions
+b. Made from a Nonflammable Material ( [F.1.18](#f118-nonflammable-material) )
 
 #### F.10.1.2 Design of the Tractive Battery Container must be documented in the SES Documentation includes materials used, drawings/images, fastener locations, Cell/Module weight and Cell/Module position
 
@@ -838,17 +1130,40 @@ All Fuel Tanks must be shielded from side or rear impact
 
 ### F.10.2 Structure
 
-#### F.10.2.1 The Floor or Bottom must be made from one of the three: a. Steel   1.25 mm minimum thickness b. Aluminum  3.2 mm minimum thickness c. Equivalent Alternate / Composite materials ( F.4.1,  F.4.2 )
+#### F.10.2.1 The Floor or Bottom must be made from one of the three:
 
-#### F.10.2.2 All Walls (Internal and External), Covers and Lids must be made from one of the three: a. Steel   0.9 mm minimum thickness b. Aluminum  2.3 mm minimum thickness c. Equivalent Alternate / Composite materials ( F.4.1,  F.4.2 )
+
+a. Steel   1.25 mm minimum thickness
+b. Aluminum  3.2 mm minimum thickness
+c. Equivalent Alternate / Composite materials ( [F.4.1](#f41-requirements),  [F.4.2](#f42-laminate-and-material-testing) )
+
+#### F.10.2.2 All Walls (Internal and External), Covers and Lids must be made from one of the three:
+
+
+a. Steel   0.9 mm minimum thickness
+b. Aluminum  2.3 mm minimum thickness
+c. Equivalent Alternate / Composite materials ( [F.4.1](#f41-requirements),  [F.4.2](#f42-laminate-and-material-testing) )
 
 #### F.10.2.3 Internal Vertical Walls:
 
-a. Must surround and separate each Module [EV.5.1.1](ev-electric-vehicles.md#ev511) b. Must have minimum height of the full height of the Module The Internal Walls should extend to the lid above any Module c. Must surround no more than 12 kg on each side The intent is to have each Module fully enclosed in its own six sided box
+a. Must surround and separate each Module [EV.5.1.1](ev-electric-vehicles.md#ev511)
+b. Must have minimum height of the full height of the Module The Internal Walls should extend to the lid above any Module
+c. Must surround no more than 12 kg on each side The intent is to have each Module fully enclosed in its own six sided box
 
 #### F.10.2.4 If Modules are arranged vertically above other Modules, each layer of Modules must have a load path to the Chassis attachments that does not pass through another layer of Modules
 
-#### F.10.2.5 Floors and all Wall (Internal and External) sections must be joined on each side The accepted methods of joining Walls to Walls and Walls to Floor are: a. Welding • Welds may be continuous or interrupted. • If interrupted, the weld/space ratio must be 1:1 or higher • All weld lengths must be more than 25 mm b. Fasteners Combined strength of the fasteners must be Equivalent to the strength of the welded joint ( F.10.2.5.a above ) c. Bonding • Bonding must meet  F.5.5 • Strength of the bonded joint must be Equivalent to the strength of the welded joint ( F.10.2.5.a above ) • Bonds must run the entire length of the joint Folding or bending plate material to create flanges or to eliminate joints between walls is recommended.
+#### F.10.2.5 Floors and all Wall (Internal and External) sections must be joined on each side The accepted methods of joining Walls to Walls and Walls to Floor are:
+
+
+a. Welding
+   - Welds may be continuous or interrupted.
+   - If interrupted, the weld/space ratio must be 1:1 or higher
+   - All weld lengths must be more than 25 mm
+b. Fasteners Combined strength of the fasteners must be Equivalent to the strength of the welded joint ( [F.10.2.5](#f1025-floors-and-all-wall-internal-and-external-sections-must-be-joined-on-each-side-the-accepted-methods-of-joining-walls-to-walls-and-walls-to-floor-are).a above )
+c. Bonding
+   - Bonding must meet  [F.5.5](#f55-bonding-in-regulated-structure)
+   - Strength of the bonded joint must be Equivalent to the strength of the welded joint ( [F.10.2.5](#f1025-floors-and-all-wall-internal-and-external-sections-must-be-joined-on-each-side-the-accepted-methods-of-joining-walls-to-walls-and-walls-to-floor-are).a above )
+   - Bonds must run the entire length of the joint Folding or bending plate material to create flanges or to eliminate joints between walls is recommended.
 
 #### F.10.2.6 Covers and Lids must be mechanically attached and include Positive Locking Mechanisms
 
@@ -861,7 +1176,11 @@ a. Must surround and separate each Module [EV.5.1.1](ev-electric-vehicles.md#ev5
 
 #### F.10.3.3 Module attachments must include Positive Locking Mechanisms
 
-#### F.10.3.4 Cross sectional properties of Module structures must be used for SES loads F.10.3.1 a. A cross section must be continuous in area and continuous along its normal to be counted toward equivalence b. Enter the minimum principal moment of inertia for each cross section
+#### F.10.3.4 Cross sectional properties of Module structures must be used for SES loads F.10.3.1
+
+
+a. A cross section must be continuous in area and continuous along its normal to be counted toward equivalence
+b. Enter the minimum principal moment of inertia for each cross section
 
 ### F.10.4 Holes and Openings
 
@@ -873,28 +1192,58 @@ a. Must surround and separate each Module [EV.5.1.1](ev-electric-vehicles.md#ev5
 
 #### F.10.4.3 Exterior and interior walls must cover a minimum of 75% of each face of the Modules
 
-#### F.10.4.4 Holes and Openings for airflow: a. Must be round.  Slots are prohibited b. Should be maximum 10 mm diameter c. Must not have line of sight to the driver, with the Firewall installed or removed
+#### F.10.4.4 Holes and Openings for airflow:
+
+
+a. Must be round.  Slots are prohibited
+b. Should be maximum 10 mm diameter
+c. Must not have line of sight to the driver, with the Firewall installed or removed
 
 ### F.10.5 Attachment
 
 #### F.10.5.1 Attachment of the Tractive Battery Container must be documented in the SES
 
-#### F.10.5.2 Tractive Battery Containers must: a. Attach to the Major Structure of the chassis b. Use a maximum of two attachment points on a chassis tube between two triangulated nodes c. Not attach to the Shoulder Harness Mounting Bar or Braces, Main Hoop Braces or Main Hoop above other tube nodes or composite attachments
+#### F.10.5.2 Tractive Battery Containers must:
+
+
+a. Attach to the Major Structure of the chassis
+b. Use a maximum of two attachment points on a chassis tube between two triangulated nodes
+c. Not attach to the Shoulder Harness Mounting Bar or Braces, Main Hoop Braces or Main Hoop above other tube nodes or composite attachments
 
 #### F.10.5.3 Any fasteners used to attach Tractive Battery Container(s) are Critical Fasteners, see T.8.2
 
 
-#### F.10.5.4 Each fastened attachment point to a composite Tractive Battery Container requires backing plates that are one of the two: a. Steel with a thickness of 2 mm minimum b. Alternate materials Equivalent to 2 mm thickness steel
+#### F.10.5.4 Each fastened attachment point to a composite Tractive Battery Container requires backing plates that are one of the two:
+
+
+a. Steel with a thickness of 2 mm minimum
+b. Alternate materials Equivalent to 2 mm thickness steel
 
 #### F.10.5.5 Teams must justify the Tractive Battery Container attachment using one of the two methods: • Corner Attachments and Analysis   per F.10.5.6 and F.10.5.8 • Load Based Analysis   per F.10.5.7 and F.10.5.8
 
-#### F.10.5.6 Tractive Battery Pack Attachment – Corner Attachments a. Eight or more attachments are required for any configuration • One attachment for each corner of a rectangular structure of multiple Modules • More than the minimum number of fasteners may be required for non rectangular arrangements Examples: If not filled in with additional structure, an extruded L shape would require attachments at 10 convex corners (the corners at the inside of the L are not convex); an extruded hexagon would require 12 attachments b. The mechanical connections at each corner must be 50 mm or less from the corner of the Module c. Each attachment point must be able to withstand a Test Load equal to 1/4 of total mass of the Tractive Battery Pack accelerating at 40 g
+#### F.10.5.6 Tractive Battery Pack Attachment – Corner Attachments
 
-#### F.10.5.7 Tractive Battery Pack Attachment – Load Based a. The minimum number of attachment points depends on the total mass of the Pack: Pack Weight  Minimum Attachment Points < 20 kg   4 20 – 30 kg  6 30 – 40 kg  8 > 40 kg   10 b. Each attachment point, including any brackets, backing plates and inserts, must be able to withstand 15 kN minimum in any direction
+
+a. Eight or more attachments are required for any configuration
+   - One attachment for each corner of a rectangular structure of multiple Modules
+   - More than the minimum number of fasteners may be required for non rectangular arrangements Examples: If not filled in with additional structure, an extruded L shape would require attachments at 10 convex corners (the corners at the inside of the L are not convex); an extruded hexagon would require 12 attachments
+b. The mechanical connections at each corner must be 50 mm or less from the corner of the Module
+c. Each attachment point must be able to withstand a Test Load equal to 1/4 of total mass of the Tractive Battery Pack accelerating at 40 g
+
+#### F.10.5.7 Tractive Battery Pack Attachment – Load Based
+
+
+a. The minimum number of attachment points depends on the total mass of the Pack: Pack Weight  Minimum Attachment Points < 20 kg   4 20 – 30 kg  6 30 – 40 kg  8 > 40 kg   10
+b. Each attachment point, including any brackets, backing plates and inserts, must be able to withstand 15 kN minimum in any direction
 
 #### F.10.5.8 Tractive Battery Pack Attachment –
 
-All Types a. Each fastener must withstand the Test Load in pure shear, using the minor diameter if any threads are in shear b. Each Tractive Battery Container bracket, chassis bracket, or monocoque attachment point must withstand the Test Load in bending, in pure tearout, pure pullout, pure weld shear if welded, and pure bond shear and pure bond tensile if bonded c. Monocoque attachment points must meet [F.7.8.7](#f787-each-roll-hoop-or-battery-pack-to-chassis-attachment-point-must-contain-one-of-the-two-a-a-solid-insert-that-is-fully-enclosed-by-the-inner-and-outer-skin-b-local-elimination-of-any-gap-between-inner-and-outer-skin-with-or-without-repeating-skin-layups) d. Fasteners must be spaced minimum 50 mm apart to be counted as separate attachment points
+All Types
+
+a. Each fastener must withstand the Test Load in pure shear, using the minor diameter if any threads are in shear
+b. Each Tractive Battery Container bracket, chassis bracket, or monocoque attachment point must withstand the Test Load in bending, in pure tearout, pure pullout, pure weld shear if welded, and pure bond shear and pure bond tensile if bonded
+c. Monocoque attachment points must meet [F.7.8.7](#f787-each-roll-hoop-or-battery-pack-to-chassis-attachment-point-must-contain-one-of-the-two)
+d. Fasteners must be spaced minimum 50 mm apart to be counted as separate attachment points
 
 ## F.11 Tractive System (EV Only)
 
@@ -923,13 +1272,22 @@ Technical Inspection
 
 ### F.11.3 Rear Impact Protection
 
-#### F.11.3.1 All Tractive System components must be protected from rear impact by a Rear Bulkhead a. When the Rear Bulkhead is 100 mm or less from a Tractive Battery Pack, the structure must be Equivalent to Side Impact Structure (F.6.4, F.7.5) b. When the Rear Bulkhead is more than 100 mm from a Tractive Battery Pack, the structure must meet  F.5.16 Component Protection c. The Tractive Battery Container must not be part of the Equivalent structure
+#### F.11.3.1 All Tractive System components must be protected from rear impact by a Rear Bulkhead
+
+
+a. When the Rear Bulkhead is 100 mm or less from a Tractive Battery Pack, the structure must be Equivalent to Side Impact Structure ([F.6.4](#f64-side-impact-structure), [F.7.5](#f75-side-impact-structure))
+b. When the Rear Bulkhead is more than 100 mm from a Tractive Battery Pack, the structure must meet  [F.5.16](#f516-component-protection) Component Protection
+c. The Tractive Battery Container must not be part of the Equivalent structure
 
 #### F.11.3.2 The entire top edge of the upper Rear Bulkhead tube or monocoque equivalent must be in the Upper Side Impact Structure zone F.6.4.4 / F.7.5.1
 
 #### F.11.3.3 The top of the Rear Bulkhead must be vertically above the bottom of the Rear Bulkhead. Vertically above is defined as the upper and lower cross sections partially or fully overlapping in top view.
 
-#### F.11.3.4 The Rear Bulkhead Support must have: a. A structural and triangulated load path from the top of the Rear Impact Protection to the Upper Side Impact Structure  F.6.4, F.7.5 at the Main Hoop b. A structural and triangulated load path from the bottom of the Rear Impact Protection to the Lower Side Impact Structure  F.6.4, F.7.5 at the Main Hoop
+#### F.11.3.4 The Rear Bulkhead Support must have:
+
+
+a. A structural and triangulated load path from the top of the Rear Impact Protection to the Upper Side Impact Structure  [F.6.4](#f64-side-impact-structure), [F.7.5](#f75-side-impact-structure) at the Main Hoop
+b. A structural and triangulated load path from the bottom of the Rear Impact Protection to the Lower Side Impact Structure  [F.6.4](#f64-side-impact-structure), [F.7.5](#f75-side-impact-structure) at the Main Hoop
 
 #### F.11.3.5 In rear view, the Rear Bulkhead must protect the Tractive System components with a diagonal structure or X brace that meets F.11.3.1 above a. Differential mounts, two vertical tubes with similar spacing, a metal plate, or an Equivalent composite panel may replace a diagonal If used, the mounts, plate, or panel must: • Be aft of the upper and lower Rear Bulkhead structures
 

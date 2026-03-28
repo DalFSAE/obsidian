@@ -96,7 +96,7 @@ Bring these to Tractive Battery Pack and Charger Inspection:
 - Tractive Battery Pack mounted on the Hand Cart  [EV.4.10](ev-electric-vehicles.md#ev410-for-charging)
 - Spare Battery Pack(s) and Tractive Battery components (if applicable)  [EV.5.1.3](ev-electric-vehicles.md#ev513-all-tractive-battery-components-andor-tractive-battery-containers-including-spares-and-replacement-parts-must-be-identical-to-the-design-documented-in-the-esf-and-ses)
 - Charger(s) for the Tractive Battery  [EV.8.1](ev-electric-vehicles.md#ev81-charger-requirements)
-- Tractive Battery Container samples (if applicable)  [F.10.2.1](f-chassis-and-structural.md#f1021-the-floor-or-bottom-must-be-made-from-one-of-the-three-a-steel-125-mm-minimum-thickness-b-aluminum-32-mm-minimum-thickness-c-equivalent-alternate-composite-materials-f41-f42).c,  [F.10.2.2](f-chassis-and-structural.md#f1022-all-walls-internal-and-external-covers-and-lids-must-be-made-from-one-of-the-three-a-steel-09-mm-minimum-thickness-b-aluminum-23-mm-minimum-thickness-c-equivalent-alternate-composite-materials-f41-f42).c
+- Tractive Battery Container samples (if applicable)  [F.10.2.1](f-chassis-and-structural.md#f1021-the-floor-or-bottom-must-be-made-from-one-of-the-three).c,  [F.10.2.2](f-chassis-and-structural.md#f1022-all-walls-internal-and-external-covers-and-lids-must-be-made-from-one-of-the-three).c
 
 - Electrical Systems Form (ESF) and Component Data Sheets  [EV.2](ev-electric-vehicles.md#ev2-documentation)
 - Electronic copies of any submitted Rules Questions with the received answer  [GR.7](gr-general-regulations.md#gr7-rules-questions)
@@ -139,7 +139,11 @@ Bring these to Mechanical / Electrical Inspection:
 #### IN.6.2.1 Any Aerodynamic Devices may be checked by pushing on the device in any direction and at any point This is guidance, but actual conformance will be up to technical inspectors at the respective competitions. The intent is to reduce the likelihood of wings detaching
 
 
-#### IN.6.2.2 If any deflection is significant, then a force of approximately 200 N may be applied a. Loaded deflection should not be more than 25 mm b. Any permanent deflection less than 5 mm
+#### IN.6.2.2 If any deflection is significant, then a force of approximately 200 N may be applied
+
+
+a. Loaded deflection should not be more than 25 mm
+b. Any permanent deflection less than 5 mm
 
 #### IN.6.2.3 If any vehicle on track is observed to have large, uncontrolled movements of Aerodynamic Devices, then officials may Black Flag the vehicle for IN.17 Reinspection.
 
@@ -147,7 +151,11 @@ Bring these to Mechanical / Electrical Inspection:
 
 #### IN.6.3.1 Dimensions of the Monocoque will be confirmed F.7.1.4
 
-#### IN.6.3.2 When the Front Hoop is integrally bonded or laminated to the monocoque F.7.4.3, provide: a. Documentation that shows dimensions on the tubes b. Pictures of the dimensioned tube being included in the layup
+#### IN.6.3.2 When the Front Hoop is integrally bonded or laminated to the monocoque F.7.4.3, provide:
+
+
+a. Documentation that shows dimensions on the tubes
+b. Pictures of the dimensioned tube being included in the layup
 
 #### IN.6.3.3 For items which cannot be verified by an inspector, the team must provide documentation, visual and/or written, that the requirements have been met
 
@@ -171,7 +179,7 @@ The Driver Template shown in [F.5.6.5](f-chassis-and-structural.md#f565-driver-t
 ### IN.7.2 Driver Template Clearance Criteria
 
 To pass Mechanical Technical Inspection, the Driver Template must meet the clearance
-specified in [F.5.6.4](f-chassis-and-structural.md#f564-roll-hoop-and-driver-position-when-seated-normally-and-restrained-by-the-driver-restraint-system-the-helmet-of-a-95th-percentile-male-see-v211-and-all-of-the-teams-drivers-must-a-be-a-minimum-of-50-mm-from-the-straight-line-drawn-from-the-top-of-the-main-hoop-to-the-top-of-the-front-hoop-b-be-a-minimum-of-50-mm-from-the-straight-line-drawn-from-the-top-of-the-main-hoop-to-the-lower-end-of-the-main-hoop-bracing-if-the-bracing-extends-rearwards-c-be-no-further-rearwards-than-the-rear-surface-of-the-main-hoop-if-the-main-hoop-bracing-extends-forwards)
+specified in [F.5.6.4](f-chassis-and-structural.md#f564-roll-hoop-and-driver-position-when-seated-normally-and-restrained-by-the-driver-restraint-system-the-helmet-of-a-95th-percentile-male-see-v211-and-all-of-the-teams-drivers-must)
 ## IN.8 Cockpit Template Inspections
 
 The Cockpit Template Inspections is part of Mechanical Inspection
@@ -192,18 +200,28 @@ parts of Technical Inspection
 ### IN.9.1 Driver Clearance
 
 Each driver in the normal driving position is checked for the three:
-- Helmet clearance  [F.5.6.4](f-chassis-and-structural.md#f564-roll-hoop-and-driver-position-when-seated-normally-and-restrained-by-the-driver-restraint-system-the-helmet-of-a-95th-percentile-male-see-v211-and-all-of-the-teams-drivers-must-a-be-a-minimum-of-50-mm-from-the-straight-line-drawn-from-the-top-of-the-main-hoop-to-the-top-of-the-front-hoop-b-be-a-minimum-of-50-mm-from-the-straight-line-drawn-from-the-top-of-the-main-hoop-to-the-lower-end-of-the-main-hoop-bracing-if-the-bracing-extends-rearwards-c-be-no-further-rearwards-than-the-rear-surface-of-the-main-hoop-if-the-main-hoop-bracing-extends-forwards)
-- Head Restraint positioning  [T.2.8.6](t-technical-aspects.md#t286-for-all-drivers-the-head-restraint-must-be-located-and-adjusted-where-a-the-head-restraint-is-no-more-than-25-mm-away-from-the-back-of-the-drivers-helmet-with-the-driver-in-their-normal-driving-position-b-the-contact-point-of-the-back-of-the-drivers-helmet-on-the-head-restraint-is-no-less-than-50-mm-from-any-edge-of-the-head-restraint-approximately-100-mm-of-longitudinal-adjustment-should-accommodate-range-of-specified-drivers-several-head-restraints-with-different-thicknesses-may-be-used)
+- Helmet clearance  [F.5.6.4](f-chassis-and-structural.md#f564-roll-hoop-and-driver-position-when-seated-normally-and-restrained-by-the-driver-restraint-system-the-helmet-of-a-95th-percentile-male-see-v211-and-all-of-the-teams-drivers-must)
+- Head Restraint positioning  [T.2.8.6](t-technical-aspects.md#t286-for-all-drivers-the-head-restraint-must-be-located-and-adjusted-where)
 - Harness fit and adjustment  [T.2.5](t-technical-aspects.md#t25-lap-belt-mounting), [T.2.6](t-technical-aspects.md#t26-shoulder-harness), [T.2.7](t-technical-aspects.md#t27-anti-submarine-belt-mounting)
 ### IN.9.2 Egress Test
 
 #### IN.9.2.1 Each driver must be able to exit to the side of the vehicle in no more than 5 seconds
 
-#### IN.9.2.2 The Egress Test will be conducted for each driver as follows: a. The driver must wear the specified Driver Equipment  VE.3.2, VE.3.3 b. Egress time begins with the driver in the fully seated position, with hands in driving position on the connected steering wheel c. Egress test may have the driver touch the (IC) Cockpit Main Switch IC.9.4  (EV) Shutdown Button EV.7.10.4 d. Egress time will stop when the driver has two feet on the pavement
+#### IN.9.2.2 The Egress Test will be conducted for each driver as follows:
+
+
+a. The driver must wear the specified Driver Equipment  [VE.3.2](ve-vehicle-and-driver-equipment.md#ve32-helmet), [VE.3.3](ve-vehicle-and-driver-equipment.md#ve33-driver-gear)
+b. Egress time begins with the driver in the fully seated position, with hands in driving position on the connected steering wheel
+c. Egress test may have the driver touch the (IC) Cockpit Main Switch [IC.9.4](ic-internal-combustion-engine-vehicles.md#ic94-cockpit-main-switch)  (EV) Shutdown Button [EV.7.10.4](ev-electric-vehicles.md#ev7104-one-shutdown-button-must-be-mounted-in-the-cockpit-which)
+d. Egress time will stop when the driver has two feet on the pavement
 
 ### IN.9.3 Driver Clearance and Egress Test Completion
 
-#### IN.9.3.1 To drive the vehicle, each team driver must: a. Meet the Driver Clearance requirements  IN.9.1 b. Successfully complete the Egress Test  IN.9.2
+#### IN.9.3.1 To drive the vehicle, each team driver must:
+
+
+a. Meet the Driver Clearance requirements  [IN.9.1](#in91-driver-clearance)
+b. Successfully complete the Egress Test  [IN.9.2](#in92-egress-test)
 
 #### IN.9.3.2 A driver(s) must complete the Driver Cockpit Checks to pass Mechanical Inspection
 
@@ -217,7 +235,12 @@ Each driver in the normal driving position is checked for the three:
 
 ### IN.10.2 Insulation Measurement Test
 
-#### IN.10.2.1 The insulation resistance between the Tractive System and GLV System Ground will be measured. a. The available measurement voltages are 250 V and 500 V b. All vehicles with a maximum nominal operation voltage below 500 V will be measured with the next available voltage level c. All vehicles with a system voltage of 500 V or more will be measured with 500 V
+#### IN.10.2.1 The insulation resistance between the Tractive System and GLV System Ground will be measured.
+
+
+a. The available measurement voltages are 250 V and 500 V
+b. All vehicles with a maximum nominal operation voltage below 500 V will be measured with the next available voltage level
+c. All vehicles with a system voltage of 500 V or more will be measured with 500 V
 
 #### IN.10.2.2 To pass the Insulation Measurement Test the measured insulation resistance must be minimum 500 Ohm/Volt related to the maximum nominal Tractive System operation voltage
 
@@ -260,14 +283,23 @@ Tilt Tests must be passed before a vehicle may try any further inspections
 
 ### IN.12.2 Special Configurations
 
-#### IN.12.2.1 Where the Exhaust has more than one Exhaust Outlet: a. The noise test is repeated for each outlet b. The highest sound level is used
+#### IN.12.2.1 Where the Exhaust has more than one Exhaust Outlet:
+
+
+a. The noise test is repeated for each outlet
+b. The highest sound level is used
 
 #### IN.12.2.2 Exhaust Outlets that are not parallel to the ground may be tested outside of the horizontal plane.
 
 #### IN.12.2.3 If the exhaust has any form of active tuning or throttling device or system, the exhaust must meet all requirements with the device or system in all positions.
 
 
-#### IN.12.2.4 When the exhaust has a manually adjustable tuning device(s): a. The position of the device must be visible to the officials for the noise test b. The device must be manually operable by the officials during the noise test c. The device must not be moved or modified after the noise test is passed
+#### IN.12.2.4 When the exhaust has a manually adjustable tuning device(s):
+
+
+a. The position of the device must be visible to the officials for the noise test
+b. The device must be manually operable by the officials during the noise test
+c. The device must not be moved or modified after the noise test is passed
 
 ### IN.12.3 Industrial Engine
 
@@ -278,11 +310,15 @@ Submit a Rules Question to request approval of an Industrial Engine.
 
 #### IN.12.4.1 Maximum Test Speed
 
-The engine speed that corresponds to an average piston speed of: a. Automotive / Motorcycle engines 914.4 m/min (3,000 ft/min) b. Industrial Engines 731.5 m/min (2,400 ft/min) The calculated speed will be rounded to the nearest 500 rpm. Test Speeds for typical engines are published on the Event Website
+The engine speed that corresponds to an average piston speed of:
+
+a. Automotive / Motorcycle engines 914.4 m/min (3,000 ft/min)
+b. Industrial Engines 731.5 m/min (2,400 ft/min) The calculated speed will be rounded to the nearest 500 rpm. Test Speeds for typical engines are published on the Event Website
 
 #### IN.12.4.2 Idle Test Speed
 
-a. Determined by the vehicle’s calibrated idle speed b. If the idle speed varies then the vehicle will be tested across the range of idle speeds determined by the team
+a. Determined by the vehicle’s calibrated idle speed
+b. If the idle speed varies then the vehicle will be tested across the range of idle speeds determined by the team
 
 #### IN.12.4.3 The vehicle must be compliant at all engine speeds up to the maximum defined Test Speed.
 
@@ -320,7 +356,11 @@ b. Stop the water spray
 c. Observe the vehicle for 120 seconds
 ### IN.13.3 Rain Test Completion
 
-#### IN.13.3.1 The test is passed if the: a. Insulation Monitoring Device (EV.7.6) does not react during the entire 240 seconds duration b. Insulation Monitoring Device functionality is verified after the 240 seconds test
+#### IN.13.3.1 The test is passed if the:
+
+
+a. Insulation Monitoring Device ([EV.7.6](ev-electric-vehicles.md#ev76-insulation-monitoring-device---imd)) does not react during the entire 240 seconds duration
+b. Insulation Monitoring Device functionality is verified after the 240 seconds test
 
 #### IN.13.3.2 The Rain Test must be passed before a vehicle may try any further inspections
 
@@ -333,7 +373,11 @@ four wheels when stopping the vehicle in a straight line at the end of an accele
 specified by the brake inspectors
 ### IN.14.2 Brake Test Conduct (IC Only)
 
-#### IN.14.2.1 Brake Test procedure: a. Accelerate to speed (typically getting into 2nd gear) into the designated braking zone b. Apply the brakes with force sufficient to demonstrate full lockup of all four wheels
+#### IN.14.2.1 Brake Test procedure:
+
+
+a. Accelerate to speed (typically getting into 2nd gear) into the designated braking zone
+b. Apply the brakes with force sufficient to demonstrate full lockup of all four wheels
 
 #### IN.14.2.2 The Brake Test passes if: • All four wheels lock up • The engine stays running during the complete test
 
@@ -341,7 +385,12 @@ specified by the brake inspectors
 
 #### IN.14.3.1 The Brake Test must use only the mechanical Brakes with no aid from the powertrain  EV.3.3.3
 
-#### IN.14.3.2 Brake Test procedure: a. Accelerate to speed into the designated braking zone b. Switch off the Tractive System  EV.7.10.4 c. Apply the brakes with force sufficient to demonstrate full lockup of all four wheels
+#### IN.14.3.2 Brake Test procedure:
+
+
+a. Accelerate to speed into the designated braking zone
+b. Switch off the Tractive System  [EV.7.10.4](ev-electric-vehicles.md#ev7104-one-shutdown-button-must-be-mounted-in-the-cockpit-which)
+c. Apply the brakes with force sufficient to demonstrate full lockup of all four wheels
 
 #### IN.14.3.3 The Brake Test passes if all four wheels lock  IN.14.3.1
 
@@ -420,4 +469,5 @@ b. Changes beyond those permitted per [IN.16.2](#in162-after-inspection-approval
 
 #### IN.17.3.2 During Dynamic Events
 
-a. Issues found during Reinspection will void Inspection Approval b. Penalties may be applied to the Dynamic Events the vehicle has competed in Applied penalties may include additional time added to event(s), loss of one or more fastest runs, up to Disqualification, subject to official discretion
+a. Issues found during Reinspection will void Inspection Approval
+b. Penalties may be applied to the Dynamic Events the vehicle has competed in Applied penalties may include additional time added to event(s), loss of one or more fastest runs, up to Disqualification, subject to official discretion

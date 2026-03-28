@@ -79,7 +79,11 @@ the required visibility throughout all Dynamic Events
 
 #### V.3.2.3 Steering systems must use a rigid mechanical linkage capable of tension and compression loads for operation
 
-#### V.3.2.4 The steering system must have positive steering stops that prevent the steering linkages from locking up (the inversion of a four bar linkage at one of the pivots). The stops: a. Must prevent the wheels and tires from contacting suspension, bodywork, or Chassis during the track events b. May be put on the uprights or on the rack
+#### V.3.2.4 The steering system must have positive steering stops that prevent the steering linkages from locking up (the inversion of a four bar linkage at one of the pivots). The stops:
+
+
+a. Must prevent the wheels and tires from contacting suspension, bodywork, or Chassis during the track events
+b. May be put on the uprights or on the rack
 
 #### V.3.2.5 Steering system free play must be less than seven degrees (7°) total measured at the steering wheel
 
@@ -91,7 +95,12 @@ the required visibility throughout all Dynamic Events
 
 #### V.3.2.9 Spherical rod ends and spherical bearings in the steering must meet V.3.1.5 above
 
-#### V.3.2.10 Rear wheel steering may be used. a. Rear wheel steering must incorporate mechanical stops to limit the range of angular movement of the rear wheels to a maximum of six degrees (6°) b. The team must provide the ability for the steering angle range to be verified at Technical Inspection with a driver in the vehicle c. Rear wheel steering may be electrically operated
+#### V.3.2.10 Rear wheel steering may be used.
+
+
+a. Rear wheel steering must incorporate mechanical stops to limit the range of angular movement of the rear wheels to a maximum of six degrees (6°)
+b. The team must provide the ability for the steering angle range to be verified at Technical Inspection with a driver in the vehicle
+c. Rear wheel steering may be electrically operated
 
 ### V.3.3 Steering Wheel
 
@@ -122,18 +131,28 @@ Wheels must be 203.2 mm (8.0 inches) or more in diameter.
 Vehicles may have two types of tires, Dry and Wet
 #### V.4.3.1 Dry Tires
 
-a. The tires on the vehicle when it is presented for Technical Inspection. b. May be any size or type, slicks or treaded.
+a. The tires on the vehicle when it is presented for Technical Inspection.
+b. May be any size or type, slicks or treaded.
 
 #### V.4.3.2 Wet Tires
 
-Any size or type of treaded or grooved tire where: • The tread pattern or grooves were molded in by the tire manufacturer, or were cut by the tire manufacturer or appointed agent. Any grooves that have been cut must have documented proof that this rule was met • There is a minimum tread depth of 2.4 mm
+Any size or type of treaded or grooved tire where:
+- The tread pattern or grooves were molded in by the tire manufacturer, or were cut by the tire manufacturer or appointed agent. Any grooves that have been cut must have documented proof that this rule was met
+- There is a minimum tread depth of 2.4 mm
 
 #### V.4.3.3 Tire Set
 
-a. All four Dry Tires and Wheels or all four Wet Tires and Wheels do not have to be identical b. Once each tire set has been presented for Technical Inspection, any tire compound or size, or wheel type or size must not be changed
+a. All four Dry Tires and Wheels or all four Wet Tires and Wheels do not have to be identical
+b. Once each tire set has been presented for Technical Inspection, any tire compound or size, or wheel type or size must not be changed
 
 #### V.4.3.4 Tire Pressure
 
-a. Tire Pressure must be in the range permitted by the manufacturer at all times b. Tire Pressure may be inspected at any time
+a. Tire Pressure must be in the range permitted by the manufacturer at all times
+b. Tire Pressure may be inspected at any time
 
-#### V.4.3.5 Requirements for All Tires a. Teams must not do any hand cutting, grooving or modification of the tires b. Tire warmers are not permitted c. No traction enhancers may be applied to the tires at any time onsite at the competition
+#### V.4.3.5 Requirements for All Tires
+
+
+a. Teams must not do any hand cutting, grooving or modification of the tires
+b. Tire warmers are not permitted
+c. No traction enhancers may be applied to the tires at any time onsite at the competition

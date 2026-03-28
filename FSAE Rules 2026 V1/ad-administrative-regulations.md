@@ -91,7 +91,9 @@ the Organizer prior to start of competition
 
 #### AD.5.1.3 Faculty Advisors:
 
-a. May advise their teams on general engineering and engineering project management theory b. Must not design, build or repair any part of the vehicle c. Must not develop any documentation or presentation
+a. May advise their teams on general engineering and engineering project management theory
+b. Must not design, build or repair any part of the vehicle
+c. Must not develop any documentation or presentation
 
 ### AD.5.2 Electrical System Officer  (EV Only)
 
@@ -100,7 +102,12 @@ during the event
 #### AD.5.2.1 Each participating team must appoint one or more ESO for the event
 
 
-#### AD.5.2.2 The ESO must be: a. A valid team member, see AD.3 Individual Participation Requirements b. One or more ESO must not be a driver c. Certified or has received appropriate practical training whether formal or informal for working with High Voltage systems in automotive vehicles Give details of the training on the ESO/ESA form
+#### AD.5.2.2 The ESO must be:
+
+
+a. A valid team member, see [AD.3](#ad3-individual-participation-requirements) Individual Participation Requirements
+b. One or more ESO must not be a driver
+c. Certified or has received appropriate practical training whether formal or informal for working with High Voltage systems in automotive vehicles Give details of the training on the ESO/ESA form
 
 #### AD.5.2.3 Duties of the ESO - see EV.11.1.1
 
