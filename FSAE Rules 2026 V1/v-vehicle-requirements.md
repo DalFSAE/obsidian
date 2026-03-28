@@ -120,12 +120,20 @@ Wheels must be 203.2 mm (8.0 inches) or more in diameter.
 ### V.4.3 Tires
 
 Vehicles may have two types of tires, Dry and Wet
-#### V.4.3.1 Dry Tires a. The tires on the vehicle when it is presented for Technical Inspection. b. May be any size or type, slicks or treaded.
+#### V.4.3.1 Dry Tires
 
-#### V.4.3.2 Wet Tires Any size or type of treaded or grooved tire where: • The tread pattern or grooves were molded in by the tire manufacturer, or were cut by the tire manufacturer or appointed agent. Any grooves that have been cut must have documented proof that this rule was met • There is a minimum tread depth of 2.4 mm
+a. The tires on the vehicle when it is presented for Technical Inspection. b. May be any size or type, slicks or treaded.
 
-#### V.4.3.3 Tire Set a. All four Dry Tires and Wheels or all four Wet Tires and Wheels do not have to be identical b. Once each tire set has been presented for Technical Inspection, any tire compound or size, or wheel type or size must not be changed
+#### V.4.3.2 Wet Tires
 
-#### V.4.3.4 Tire Pressure a. Tire Pressure must be in the range permitted by the manufacturer at all times b. Tire Pressure may be inspected at any time
+Any size or type of treaded or grooved tire where: • The tread pattern or grooves were molded in by the tire manufacturer, or were cut by the tire manufacturer or appointed agent. Any grooves that have been cut must have documented proof that this rule was met • There is a minimum tread depth of 2.4 mm
+
+#### V.4.3.3 Tire Set
+
+a. All four Dry Tires and Wheels or all four Wet Tires and Wheels do not have to be identical b. Once each tire set has been presented for Technical Inspection, any tire compound or size, or wheel type or size must not be changed
+
+#### V.4.3.4 Tire Pressure
+
+a. Tire Pressure must be in the range permitted by the manufacturer at all times b. Tire Pressure may be inspected at any time
 
 #### V.4.3.5 Requirements for All Tires a. Teams must not do any hand cutting, grooving or modification of the tires b. Tire warmers are not permitted c. No traction enhancers may be applied to the tires at any time onsite at the competition

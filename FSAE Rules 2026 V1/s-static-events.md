@@ -95,7 +95,9 @@ c. The Formula SAE Cost Event Supplement is available on the Event Website
 
 #### S.3.3.1 Cost Report Preparation and submission of a report (the “Cost Report”)
 
-#### S.3.3.2 Event Day Discussion Discussion at the Competition with the Cost Judges around the team’s vehicle.
+#### S.3.3.2 Event Day Discussion
+
+Discussion at the Competition with the Cost Judges around the team’s vehicle.
 
 
 #### S.3.3.3 Cost Scenario Teams will respond to a challenge related to cost or manufacturing of the vehicle.
@@ -165,7 +167,9 @@ Competition Submissions
 
 #### S.3.12.3 Any instance where a team’s score benefits by an intentional or unintentional error on the part of the students will be corrected on a case by case basis.
 
-#### S.3.12.4 Penalty Method A - Fixed Point Deductions a. From the Bill of Material, the Cost Judges will determine if all Parts and Processes have been included in the analysis. b. If any omission or error, a penalty proportional to the BOM level of the error is added: • Missing/inaccurate Material, Process, Fastener  1 point • Missing/inaccurate Part     3 point • Missing/inaccurate Assembly    5 point c. Each of the penalties listed above supersedes the previous penalty. Example - if a point deduction is given for a missing Assembly, the missing Parts are ignored.
+#### S.3.12.4 Penalty Method
+
+A - Fixed Point Deductions a. From the Bill of Material, the Cost Judges will determine if all Parts and Processes have been included in the analysis. b. If any omission or error, a penalty proportional to the BOM level of the error is added: • Missing/inaccurate Material, Process, Fastener 1 point • Missing/inaccurate Part 3 point • Missing/inaccurate Assembly 5 point c. Each of the penalties listed above supersedes the previous penalty. Example - if a point deduction is given for a missing Assembly, the missing Parts are ignored.
 
 
 d. Differences other than those listed above will be deducted at the discretion of the Cost

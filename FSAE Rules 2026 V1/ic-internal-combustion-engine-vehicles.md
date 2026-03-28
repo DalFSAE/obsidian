@@ -224,7 +224,9 @@ The part(s) of the fuel containment device that is in contact with the fuel.
 #### IC.5.4.4 A clear Fuel Filler Neck tube may be used as a sight tube, subject to approval by a Rules Question or technical inspectors at the event.
 
 
-#### IC.5.4.5 Fuel Level Line - A permanent, non movable fuel level line must be located between 12 mm and 25 mm below the top of the visible portion of the sight tube. This line will be used as the fill line for the Tilt Test, and before and after Endurance to measure the amount of fuel used during the Endurance Event.
+#### IC.5.4.5 Fuel Level Line -
+
+A permanent, non movable fuel level line must be located between 12 mm and 25 mm below the top of the visible portion of the sight tube. This line will be used as the fill line for the Tilt Test, and before and after Endurance to measure the amount of fuel used during the Endurance Event.
 
 #### IC.5.4.6 The sight tube and fuel level line must be clearly visible to two individuals (one to fill the tank, the other to visually verify fill) without the need of assistance (artificial lighting, magnifiers, etc) or the need to remove any parts (body panels, etc).
 
@@ -283,7 +285,9 @@ Port Fuel Injected (PFI) fuel systems are low pressure.
 
 ### IC.6.2 High Pressure Injection (HPI) / Direct Injection (DI)
 
-#### IC.6.2.1 Definitions a. High Pressure fuel systems - those functioning at 10 Bar pressure or above b. Direct Injection fuel systems - where the injection occurs directly into the combustion system Direct Injection systems often utilize a low pressure electric fuel pump and high pressure mechanical “boost” pump driven off the engine. c. High Pressure Fuel Lines - those between the boost pump and injectors d. Low Pressure Fuel Lines - from the electric supply pump to the boost pump
+#### IC.6.2.1 Definitions
+
+a. High Pressure fuel systems - those functioning at 10 Bar pressure or above b. Direct Injection fuel systems - where the injection occurs directly into the combustion system Direct Injection systems often utilize a low pressure electric fuel pump and high pressure mechanical “boost” pump driven off the engine. c. High Pressure Fuel Lines - those between the boost pump and injectors d. Low Pressure Fuel Lines - from the electric supply pump to the boost pump
 
 #### IC.6.2.2 All High Pressure Fuel Lines must: a. Be stainless steel rigid line or Aeroquip FC807 smooth bore PTFE hose with stainless steel reinforcement and visible Nomex tracer yarn.  Equivalent products may be used with prior approval. b. Not incorporate elastomeric seals c. Be rigidly connected every 100 mm by mechanical fasteners to structural engine components such as cylinder heads or block
 
@@ -301,7 +305,9 @@ Port Fuel Injected (PFI) fuel systems are low pressure.
 
 #### IC.7.1.1 The exhaust system must be separated from any of these components by means given in
 
-#### T.1.6.3 : a. Flammable materials, including the fuel and fuel system, the oil and oil system b. Thermally sensitive components, including brake lines, composite materials, and batteries
+#### T.1.6.3 :
+
+a. Flammable materials, including the fuel and fuel system, the oil and oil system b. Thermally sensitive components, including brake lines, composite materials, and batteries
 
 
 ### IC.7.2 Exhaust Outlet
@@ -374,9 +380,13 @@ e. Inertia Switch (if used)  [T.9.4](t-technical-aspects.md#t94-inertia-switch)
 
 ### IC.9.4 Cockpit Main Switch
 
-#### IC.9.4.1 Configuration - The Cockpit Main Switch must: a. Be a push-pull or push-rotate emergency stop switch (pushing the button is the OFF position) b. Have a diameter of 24 mm minimum
+#### IC.9.4.1 Configuration -
 
-#### IC.9.4.2 Location – The Cockpit Main Switch must be: a. In easy reach of the driver when in a normal driving position wearing Harness b. Adjacent to the Steering Wheel c. Unobstructed by the Steering Wheel or any other part of the vehicle
+The Cockpit Main Switch must: a. Be a push-pull or push-rotate emergency stop switch (pushing the button is the OFF position) b. Have a diameter of 24 mm minimum
+
+#### IC.9.4.2 Location –
+
+The Cockpit Main Switch must be: a. In easy reach of the driver when in a normal driving position wearing Harness b. Adjacent to the Steering Wheel c. Unobstructed by the Steering Wheel or any other part of the vehicle
 
 #### IC.9.4.3 Function - the Cockpit Main Switch may act through a relay
 

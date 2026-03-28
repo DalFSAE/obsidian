@@ -10,9 +10,13 @@
 
 ### PS.1.2 Definitions
 
-#### PS.1.2.1 Submission Date The date and time of upload to the website
+#### PS.1.2.1 Submission Date
 
-#### PS.1.2.2 Submission Deadline The date and time by which the document must be uploaded or submitted
+The date and time of upload to the website
+
+#### PS.1.2.2 Submission Deadline
+
+The date and time by which the document must be uploaded or submitted
 
 #### PS.1.2.3 No Submissions Accepted After The last date and time that documents may be uploaded or submitted
 
@@ -20,11 +24,15 @@
 
 #### PS.1.2.5 Not Submitted • Not uploaded prior to No Submissions Accepted After • Not in the specified form or format
 
-#### PS.1.2.6 Amount Late The number of days between the Submission Deadline and the Submission Date. Any partial day is rounded up to a full day. Examples: submitting a few minutes late would be one day penalty; submitting 25 hours late would be two days penalty
+#### PS.1.2.6 Amount Late
+
+The number of days between the Submission Deadline and the Submission Date. Any partial day is rounded up to a full day. Examples: submitting a few minutes late would be one day penalty; submitting 25 hours late would be two days penalty
 
 #### PS.1.2.7 Grounds for Removal A specified document that if Not Submitted may cause Removal of Team Entry
 
-#### PS.1.2.8 Reviewer A designated event official who is assigned to review and accept a Submission
+#### PS.1.2.8 Reviewer
+
+A designated event official who is assigned to review and accept a Submission
 
 ## PS.2 Submission Details
 
@@ -72,7 +80,9 @@ Refer to Table PS-1 Submission Information
 
 ### PS.3.4 Specific Penalties
 
-#### PS.3.4.1 Electronic Throttle Control (ETC)  (IC Only) a. There is no point penalty for ETC documents b. The team will not be permitted to run ETC on their vehicle and must use mechanical throttle operation when: • The ETC Notice of Intent is Not Submitted • The ETC Systems Form is Not Submitted, or is not accepted
+#### PS.3.4.1 Electronic Throttle Control (ETC) (IC Only)
+
+a. There is no point penalty for ETC documents b. The team will not be permitted to run ETC on their vehicle and must use mechanical throttle operation when: • The ETC Notice of Intent is Not Submitted • The ETC Systems Form is Not Submitted, or is not accepted
 
 #### PS.3.4.2 Fuel Type  IC.5.1 There is no point penalty.  Once the deadline has passed, the team gets the basic fuel type.
 
@@ -116,7 +126,7 @@ Note (1):  Refer to the Event Website for submission requirements
 Table PS-2 Submission Penalty Information
 Penalty Group Penalty Points
 per 24 Hours Not Submitted after the Deadline
-ETC none Not Approved to use ETC  -  see [PS.3.4.1](#ps341-electronic-throttle-control-etc-ic-only-a-there-is-no-point-penalty-for-etc-documents-b-the-team-will-not-be-permitted-to-run-etc-on-their-vehicle-and-must-use-mechanical-throttle-operation-when-the-etc-notice-of-intent-is-not-submitted-the-etc-systems-form-is-not-submitted-or-is-not-accepted)
+ETC none Not Approved to use ETC  -  see [PS.3.4.1](#ps341-electronic-throttle-control-etc-ic-only)
 Tech -20 Grounds for Removal  -  see [PS.3.3](#ps33-removal-of-team-entry)
 Other -20 Removed from Cost/Design/Presentation
 Event and Score 0 points – see [PS.3.2.2](#ps322-additional-penalties-will-apply-if-not-submitted-subject-to-official-discretion)

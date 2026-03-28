@@ -211,7 +211,9 @@ Rules Questions may also be used to request approval, as specified in these rule
 
 #### GR.7.2.2 Response Time • Please give a minimum of two weeks for a response • Do not resubmit questions
 
-#### GR.7.2.3 Submission Addresses a. Teams entering Formula SAE competitions:  Follow the link and instructions published on the Event Website to "Submit a Rules Question" b. Teams entering other competitions please visit those respective competition websites for further instructions
+#### GR.7.2.3 Submission Addresses
+
+a. Teams entering Formula SAE competitions: Follow the link and instructions published on the Event Website to "Submit a Rules Question" b. Teams entering other competitions please visit those respective competition websites for further instructions
 
 ### GR.7.3 Question Publication
 
@@ -253,7 +255,9 @@ The decision regarding any protest is final
 
 #### GR.9.1.1 Vehicles entered into Formula SAE competitions must be conceived, designed, fabricated and maintained by the student team members without direct involvement from professional engineers, automotive engineers, racers, machinists or related professionals.
 
-#### GR.9.1.2 Information Sources The student team may use any literature or knowledge related to design and information from professionals or from academics if the information is given as a discussion of alternatives with their pros and cons.
+#### GR.9.1.2 Information Sources
+
+The student team may use any literature or knowledge related to design and information from professionals or from academics if the information is given as a discussion of alternatives with their pros and cons.
 
 #### GR.9.1.3 Professional Assistance Professionals must not make design decisions or drawings.  The Faculty Advisor may be required to sign a statement of compliance with this restriction.
 
@@ -261,13 +265,21 @@ The decision regarding any protest is final
 
 ### GR.9.2 Definitions
 
-#### GR.9.2.1 Competition Year The period beginning at the first event of the Formula SAE series where the vehicle is onsite and begins Technical Inspection or Static events and continuing until the start of the corresponding event held approximately 12 months later
+#### GR.9.2.1 Competition Year
 
-#### GR.9.2.2 First Year Vehicle A vehicle which has, at minimum, a newly built chassis and is in its initial Competition Year
+The period beginning at the first event of the Formula SAE series where the vehicle is onsite and begins Technical Inspection or Static events and continuing until the start of the corresponding event held approximately 12 months later
 
-#### GR.9.2.3 Second Year Vehicle A vehicle which has competed in a previous Competition Year
+#### GR.9.2.2 First Year Vehicle
 
-#### GR.9.2.4 Third Year Vehicle A vehicle which has competed in more than one previous Competition Year
+A vehicle which has, at minimum, a newly built chassis and is in its initial Competition Year
+
+#### GR.9.2.3 Second Year Vehicle
+
+A vehicle which has competed in a previous Competition Year
+
+#### GR.9.2.4 Third Year Vehicle
+
+A vehicle which has competed in more than one previous Competition Year
 
 
 ### GR.9.3 Formula SAE Competition Eligibility

@@ -89,7 +89,9 @@ the Organizer prior to start of competition
 
 #### AD.5.1.2 The Faculty Advisor should accompany the team to the competition and will be considered by the officials to be the official university representative.
 
-#### AD.5.1.3 Faculty Advisors: a. May advise their teams on general engineering and engineering project management theory b. Must not design, build or repair any part of the vehicle c. Must not develop any documentation or presentation
+#### AD.5.1.3 Faculty Advisors:
+
+a. May advise their teams on general engineering and engineering project management theory b. Must not design, build or repair any part of the vehicle c. Must not develop any documentation or presentation
 
 ### AD.5.2 Electrical System Officer  (EV Only)
 

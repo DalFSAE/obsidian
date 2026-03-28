@@ -21,7 +21,9 @@
 
 ### T.1.2 Internal Cross Section
 
-#### T.1.2.1 Requirement: a. The cockpit must have a free internal cross section b. The template shown below must pass through the cockpit
+#### T.1.2.1 Requirement:
+
+a. The cockpit must have a free internal cross section b. The template shown below must pass through the cockpit
 
 
 Template maximum thickness: 7 mm
@@ -49,7 +51,9 @@ Template maximum thickness: 7 mm
 
 ### T.1.4 Vehicle Controls
 
-#### T.1.4.1 Accelerator Pedal a. An Accelerator Pedal must control the Powertrain output b. Pedal Travel is the percent of travel from a fully released position to a fully applied position.  0% is fully released and 100% is fully applied. c. The Accelerator Pedal must: • Return to 0% Pedal Travel when not pushed • Have a positive stop to prevent any cable, actuation system or sensor from damage or overstress
+#### T.1.4.1 Accelerator Pedal
+
+a. An Accelerator Pedal must control the Powertrain output b. Pedal Travel is the percent of travel from a fully released position to a fully applied position. 0% is fully released and 100% is fully applied. c. The Accelerator Pedal must: • Return to 0% Pedal Travel when not pushed • Have a positive stop to prevent any cable, actuation system or sensor from damage or overstress
 
 #### T.1.4.2 Any mechanism in the throttle system that could become jammed must be covered. This is to prevent debris or interference and includes but is not limited to a gear mechanism
 
@@ -92,7 +96,9 @@ Template maximum thickness: 7 mm
 
 #### T.1.8.5 (EV only) The Tractive Battery Container must not be part of the Firewall
 
-#### T.1.8.6 Sealing a. Any Firewall must seal completely against the passage of fluids (the Firewall itself, joints, edges, any pass throughs and Floor Closeout) b. Firewalls that have multiple panels must overlap and be sealed at the joints c. Sealing between Firewalls must not be a stressed part of the Firewall d. Grommets must be used to seal any pass through for wiring, cables, etc
+#### T.1.8.6 Sealing
+
+a. Any Firewall must seal completely against the passage of fluids (the Firewall itself, joints, edges, any pass throughs and Floor Closeout) b. Firewalls that have multiple panels must overlap and be sealed at the joints c. Sealing between Firewalls must not be a stressed part of the Firewall d. Grommets must be used to seal any pass through for wiring, cables, etc
 
 
 e. Any seals or adhesives used with the Firewall must be rated for the application
@@ -109,10 +115,10 @@ c. 7 Point Harness – consists of two Lap Belts, two Shoulder Belts, two leg or
 Submarine Belts and a negative g or Z Belt.
 d. Upright Driving Position - with a seat back angled at 30° or less from the vertical as
 measured along the line joining the two 200 mm circles of the template of the 95th
-percentile male as defined in [F.5.6.5](f-chassis-and-structural.md#f565-driver-template-a-two-dimensional-template-used-to-represent-the-95th-percentile-male-is-made-to-these-dimensions-see-figure-below-a-circle-of-diameter-200-mm-will-represent-the-hips-and-buttocks-a-circle-of-diameter-200-mm-will-represent-the-shouldercervical-region-a-circle-of-diameter-300-mm-will-represent-the-head-with-helmet-a-straight-line-measuring-490-mm-will-connect-the-centers-of-the-two-200-mm-circles-a-straight-line-measuring-280-mm-will-connect-the-centers-of-the-upper-200-mm-circle-and-the-300-mm-head-circle) and positioned per [F.5.6.6](f-chassis-and-structural.md#f566-driver-template-position-the-driver-template-will-be-positioned-as-follows-the-seat-will-be-adjusted-to-the-rearmost-position-the-pedals-will-be-put-in-the-most-forward-position-the-bottom-200-mm-circle-will-be-put-on-the-seat-bottom-where-the-distance-between-the-center-of-this-circle-and-the-rearmost-face-of-the-pedals-is-no-less-than-915-mm-the-middle-200-mm-circle-representing-the-shoulders-will-be-positioned-on-the-seat-back-the-upper-300-mm-circle-will-be-positioned-no-more-than-25-mm-away-from-the-head-restraint-where-the-drivers-helmet-would-normally-be-located-while-driving)
+percentile male as defined in [F.5.6.5](f-chassis-and-structural.md#f565-driver-template) and positioned per [F.5.6.6](f-chassis-and-structural.md#f566-driver-template-position)
 e. Reclined Driving Position - with a seat back angled at more than 30° from the vertical as
 measured along the line joining the two 200 mm circles of the template of the 95th
-percentile male as defined in [F.5.6.5](f-chassis-and-structural.md#f565-driver-template-a-two-dimensional-template-used-to-represent-the-95th-percentile-male-is-made-to-these-dimensions-see-figure-below-a-circle-of-diameter-200-mm-will-represent-the-hips-and-buttocks-a-circle-of-diameter-200-mm-will-represent-the-shouldercervical-region-a-circle-of-diameter-300-mm-will-represent-the-head-with-helmet-a-straight-line-measuring-490-mm-will-connect-the-centers-of-the-two-200-mm-circles-a-straight-line-measuring-280-mm-will-connect-the-centers-of-the-upper-200-mm-circle-and-the-300-mm-head-circle) and positioned per [F.5.6.6](f-chassis-and-structural.md#f566-driver-template-position-the-driver-template-will-be-positioned-as-follows-the-seat-will-be-adjusted-to-the-rearmost-position-the-pedals-will-be-put-in-the-most-forward-position-the-bottom-200-mm-circle-will-be-put-on-the-seat-bottom-where-the-distance-between-the-center-of-this-circle-and-the-rearmost-face-of-the-pedals-is-no-less-than-915-mm-the-middle-200-mm-circle-representing-the-shoulders-will-be-positioned-on-the-seat-back-the-upper-300-mm-circle-will-be-positioned-no-more-than-25-mm-away-from-the-head-restraint-where-the-drivers-helmet-would-normally-be-located-while-driving)
+percentile male as defined in [F.5.6.5](f-chassis-and-structural.md#f565-driver-template) and positioned per [F.5.6.6](f-chassis-and-structural.md#f566-driver-template-position)
 f. Chest to Groin Line - the straight line that in side view follows the line of the Shoulder
 Belts from the chest to the release buckle.
 ### T.2.2 Harness Specification
@@ -415,9 +421,13 @@ d. Cover the bottom of the chain or belt or rotating component when fuel, brake 
 
 #### T.5.2.8 Non-metallic Belt Drive - Scatter shields for belts must: a. Be made from 3.0 mm minimum thickness aluminum alloy b. Have a minimum width that is equal to 1.7 times the width of the belt. c. Be centered on the center line of the belt d. Stay aligned with the belt under all conditions
 
-#### T.5.2.9 Attachment Fasteners - All fasteners attaching scatter shields and guards must be 6 mm or 1/4” minimum diameter Critical Fasteners, see T.8.2
+#### T.5.2.9 Attachment Fasteners -
 
-#### T.5.2.10 Finger Guards a. Must cover any drivetrain parts that spin while the vehicle is stationary with the engine running. b. Must be made of material sufficient to resist finger forces. c. Mesh or perforated material may be used but must prevent the passage of a 12 mm diameter object through the guard.
+All fasteners attaching scatter shields and guards must be 6 mm or 1/4” minimum diameter Critical Fasteners, see [T.8.2](#t82-critical-fastener-requirements)
+
+#### T.5.2.10 Finger Guards
+
+a. Must cover any drivetrain parts that spin while the vehicle is stationary with the engine running. b. Must be made of material sufficient to resist finger forces. c. Mesh or perforated material may be used but must prevent the passage of a 12 mm diameter object through the guard.
 
 ### T.5.3 Motor Protection (EV Only)
 
@@ -467,21 +477,33 @@ d. Cover the bottom of the chain or belt or rotating component when fuel, brake 
 ### T.6.1 Compressed Gas Cylinders and Lines
 
 Any system on the vehicle that uses a compressed gas as an actuating medium must meet:
-#### T.6.1.1 Working Gas - The working gas must be non flammable
+#### T.6.1.1 Working Gas -
 
-#### T.6.1.2 Cylinder Certification - The gas cylinder/tank must be commercially manufactured, designed and built for the pressure being used, certified by an accredited testing laboratory in the country of its origin, and labeled or stamped appropriately.
+The working gas must be non flammable
 
-#### T.6.1.3 Pressure Regulation - The pressure regulator must be mounted directly onto the gas cylinder/tank
+#### T.6.1.2 Cylinder Certification -
+
+The gas cylinder/tank must be commercially manufactured, designed and built for the pressure being used, certified by an accredited testing laboratory in the country of its origin, and labeled or stamped appropriately.
+
+#### T.6.1.3 Pressure Regulation -
+
+The pressure regulator must be mounted directly onto the gas cylinder/tank
 
 #### T.6.1.4 Lines and Fittings - The gas lines and fittings must be appropriate for the maximum possible operating pressure of the system.
 
-#### T.6.1.5 Insulation - The gas cylinder/tank must be insulated from any heat sources
+#### T.6.1.5 Insulation -
+
+The gas cylinder/tank must be insulated from any heat sources
 
 #### T.6.1.6 Cylinder Material – gas cylinders/tanks in a position 150 mm or less from an exhaust system must meet one of the two: • Made from metal • Meet the thermal protection requirements of T.1.6.3
 
-#### T.6.1.7 Cylinder Location - The gas cylinder/tank and the pressure regulator must be: a. Securely mounted inside the Chassis b. Located outside of the Cockpit c. In a position below the height of the Shoulder Belt Mount T.2.6 d. Aligned so the axis of the gas cylinder/tank does not point at the driver
+#### T.6.1.7 Cylinder Location -
 
-#### T.6.1.8 Protection – The gas cylinder/tank and lines must be protected from rollover, collision from any direction, or damage resulting from the failure of rotating equipment
+The gas cylinder/tank and the pressure regulator must be: a. Securely mounted inside the Chassis b. Located outside of the Cockpit c. In a position below the height of the Shoulder Belt Mount [T.2.6](#t26-shoulder-harness) d. Aligned so the axis of the gas cylinder/tank does not point at the driver
+
+#### T.6.1.8 Protection –
+
+The gas cylinder/tank and lines must be protected from rollover, collision from any direction, or damage resulting from the failure of rotating equipment
 
 #### T.6.1.9 The driver must be protected from failure of the cylinder/tank and regulator
 
@@ -496,7 +518,9 @@ This section [T.6.2](#t62-high-pressure-hydraulic-pumps-and-lines) does not appl
 
 ### T.7.1 Aerodynamic Devices
 
-#### T.7.1.1 Aerodynamic Device A part on the vehicle which guides airflow for purposes including generation of downforce and/or change of drag. Examples include but are not limited to: wings, undertray, splitter, endplates, vanes
+#### T.7.1.1 Aerodynamic Device
+
+A part on the vehicle which guides airflow for purposes including generation of downforce and/or change of drag. Examples include but are not limited to: wings, undertray, splitter, endplates, vanes
 
 #### T.7.1.2 No power device may be used to move or remove air from under the vehicle.  Power ground effects are strictly prohibited.
 
@@ -523,9 +547,13 @@ moving.   Refer to [IN.6.2](in-technical-inspection.md#in62-aerodynamic-devices-
 
 #### T.7.3.1 All Aerodynamic Device limitations are measured: a. With the wheels pointing in the straight ahead position b. Without a driver in the vehicle The intent is to standardize the measurement, see GR.6.4.1
 
-#### T.7.3.2 Head Restraint Plane A transverse vertical plane through the rearmost portion of the front face of the driver head restraint support, excluding any padding, set (if adjustable) in its fully rearward position
+#### T.7.3.2 Head Restraint Plane
 
-#### T.7.3.3 Rear Aerodynamic Zone The volume that is: • Rearward of the Head Restraint Plane • Inboard of two vertical planes parallel to the centerline of the chassis touching the inside of the rear tires at the height of the hub centerline
+A transverse vertical plane through the rearmost portion of the front face of the driver head restraint support, excluding any padding, set (if adjustable) in its fully rearward position
+
+#### T.7.3.3 Rear Aerodynamic Zone
+
+The volume that is: • Rearward of the Head Restraint Plane • Inboard of two vertical planes parallel to the centerline of the chassis touching the inside of the rear tires at the height of the hub centerline
 
 ### T.7.4 Location
 
@@ -598,11 +626,17 @@ Adjustable tie rod ends must be constrained with a jam nut to prevent loosening
 
 ### T.9.1 Definitions
 
-#### T.9.1.1 High Voltage – HV Any voltage more than 60 V DC or 25 V AC RMS
+#### T.9.1.1 High Voltage – HV
 
-#### T.9.1.2 Low Voltage - LV Any voltage less than and including 60 V DC or 25 V AC RMS
+Any voltage more than 60 V DC or 25 V AC RMS
 
-#### T.9.1.3 Normally Open A type of electrical relay or contactor that lets current flow only in the energized state
+#### T.9.1.2 Low Voltage - LV
+
+Any voltage less than and including 60 V DC or 25 V AC RMS
+
+#### T.9.1.3 Normally Open
+
+A type of electrical relay or contactor that lets current flow only in the energized state
 
 ### T.9.2 Low Voltage Batteries
 
@@ -621,9 +655,13 @@ Adjustable tie rod ends must be constrained with a jam nut to prevent loosening
 ### T.9.3 Master Switches
 
 Each Master Switch ( [IC.9.3](ic-internal-combustion-engine-vehicles.md#ic93-primary-master-switch) /  [EV.7.9](ev-electric-vehicles.md#ev79-master-switches) ) must meet:
-#### T.9.3.1 Location a. On the driver’s right hand side of the vehicle b. In proximity to the Main Hoop c. At the driver's shoulder height d. Able to be easily operated from outside the vehicle
+#### T.9.3.1 Location
 
-#### T.9.3.2 Characteristics a. Be of the rotary mechanical type b. Be rigidly mounted to the vehicle and must not be removed during maintenance c. Mounted where the rotary axis of the key is near horizontal and across the vehicle d. The ON position must be in the horizontal position and must be marked accordingly e. The OFF position must be clearly marked f. (EV Only) Operated with a red removable key that must only be removable in the electrically open position
+a. On the driver’s right hand side of the vehicle b. In proximity to the Main Hoop c. At the driver's shoulder height d. Able to be easily operated from outside the vehicle
+
+#### T.9.3.2 Characteristics
+
+a. Be of the rotary mechanical type b. Be rigidly mounted to the vehicle and must not be removed during maintenance c. Mounted where the rotary axis of the key is near horizontal and across the vehicle d. The ON position must be in the horizontal position and must be marked accordingly e. The OFF position must be clearly marked f. (EV Only) Operated with a red removable key that must only be removable in the electrically open position
 
 
 ### T.9.4 Inertia Switch

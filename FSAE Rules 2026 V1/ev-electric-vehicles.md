@@ -242,7 +242,7 @@ poles of the Tractive Battery Pack  [EV.11.3.2](#ev1132-the-msd-ev55-must-be-dis
 
 ### EV.5.7 Voltage Indicator
 
-Each Tractive Battery Pack must have a prominent indicator when High Voltage [T.9.1.1](t-technical-aspects.md#t911-high-voltage-hv-any-voltage-more-than-60-v-dc-or-25-v-ac-rms) is
+Each Tractive Battery Pack must have a prominent indicator when High Voltage [T.9.1.1](t-technical-aspects.md#t911-high-voltage-hv) is
 present at the vehicle side of the IRs
 #### EV.5.7.1 The Voltage Indicator must always function, including when the Tractive Battery Pack is disconnected or removed
 

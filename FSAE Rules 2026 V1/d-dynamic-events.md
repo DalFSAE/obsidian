@@ -12,9 +12,13 @@ Endurance  275 points
 Total       675 points
 ### D.1.2 Definitions
 
-#### D.1.2.1 Dynamic Area – Any designated portion(s) of the competition site where the vehicles may move under their own power.  This includes competition, inspection and practice areas.
+#### D.1.2.1 Dynamic Area –
 
-#### D.1.2.2 Staging Area – Any area(s) inside the Dynamic Area prior to the entry to an event for the purpose of gathering those vehicles that are about to start.
+Any designated portion(s) of the competition site where the vehicles may move under their own power. This includes competition, inspection and practice areas.
+
+#### D.1.2.2 Staging Area –
+
+Any area(s) inside the Dynamic Area prior to the entry to an event for the purpose of gathering those vehicles that are about to start.
 
 ## D.2 Pit And Paddock
 
@@ -193,17 +197,25 @@ C may change from Wet to Dry NO
 
 #### D.8.1.1 DOO - Cone is Down or Out when one or the two: a. Cone has been knocked over (Down) b. The entire base of the cone lies outside the box marked around the cone in its undisturbed position (Out)
 
-#### D.8.1.2 DNF - Did Not Finish – The team tried a run, but did not complete it, or was not permitted to complete it
+#### D.8.1.2 DNF - Did Not Finish –
+
+The team tried a run, but did not complete it, or was not permitted to complete it
 
 #### D.8.1.3 DQ - Disqualified - run(s) or event(s) no longer valid
 
-#### D.8.1.4 Gate - The path between two cones through which the vehicle must pass.  Two cones, one on each side of the course define a gate.  Two sequential cones in a slalom define a gate.
+#### D.8.1.4 Gate -
+
+The path between two cones through which the vehicle must pass. Two cones, one on each side of the course define a gate. Two sequential cones in a slalom define a gate.
 
 #### D.8.1.5 Entry Gate -The path marked by cones which establishes the required path the vehicle must go to enter the course
 
-#### D.8.1.6 Exit Gate - The path marked by cones which establishes the required path the vehicle must go to exit the course
+#### D.8.1.6 Exit Gate -
 
-#### D.8.1.7 OC – Off Course a. The vehicle did not pass through a gate in the required direction. b. The vehicle has all four wheels outside the course boundary as indicated by cones, edge marking or the edge of the paved surface. Where more than one boundary indicator is used on the same course, the narrowest track will be used when determining Off Course penalties.
+The path marked by cones which establishes the required path the vehicle must go to exit the course
+
+#### D.8.1.7 OC – Off Course
+
+a. The vehicle did not pass through a gate in the required direction. b. The vehicle has all four wheels outside the course boundary as indicated by cones, edge marking or the edge of the paved surface. Where more than one boundary indicator is used on the same course, the narrowest track will be used when determining Off Course penalties.
 
 ## D.9 Acceleration Event
 
@@ -254,9 +266,13 @@ constant radius turn.
 
 - Outer circles   21.25 m in diameter
 - Driving path   the 3.0 m wide path between the inner and outer circles
-#### D.10.1.2 Cone Placement a. Sixteen (16) or seventeen (17) pylons will be put around the inside of each inner circle and thirteen (13) pylons will be positioned around the outside of each outer circle in the pattern shown in the Skidpad layout diagram b. Each circle will be marked with a chalk line, inside the inner circle and outside the outer circle The Skidpad layout diagram shows the circles for cone placement, not for course marking. Chalk lines are marked on the opposite side of the cones, outside the driving path c. Additional pylons will establish the entry and exit gates d. A cone may be put in the middle of the exit gate until the finish lap
+#### D.10.1.2 Cone Placement
 
-#### D.10.1.3 Course Operation a. Vehicles will enter and exit through gates on a 3.0 m wide path that is tangential to the circles where they meet. b. The line between the centers of the circles defines the start/stop line. c. A lap is defined as traveling around one of the circles from the start/stop line and returning to the start/stop line.
+a. Sixteen (16) or seventeen (17) pylons will be put around the inside of each inner circle and thirteen (13) pylons will be positioned around the outside of each outer circle in the pattern shown in the Skidpad layout diagram b. Each circle will be marked with a chalk line, inside the inner circle and outside the outer circle The Skidpad layout diagram shows the circles for cone placement, not for course marking. Chalk lines are marked on the opposite side of the cones, outside the driving path c. Additional pylons will establish the entry and exit gates d. A cone may be put in the middle of the exit gate until the finish lap
+
+#### D.10.1.3 Course Operation
+
+a. Vehicles will enter and exit through gates on a 3.0 m wide path that is tangential to the circles where they meet. b. The line between the centers of the circles defines the start/stop line. c. A lap is defined as traveling around one of the circles from the start/stop line and returning to the start/stop line.
 
 
 ### D.10.2 Skidpad Procedure
@@ -286,7 +302,9 @@ intersection moving in the same direction as entered
 
 ### D.10.3 Skidpad Penalties
 
-#### D.10.3.1 Cones (DOO) A 0.125 second penalty for each DOO (including entry and exit gate cones) on that run
+#### D.10.3.1 Cones (DOO)
+
+A 0.125 second penalty for each DOO (including entry and exit gate cones) on that run
 
 #### D.10.3.2 Off Course (OC) DNF for that run.  Vehicles that stall or spin out may continue if they have not gone Off Course.
 
@@ -329,7 +347,9 @@ h. Length of each run should be approximately 0.80 km
 
 #### D.11.3.1 Cones (DOO) Two second penalty for each DOO (including cones after the finish line) on that run
 
-#### D.11.3.2 Off Course (OC) a. When an OC occurs, the driver must reenter the track at or prior to the point of exit or receive a 20 second penalty b. Penalties will not be assessed to bypass an accident or other reasons at the discretion of track officials.
+#### D.11.3.2 Off Course (OC)
+
+a. When an OC occurs, the driver must reenter the track at or prior to the point of exit or receive a 20 second penalty b. Penalties will not be assessed to bypass an accident or other reasons at the discretion of track officials.
 
 #### D.11.3.3 Missed Slalom Missing one or more gates of a given slalom will be counted as one Off Course
 
@@ -440,9 +460,13 @@ c. Tire changes per [D.6.2](#d62-tire-changes-during-endurance)
 
 #### D.12.10.3 The amount of time spent in the Driver Change Area is at the discretion of the officials.
 
-#### D.12.10.4 Driving Black Flag a. May be shown for any reason such as aggressive driving, failing to obey signals, not yielding for passing, not driving inside the designated course, etc. b. Course officials will discuss the situation with the driver c. The time spent in Black Flag or a time penalty may be included in the Endurance Run time. d. If not possible to give a penalty by a stop under a Black Flag, (not enough laps left), or during post event review, officials may add a penalty D.14.2
+#### D.12.10.4 Driving Black Flag
 
-#### D.12.10.5 Mechanical Black Flag a. May be shown for any reason to question the vehicle condition b. Time spent off track is not included in the Endurance Run time.
+a. May be shown for any reason such as aggressive driving, failing to obey signals, not yielding for passing, not driving inside the designated course, etc. b. Course officials will discuss the situation with the driver c. The time spent in Black Flag or a time penalty may be included in the Endurance Run time. d. If not possible to give a penalty by a stop under a Black Flag, (not enough laps left), or during post event review, officials may add a penalty [D.14.2](#d142-post-endurance-penalties)
+
+#### D.12.10.5 Mechanical Black Flag
+
+a. May be shown for any reason to question the vehicle condition b. Time spent off track is not included in the Endurance Run time.
 
 #### D.12.10.6 Based on the inspection or discussion during a Black Flag period, the vehicle may not be permitted to continue the Endurance Run and will be scored DNF
 
@@ -461,7 +485,9 @@ c. Tire changes per [D.6.2](#d62-tire-changes-during-endurance)
 
 #### D.12.12.1 Cones (DOO) Two second penalty for each DOO (including cones after the finish line) on that run
 
-#### D.12.12.2 Off Course (OC) a. When an OC occurs, the driver must reenter the track at or prior to the point of exit or receive a 20 second penalty b. Penalties will not be assessed to bypass an accident or other reasons at the discretion of track officials.
+#### D.12.12.2 Off Course (OC)
+
+a. When an OC occurs, the driver must reenter the track at or prior to the point of exit or receive a 20 second penalty b. Penalties will not be assessed to bypass an accident or other reasons at the discretion of track officials.
 
 #### D.12.12.3 Missed Slalom Missing one or more gates of a given slalom will be counted as one Off Course
 
@@ -469,7 +495,9 @@ c. Tire changes per [D.6.2](#d62-tire-changes-during-endurance)
 
 #### D.12.12.5 Endurance Starting (D.12.4.1) Two minutes (120 seconds) penalty
 
-#### D.12.12.6 Vehicle Operation The Chief Marshall/Director of Operations may end the Endurance event (DNF) a vehicle if, for any reason including driver inexperience or mechanical problems, it is too slow or being driven in a manner that demonstrates an inability to properly control.
+#### D.12.12.6 Vehicle Operation
+
+The Chief Marshall/Director of Operations may end the Endurance event (DNF) a vehicle if, for any reason including driver inexperience or mechanical problems, it is too slow or being driven in a manner that demonstrates an inability to properly control.
 
 ### D.12.13 Endurance Scoring
 
@@ -507,7 +535,9 @@ The Efficiency event evaluates the fuel/energy used to complete the Endurance ev
 #### IC.5.5.1 b. If the fuel level changes after refuelling: • Additional fuel will be added to return the fuel tank level to the fuel level line. • Twice this amount will be added to the previously measured fuel consumption c. If damage or a potential environmental hazard (example - Fuel Tank leakage) exists, the Fuel Tank will not be refilled  D.13.3.4
 
 
-#### D.13.2.6 For Electric Vehicles (EV): a. Energy Meter data must be downloaded to measure energy used and check for Violations EV.3.3 b. Penalties will be applied per EV.3.5 and/or D.13.3.4
+#### D.13.2.6 For Electric Vehicles (EV):
+
+a. Energy Meter data must be downloaded to measure energy used and check for Violations [EV.3.3](ev-electric-vehicles.md#ev33-power-and-voltage) b. Penalties will be applied per [EV.3.5](ev-electric-vehicles.md#ev35-penalties) and/or [D.13.3.4](#d1334-cannot-measure-fuelenergy-used)
 
 ### D.13.3 Efficiency Eligibility
 
@@ -517,11 +547,15 @@ The Efficiency event evaluates the fuel/energy used to complete the Endurance ev
 
 #### D.13.3.3 Partial Completion of Endurance a. Vehicles which cross the start line after Driver Change are eligible for Efficiency points b. Other vehicles get zero points
 
-#### D.13.3.4 Cannot Measure Fuel/Energy Used The vehicle gets zero points
+#### D.13.3.4 Cannot Measure Fuel/Energy Used
+
+The vehicle gets zero points
 
 ### D.13.4 Efficiency Scoring
 
-#### D.13.4.1 Conversion Factors Each fuel or energy used is converted using the factors: a. Gasoline / Petrol  2.31 kg of CO2 per liter b. E85     1.65 kg of CO2 per liter c. Electric     0.65 kg of CO2 per kWh
+#### D.13.4.1 Conversion Factors
+
+Each fuel or energy used is converted using the factors: a. Gasoline / Petrol 2.31 kg of CO2 per liter b. E85 1.65 kg of CO2 per liter c. Electric 0.65 kg of CO2 per kWh
 
 #### D.13.4.2 (EV only) Full credit is given for energy recovered through regenerative braking
 

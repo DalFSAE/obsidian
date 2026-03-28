@@ -87,7 +87,7 @@ Bring these to Initial Inspection / Gear Check:
 - Technical Inspection Form
 - All Driver Equipment per [VE.3](ve-vehicle-and-driver-equipment.md#ve3-driver-equipment) to be used by each driver
 - Fire Extinguishers (for paddock and vehicle)  [VE.2.3](ve-vehicle-and-driver-equipment.md#ve23-fire-extinguisher)
-- Wet Tires  [V.4.3.2](v-vehicle-requirements.md#v432-wet-tires-any-size-or-type-of-treaded-or-grooved-tire-where-the-tread-pattern-or-grooves-were-molded-in-by-the-tire-manufacturer-or-were-cut-by-the-tire-manufacturer-or-appointed-agent-any-grooves-that-have-been-cut-must-have-documented-proof-that-this-rule-was-met-there-is-a-minimum-tread-depth-of-24-mm)
+- Wet Tires  [V.4.3.2](v-vehicle-requirements.md#v432-wet-tires)
 ## IN.5 Tractive Battery Pack And Charger Inspection (EV Only)
 
 ### IN.5.1 Inspection Items
@@ -127,12 +127,12 @@ installed) before Tractive Battery Pack Inspection is fully completed
 ### IN.6.1 Inspection Items
 
 Bring these to Mechanical / Electrical Inspection:
-- Vehicle on the Dry Tires to be used for Dynamic events  [V.4.3.1](v-vehicle-requirements.md#v431-dry-tires-a-the-tires-on-the-vehicle-when-it-is-presented-for-technical-inspection-b-may-be-any-size-or-type-slicks-or-treaded)
+- Vehicle on the Dry Tires to be used for Dynamic events  [V.4.3.1](v-vehicle-requirements.md#v431-dry-tires)
 - Technical Inspection Form
 - Push Bar  [VE.2.2](ve-vehicle-and-driver-equipment.md#ve22-push-bar)
 - Structural Equivalency Spreadsheet (SES) – electronic copy  [F.2.1](ps-pre-competition-submissions.md#f21-see-below-xlsx-tech)
 - Monocoque Laminate Test Specimens (if applicable)  [F.4.2](f-chassis-and-structural.md#f42-laminate-and-material-testing)
-- The Impact Attenuator that was tested (if applicable)  [F.8.8.7](f-chassis-and-structural.md#f887-test-conduct-a-composite-impact-attenuators-must-be-dynamic-tested)
+- The Impact Attenuator that was tested (if applicable)  [F.8.8.7](f-chassis-and-structural.md#f887-test-conduct)
 - Electronic copies of any submitted Rules Questions with the received answer  [GR.7](gr-general-regulations.md#gr7-rules-questions)
 ### IN.6.2 Aerodynamic Devices Stability and Strength
 
@@ -167,7 +167,7 @@ The organizer may measure or tear down engines to confirm conformance to the rul
 The Driver Template Inspection is part of Mechanical Inspection
 ### IN.7.1 Conduct
 
-The Driver Template shown in [F.5.6.5](f-chassis-and-structural.md#f565-driver-template-a-two-dimensional-template-used-to-represent-the-95th-percentile-male-is-made-to-these-dimensions-see-figure-below-a-circle-of-diameter-200-mm-will-represent-the-hips-and-buttocks-a-circle-of-diameter-200-mm-will-represent-the-shouldercervical-region-a-circle-of-diameter-300-mm-will-represent-the-head-with-helmet-a-straight-line-measuring-490-mm-will-connect-the-centers-of-the-two-200-mm-circles-a-straight-line-measuring-280-mm-will-connect-the-centers-of-the-upper-200-mm-circle-and-the-300-mm-head-circle) will be positioned as given in [F.5.6.6](f-chassis-and-structural.md#f566-driver-template-position-the-driver-template-will-be-positioned-as-follows-the-seat-will-be-adjusted-to-the-rearmost-position-the-pedals-will-be-put-in-the-most-forward-position-the-bottom-200-mm-circle-will-be-put-on-the-seat-bottom-where-the-distance-between-the-center-of-this-circle-and-the-rearmost-face-of-the-pedals-is-no-less-than-915-mm-the-middle-200-mm-circle-representing-the-shoulders-will-be-positioned-on-the-seat-back-the-upper-300-mm-circle-will-be-positioned-no-more-than-25-mm-away-from-the-head-restraint-where-the-drivers-helmet-would-normally-be-located-while-driving)
+The Driver Template shown in [F.5.6.5](f-chassis-and-structural.md#f565-driver-template) will be positioned as given in [F.5.6.6](f-chassis-and-structural.md#f566-driver-template-position)
 ### IN.7.2 Driver Template Clearance Criteria
 
 To pass Mechanical Technical Inspection, the Driver Template must meet the clearance
@@ -276,9 +276,13 @@ restrictor, is capable of producing 5 hp per 100 cc or less.
 Submit a Rules Question to request approval of an Industrial Engine.
 ### IN.12.4 Test Speeds
 
-#### IN.12.4.1 Maximum Test Speed The engine speed that corresponds to an average piston speed of: a. Automotive / Motorcycle engines  914.4 m/min (3,000 ft/min) b. Industrial Engines    731.5 m/min (2,400 ft/min) The calculated speed will be rounded to the nearest 500 rpm. Test Speeds for typical engines are published on the Event Website
+#### IN.12.4.1 Maximum Test Speed
 
-#### IN.12.4.2 Idle Test Speed a. Determined by the vehicle’s calibrated idle speed b. If the idle speed varies then the vehicle will be tested across the range of idle speeds determined by the team
+The engine speed that corresponds to an average piston speed of: a. Automotive / Motorcycle engines 914.4 m/min (3,000 ft/min) b. Industrial Engines 731.5 m/min (2,400 ft/min) The calculated speed will be rounded to the nearest 500 rpm. Test Speeds for typical engines are published on the Event Website
+
+#### IN.12.4.2 Idle Test Speed
+
+a. Determined by the vehicle’s calibrated idle speed b. If the idle speed varies then the vehicle will be tested across the range of idle speeds determined by the team
 
 #### IN.12.4.3 The vehicle must be compliant at all engine speeds up to the maximum defined Test Speed.
 
@@ -414,4 +418,6 @@ b. Changes beyond those permitted per [IN.16.2](#in162-after-inspection-approval
 
 #### IN.17.3.1 With Voided Inspection Approval Successful completion of Reinspection will restore Inspection Approval  IN.15.1
 
-#### IN.17.3.2 During Dynamic Events a. Issues found during Reinspection will void Inspection Approval b. Penalties may be applied to the Dynamic Events the vehicle has competed in Applied penalties may include additional time added to event(s), loss of one or more fastest runs, up to Disqualification, subject to official discretion
+#### IN.17.3.2 During Dynamic Events
+
+a. Issues found during Reinspection will void Inspection Approval b. Penalties may be applied to the Dynamic Events the vehicle has competed in Applied penalties may include additional time added to event(s), loss of one or more fastest runs, up to Disqualification, subject to official discretion

@@ -96,17 +96,31 @@ These items must accompany the vehicle at all times:
 ### VE.3.3 Driver Gear
 
 The driver must wear:
-#### VE.3.3.1 Driver Suit A one piece suit, made from a minimum of two layers of Flame Resistant Material that covers the body from the neck to the ankles and the wrists. Each suit must meet one or more of these standards and be labeled as such: • SFI 3.2A/5 (or higher ex:  /10, /15, /20) • SFI 3.4/5 (or higher ex:  /10, /15, /20) • FIA Standard 1986 • FIA Standard 8856-2000 • FIA Standard 8856-2018
+#### VE.3.3.1 Driver Suit
 
-#### VE.3.3.2 Underclothing All competitors should wear fire retardant underwear (long pants and long sleeve shirt) under their approved Driver Suit.
+A one piece suit, made from a minimum of two layers of Flame Resistant Material that covers the body from the neck to the ankles and the wrists. Each suit must meet one or more of these standards and be labeled as such: • SFI 3.2A/5 (or higher ex: /10, /15, /20) • SFI 3.4/5 (or higher ex: /10, /15, /20) • FIA Standard 1986 • FIA Standard 8856-2000 • FIA Standard 8856-2018
 
-#### VE.3.3.3 Balaclava A Balaclava (head sock) which covers the driver’s head, hair and neck, made from Flame Resistant Material
+#### VE.3.3.2 Underclothing
 
-#### VE.3.3.4 Socks Socks made from Flame Resistant Material that cover the bare skin between the driver’s suit and the Shoes.
+All competitors should wear fire retardant underwear (long pants and long sleeve shirt) under their approved Driver Suit.
 
-#### VE.3.3.5 Shoes Shoes or boots made from Flame Resistant Material that meet an approved standard and labeled as such: • SFI Spec 3.3 • FIA Standard 8856-2000 • FIA Standard 8856-2018
+#### VE.3.3.3 Balaclava
 
-#### VE.3.3.6 Gloves Gloves made from Flame Resistant Material. Gloves of all leather construction or fire retardant gloves constructed using leather palms with no insulating Flame Resistant Material underneath are not acceptable.
+A Balaclava (head sock) which covers the driver’s head, hair and neck, made from Flame Resistant Material
 
-#### VE.3.3.7 Arm Restraints a. Arm restraints must be worn in a way that the driver can release them and exit the vehicle unassisted regardless of the vehicle’s position. b. Arm restraints must be commercially manufactured.  Arm restraints certified to SFI Spec 3.3 and labeled as such meet this requirement.
+#### VE.3.3.4 Socks
+
+Socks made from Flame Resistant Material that cover the bare skin between the driver’s suit and the Shoes.
+
+#### VE.3.3.5 Shoes
+
+Shoes or boots made from Flame Resistant Material that meet an approved standard and labeled as such: • SFI Spec 3.3 • FIA Standard 8856-2000 • FIA Standard 8856-2018
+
+#### VE.3.3.6 Gloves
+
+Gloves made from Flame Resistant Material. Gloves of all leather construction or fire retardant gloves constructed using leather palms with no insulating Flame Resistant Material underneath are not acceptable.
+
+#### VE.3.3.7 Arm Restraints
+
+a. Arm restraints must be worn in a way that the driver can release them and exit the vehicle unassisted regardless of the vehicle’s position. b. Arm restraints must be commercially manufactured. Arm restraints certified to SFI Spec 3.3 and labeled as such meet this requirement.
 
