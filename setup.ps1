@@ -21,6 +21,17 @@ $repos = @(
 Write-Host "DalFSAE Setup"
 Write-Host ""
 
+# Helper function. Exits with an error message and waits for a keypress before closing the window.
+function Exit-WithError {
+    param([string]$Message, [int]$Code = 1)
+    Write-Error $Message
+    Write-Host ""
+    Write-Host "Press any key to close..."
+    $null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown")
+    exit $Code
+}
+
+
 # Find git
 # GitHub Desktop ships a bundled git that may not be on PATH.
 $git = Get-Command git -ErrorAction SilentlyContinue
@@ -73,7 +84,8 @@ if (Test-Path $link) {
     Write-Host ".obsidian link already exists, skipping"
 } else {
     if (-not (Test-Path $target)) {
-        Exit-WithError ".obsidian config not found at $target. Is the docs repo cloned correctly?"
+        Write-Error ".obsidian config not found at $target. Is the docs repo cloned correctly?"
+        exit 1
     }
     New-Item -ItemType Junction -Path $link -Target $target | Out-Null
     Write-Host "Linked .obsidian"
@@ -88,13 +100,3 @@ Write-Host "  1. Install Obsidian: https://obsidian.md/download"
 Write-Host "  2. Open Obsidian -> 'Open folder as vault' -> select C:\DalFSAE"
 Write-Host "  3. To work on vehicles CAD, open SolidWorks from $BASE\vehicles\"
 Write-Host ""
-
-function Exit-WithError {
-    param([string]$Message, [int]$Code = 1)
-    Write-Error $Message
-    Write-Host ""
-    Write-Host "Press any key to close..."
-    $null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown")
-    exit $Code
-}
-
