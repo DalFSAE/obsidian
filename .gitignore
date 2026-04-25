@@ -1,3 +1,5 @@
 # obsidian/
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.env
+.obsidian/plugins/obsidian-local-rest-api/data.json
