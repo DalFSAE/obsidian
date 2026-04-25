@@ -2,5 +2,11 @@
   "siteId": "fbd44bd12479f61936519171800db5f4",
   "host": "publish-01.obsidian.md",
   "included": [],
-  "excluded": []
+  "excluded": [
+    "dal-fsae-archive",
+    "DMS-15",
+    "DMS-25-CAD",
+    "DMS-26-CAD",
+    "suspension-simulations"
+  ]
 }
